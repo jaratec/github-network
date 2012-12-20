@@ -1,0 +1,5216 @@
+correlation,from_lang,to_lang,created_at
+79.7,ASP,JavaScript,2012-03-02
+62.8,ASP,C#,2012-03-02
+59.3,ASP,Shell,2012-03-02
+39.7,ASP,Python,2012-03-02
+35.0,ASP,Perl,2012-03-02
+34.2,ASP,C,2012-03-02
+32.9,ASP,PHP,2012-03-02
+32.1,ASP,Ruby,2012-03-02
+29.7,ASP,C++,2012-03-02
+23.5,ASP,Objective-C,2012-03-02
+21.2,ASP,Java,2012-03-02
+20.7,ASP,VimL,2012-03-02
+19.6,ASP,Assembly,2012-03-02
+16.0,ASP,SuperCollider,2012-03-02
+12.4,ASP,Visual Basic,2012-03-02
+7.5,ASP,CoffeeScript,2012-03-02
+7.3,ASP,Rust,2012-03-02
+6.7,ASP,ColdFusion,2012-03-02
+6.2,ASP,Emacs Lisp,2012-03-02
+5.4,ASP,ActionScript,2012-03-02
+5.2,ASP,D,2012-03-02
+3.0,ASP,F#,2012-03-02
+2.9,ASP,Lua,2012-03-02
+2.8,ASP,Haskell,2012-03-02
+2.8,ASP,Boo,2012-03-02
+2.6,ASP,Prolog,2012-03-02
+2.6,ASP,R,2012-03-02
+2.6,ASP,Scheme,2012-03-02
+2.5,ASP,Delphi,2012-03-02
+2.3,ASP,Tcl,2012-03-02
+2.2,ASP,Scala,2012-03-02
+2.2,ASP,Erlang,2012-03-02
+2.1,ASP,Clojure,2012-03-02
+2.1,ASP,Groovy,2012-03-02
+1.9,ASP,OCaml,2012-03-02
+1.9,ASP,Puppet,2012-03-02
+1.9,ASP,Common Lisp,2012-03-02
+1.8,ASP,FORTRAN,2012-03-02
+1.4,ASP,Smalltalk,2012-03-02
+1.1,ASP,Modelica,2012-03-02
+1.1,ASP,HaXe,2012-03-02
+1.0,ASP,VHDL,2012-03-02
+1.0,ASP,Objective-J,2012-03-02
+1.0,ASP,Matlab,2012-03-02
+1.0,ASP,Ada,2012-03-02
+0.9,ASP,Vala,2012-03-02
+0.8,ASP,Go,2012-03-02
+0.8,ASP,Verilog,2012-03-02
+0.7,ASP,Eiffel,2012-03-02
+0.6,ASP,Nemerle,2012-03-02
+0.5,ASP,XQuery,2012-03-02
+0.5,ASP,Nu,2012-03-02
+0.4,ASP,Racket,2012-03-02
+0.4,ASP,AutoHotkey,2012-03-02
+0.3,ASP,Factor,2012-03-02
+0.3,ASP,Dylan,2012-03-02
+0.3,ASP,Io,2012-03-02
+0.3,ASP,Standard ML,2012-03-02
+0.3,ASP,Rebol,2012-03-02
+0.2,ASP,Gosu,2012-03-02
+0.2,ASP,Ioke,2012-03-02
+0.2,ASP,Arduino,2012-03-02
+0.2,ASP,Turing,2012-03-02
+0.2,ASP,ooc,2012-03-02
+0.1,ASP,Pure Data,2012-03-02
+0.1,ASP,Parrot,2012-03-02
+0.1,ASP,Self,2012-03-02
+0.1,ASP,Nimrod,2012-03-02
+0.1,ASP,Mirah,2012-03-02
+80.4,ActionScript,JavaScript,2012-03-02
+55.9,ActionScript,Shell,2012-03-02
+45.9,ActionScript,PHP,2012-03-02
+39.8,ActionScript,Python,2012-03-02
+39.5,ActionScript,Ruby,2012-03-02
+34.0,ActionScript,Java,2012-03-02
+31.9,ActionScript,C,2012-03-02
+25.8,ActionScript,Perl,2012-03-02
+24.8,ActionScript,C++,2012-03-02
+19.3,ActionScript,Objective-C,2012-03-02
+16.0,ActionScript,C#,2012-03-02
+10.3,ActionScript,VimL,2012-03-02
+9.6,ActionScript,Emacs Lisp,2012-03-02
+9.5,ActionScript,Assembly,2012-03-02
+9.1,ActionScript,CoffeeScript,2012-03-02
+7.8,ActionScript,D,2012-03-02
+7.1,ActionScript,Visual Basic,2012-03-02
+6.4,ActionScript,ASP,2012-03-02
+6.0,ActionScript,Delphi,2012-03-02
+5.7,ActionScript,Tcl,2012-03-02
+5.6,ActionScript,Prolog,2012-03-02
+5.1,ActionScript,Rust,2012-03-02
+4.8,ActionScript,Scala,2012-03-02
+4.6,ActionScript,Lua,2012-03-02
+4.3,ActionScript,Erlang,2012-03-02
+4.1,ActionScript,Ada,2012-03-02
+4.1,ActionScript,Haskell,2012-03-02
+3.8,ActionScript,Groovy,2012-03-02
+3.5,ActionScript,Smalltalk,2012-03-02
+3.4,ActionScript,Verilog,2012-03-02
+3.3,ActionScript,Scheme,2012-03-02
+3.2,ActionScript,R,2012-03-02
+2.8,ActionScript,Clojure,2012-03-02
+2.7,ActionScript,HaXe,2012-03-02
+2.7,ActionScript,ColdFusion,2012-03-02
+2.6,ActionScript,OCaml,2012-03-02
+2.2,ActionScript,Common Lisp,2012-03-02
+1.9,ActionScript,FORTRAN,2012-03-02
+1.7,ActionScript,Go,2012-03-02
+1.3,ActionScript,Matlab,2012-03-02
+1.2,ActionScript,XQuery,2012-03-02
+1.1,ActionScript,Modelica,2012-03-02
+1.1,ActionScript,Boo,2012-03-02
+1.1,ActionScript,Objective-J,2012-03-02
+1.0,ActionScript,F#,2012-03-02
+0.8,ActionScript,Vala,2012-03-02
+0.8,ActionScript,VHDL,2012-03-02
+0.7,ActionScript,SuperCollider,2012-03-02
+0.7,ActionScript,Racket,2012-03-02
+0.6,ActionScript,Eiffel,2012-03-02
+0.6,ActionScript,Io,2012-03-02
+0.5,ActionScript,Gosu,2012-03-02
+0.5,ActionScript,Puppet,2012-03-02
+0.4,ActionScript,Factor,2012-03-02
+0.4,ActionScript,Rebol,2012-03-02
+0.4,ActionScript,Nemerle,2012-03-02
+0.4,ActionScript,Nu,2012-03-02
+0.3,ActionScript,Ioke,2012-03-02
+0.3,ActionScript,Arduino,2012-03-02
+0.3,ActionScript,AutoHotkey,2012-03-02
+0.3,ActionScript,Dylan,2012-03-02
+0.3,ActionScript,ooc,2012-03-02
+0.2,ActionScript,Standard ML,2012-03-02
+0.2,ActionScript,Pure Data,2012-03-02
+0.2,ActionScript,Turing,2012-03-02
+0.1,ActionScript,Parrot,2012-03-02
+0.1,ActionScript,Mirah,2012-03-02
+0.1,ActionScript,Nimrod,2012-03-02
+0.1,ActionScript,Arc,2012-03-02
+0.1,ActionScript,Fancy,2012-03-02
+0.1,ActionScript,Self,2012-03-02
+95.5,Ada,C,2012-03-02
+95.5,Ada,Shell,2012-03-02
+93.3,Ada,C++,2012-03-02
+86.4,Ada,Python,2012-03-02
+81.6,Ada,Perl,2012-03-02
+80.2,Ada,Assembly,2012-03-02
+77.9,Ada,JavaScript,2012-03-02
+77.5,Ada,Java,2012-03-02
+75.5,Ada,Delphi,2012-03-02
+74.5,Ada,C#,2012-03-02
+73.9,Ada,Objective-C,2012-03-02
+59.0,Ada,Ruby,2012-03-02
+53.6,Ada,D,2012-03-02
+52.4,Ada,Emacs Lisp,2012-03-02
+46.2,Ada,Tcl,2012-03-02
+44.9,Ada,PHP,2012-03-02
+42.1,Ada,Visual Basic,2012-03-02
+41.3,Ada,Prolog,2012-03-02
+40.6,Ada,Rust,2012-03-02
+33.7,Ada,ActionScript,2012-03-02
+30.4,Ada,Lua,2012-03-02
+27.5,Ada,Verilog,2012-03-02
+21.4,Ada,VimL,2012-03-02
+20.4,Ada,R,2012-03-02
+19.6,Ada,FORTRAN,2012-03-02
+18.8,Ada,Common Lisp,2012-03-02
+18.5,Ada,Haskell,2012-03-02
+17.3,Ada,Scheme,2012-03-02
+16.8,Ada,OCaml,2012-03-02
+14.8,Ada,Scala,2012-03-02
+13.6,Ada,Go,2012-03-02
+13.3,Ada,Smalltalk,2012-03-02
+12.2,Ada,Clojure,2012-03-02
+12.0,Ada,HaXe,2012-03-02
+10.1,Ada,Erlang,2012-03-02
+9.8,Ada,F#,2012-03-02
+9.4,Ada,Racket,2012-03-02
+9.2,Ada,ASP,2012-03-02
+8.9,Ada,Matlab,2012-03-02
+8.3,Ada,SuperCollider,2012-03-02
+7.9,Ada,CoffeeScript,2012-03-02
+6.7,Ada,Eiffel,2012-03-02
+5.9,Ada,Objective-J,2012-03-02
+5.3,Ada,Groovy,2012-03-02
+4.1,Ada,VHDL,2012-03-02
+4.1,Ada,Boo,2012-03-02
+4.1,Ada,Vala,2012-03-02
+3.6,Ada,Nemerle,2012-03-02
+2.8,Ada,Pure Data,2012-03-02
+2.6,Ada,Factor,2012-03-02
+2.5,Ada,ColdFusion,2012-03-02
+2.4,Ada,Dylan,2012-03-02
+2.3,Ada,Rebol,2012-03-02
+2.2,Ada,XQuery,2012-03-02
+2.0,Ada,Turing,2012-03-02
+1.8,Ada,Self,2012-03-02
+1.7,Ada,Modelica,2012-03-02
+1.6,Ada,Standard ML,2012-03-02
+1.1,Ada,Gosu,2012-03-02
+1.1,Ada,Io,2012-03-02
+1.0,Ada,Puppet,2012-03-02
+0.9,Ada,Arc,2012-03-02
+0.8,Ada,Ioke,2012-03-02
+0.8,Ada,Parrot,2012-03-02
+0.6,Ada,AutoHotkey,2012-03-02
+0.6,Ada,Arduino,2012-03-02
+0.4,Ada,Nu,2012-03-02
+0.3,Ada,Fancy,2012-03-02
+0.3,Ada,Nimrod,2012-03-02
+0.3,Ada,ooc,2012-03-02
+0.1,Ada,Fantom,2012-03-02
+0.1,Ada,Mirah,2012-03-02
+0.1,Ada,Opa,2012-03-02
+80.8,Arc,Shell,2012-03-02
+67.3,Arc,C,2012-03-02
+64.4,Arc,Python,2012-03-02
+64.4,Arc,JavaScript,2012-03-02
+58.7,Arc,Perl,2012-03-02
+57.7,Arc,C++,2012-03-02
+55.8,Arc,Scheme,2012-03-02
+53.8,Arc,Ruby,2012-03-02
+43.3,Arc,Java,2012-03-02
+41.3,Arc,Emacs Lisp,2012-03-02
+35.6,Arc,VimL,2012-03-02
+35.6,Arc,PHP,2012-03-02
+26.0,Arc,Objective-C,2012-03-02
+23.1,Arc,C#,2012-03-02
+23.1,Arc,Common Lisp,2012-03-02
+22.1,Arc,Tcl,2012-03-02
+22.1,Arc,Assembly,2012-03-02
+22.1,Arc,Haskell,2012-03-02
+20.2,Arc,Clojure,2012-03-02
+18.3,Arc,D,2012-03-02
+17.3,Arc,Lua,2012-03-02
+16.3,Arc,Prolog,2012-03-02
+16.3,Arc,OCaml,2012-03-02
+15.4,Arc,CoffeeScript,2012-03-02
+14.4,Arc,Scala,2012-03-02
+14.4,Arc,R,2012-03-02
+13.5,Arc,Erlang,2012-03-02
+13.5,Arc,FORTRAN,2012-03-02
+12.5,Arc,Rust,2012-03-02
+12.5,Arc,Go,2012-03-02
+10.6,Arc,Matlab,2012-03-02
+10.6,Arc,Delphi,2012-03-02
+10.6,Arc,Smalltalk,2012-03-02
+10.6,Arc,Io,2012-03-02
+8.7,Arc,Racket,2012-03-02
+8.7,Arc,Ada,2012-03-02
+8.7,Arc,Visual Basic,2012-03-02
+7.7,Arc,Groovy,2012-03-02
+7.7,Arc,Nemerle,2012-03-02
+5.8,Arc,SuperCollider,2012-03-02
+5.8,Arc,ActionScript,2012-03-02
+4.8,Arc,Eiffel,2012-03-02
+4.8,Arc,HaXe,2012-03-02
+4.8,Arc,F#,2012-03-02
+3.8,Arc,Turing,2012-03-02
+3.8,Arc,Standard ML,2012-03-02
+3.8,Arc,ASP,2012-03-02
+3.8,Arc,Gosu,2012-03-02
+3.8,Arc,Factor,2012-03-02
+3.8,Arc,Pure Data,2012-03-02
+2.9,Arc,Verilog,2012-03-02
+2.9,Arc,Objective-J,2012-03-02
+2.9,Arc,Modelica,2012-03-02
+2.9,Arc,Puppet,2012-03-02
+2.9,Arc,Vala,2012-03-02
+2.9,Arc,Nu,2012-03-02
+1.9,Arc,Boo,2012-03-02
+1.9,Arc,ColdFusion,2012-03-02
+1.9,Arc,Mirah,2012-03-02
+1.9,Arc,VHDL,2012-03-02
+1.9,Arc,Rebol,2012-03-02
+1.0,Arc,Dylan,2012-03-02
+1.0,Arc,Fancy,2012-03-02
+1.0,Arc,Parrot,2012-03-02
+1.0,Arc,Ioke,2012-03-02
+1.0,Arc,Fantom,2012-03-02
+1.0,Arc,XQuery,2012-03-02
+1.0,Arc,Opa,2012-03-02
+1.0,Arc,Self,2012-03-02
+1.0,Arc,ooc,2012-03-02
+64.1,Arduino,C++,2012-03-02
+60.4,Arduino,C,2012-03-02
+60.3,Arduino,Java,2012-03-02
+46.1,Arduino,Shell,2012-03-02
+46.0,Arduino,JavaScript,2012-03-02
+42.9,Arduino,Python,2012-03-02
+28.5,Arduino,Ruby,2012-03-02
+28.0,Arduino,PHP,2012-03-02
+25.3,Arduino,Perl,2012-03-02
+19.1,Arduino,Objective-C,2012-03-02
+14.5,Arduino,VimL,2012-03-02
+13.3,Arduino,Assembly,2012-03-02
+12.4,Arduino,CoffeeScript,2012-03-02
+10.8,Arduino,Prolog,2012-03-02
+9.8,Arduino,C#,2012-03-02
+9.1,Arduino,Emacs Lisp,2012-03-02
+8.6,Arduino,Rust,2012-03-02
+7.4,Arduino,Scala,2012-03-02
+7.3,Arduino,Scheme,2012-03-02
+7.0,Arduino,R,2012-03-02
+6.9,Arduino,Matlab,2012-03-02
+6.7,Arduino,SuperCollider,2012-03-02
+6.7,Arduino,D,2012-03-02
+6.4,Arduino,Groovy,2012-03-02
+6.1,Arduino,Delphi,2012-03-02
+5.7,Arduino,OCaml,2012-03-02
+5.3,Arduino,XQuery,2012-03-02
+5.3,Arduino,Racket,2012-03-02
+5.1,Arduino,Standard ML,2012-03-02
+5.1,Arduino,Gosu,2012-03-02
+5.1,Arduino,Nu,2012-03-02
+5.0,Arduino,Nemerle,2012-03-02
+5.0,Arduino,Parrot,2012-03-02
+4.8,Arduino,Turing,2012-03-02
+4.8,Arduino,Ioke,2012-03-02
+4.8,Arduino,Rebol,2012-03-02
+4.8,Arduino,AutoHotkey,2012-03-02
+4.2,Arduino,Tcl,2012-03-02
+3.8,Arduino,Lua,2012-03-02
+3.6,Arduino,ActionScript,2012-03-02
+3.5,Arduino,Erlang,2012-03-02
+3.5,Arduino,Haskell,2012-03-02
+3.2,Arduino,Nimrod,2012-03-02
+2.9,Arduino,Common Lisp,2012-03-02
+2.8,Arduino,ASP,2012-03-02
+2.6,Arduino,Visual Basic,2012-03-02
+2.2,Arduino,Opa,2012-03-02
+1.8,Arduino,FORTRAN,2012-03-02
+1.5,Arduino,Go,2012-03-02
+1.3,Arduino,Clojure,2012-03-02
+1.3,Arduino,Verilog,2012-03-02
+1.2,Arduino,VHDL,2012-03-02
+1.0,Arduino,Modelica,2012-03-02
+1.0,Arduino,Pure Data,2012-03-02
+1.0,Arduino,Smalltalk,2012-03-02
+0.9,Arduino,F#,2012-03-02
+0.9,Arduino,Ada,2012-03-02
+0.6,Arduino,Boo,2012-03-02
+0.6,Arduino,Vala,2012-03-02
+0.6,Arduino,Eiffel,2012-03-02
+0.6,Arduino,Io,2012-03-02
+0.4,Arduino,ColdFusion,2012-03-02
+0.4,Arduino,HaXe,2012-03-02
+0.3,Arduino,Factor,2012-03-02
+0.1,Arduino,Objective-J,2012-03-02
+0.1,Arduino,Puppet,2012-03-02
+0.1,Arduino,Fantom,2012-03-02
+0.1,Arduino,ooc,2012-03-02
+0.1,Arduino,Mirah,2012-03-02
+0.1,Arduino,Self,2012-03-02
+0.1,Arduino,Dylan,2012-03-02
+0.1,Arduino,Fancy,2012-03-02
+96.4,Assembly,C,2012-03-02
+89.6,Assembly,Shell,2012-03-02
+77.4,Assembly,C++,2012-03-02
+74.9,Assembly,Python,2012-03-02
+67.4,Assembly,Perl,2012-03-02
+52.5,Assembly,JavaScript,2012-03-02
+47.3,Assembly,Objective-C,2012-03-02
+43.3,Assembly,Java,2012-03-02
+32.0,Assembly,Ruby,2012-03-02
+31.7,Assembly,VimL,2012-03-02
+26.4,Assembly,Rust,2012-03-02
+26.4,Assembly,PHP,2012-03-02
+24.8,Assembly,Emacs Lisp,2012-03-02
+23.7,Assembly,C#,2012-03-02
+21.7,Assembly,D,2012-03-02
+20.5,Assembly,ASP,2012-03-02
+18.9,Assembly,SuperCollider,2012-03-02
+17.0,Assembly,Prolog,2012-03-02
+14.7,Assembly,Tcl,2012-03-02
+13.3,Assembly,Delphi,2012-03-02
+11.6,Assembly,Visual Basic,2012-03-02
+11.5,Assembly,Lua,2012-03-02
+10.5,Assembly,Scheme,2012-03-02
+10.1,Assembly,R,2012-03-02
+8.7,Assembly,Ada,2012-03-02
+8.4,Assembly,ActionScript,2012-03-02
+7.0,Assembly,Haskell,2012-03-02
+6.8,Assembly,FORTRAN,2012-03-02
+6.8,Assembly,Verilog,2012-03-02
+6.0,Assembly,CoffeeScript,2012-03-02
+5.5,Assembly,Smalltalk,2012-03-02
+5.5,Assembly,OCaml,2012-03-02
+5.4,Assembly,Matlab,2012-03-02
+5.1,Assembly,Erlang,2012-03-02
+4.5,Assembly,Common Lisp,2012-03-02
+4.1,Assembly,Scala,2012-03-02
+3.1,Assembly,Groovy,2012-03-02
+2.8,Assembly,VHDL,2012-03-02
+2.7,Assembly,Clojure,2012-03-02
+2.6,Assembly,HaXe,2012-03-02
+2.6,Assembly,Go,2012-03-02
+2.4,Assembly,Objective-J,2012-03-02
+2.0,Assembly,F#,2012-03-02
+1.9,Assembly,Nemerle,2012-03-02
+1.8,Assembly,Vala,2012-03-02
+1.7,Assembly,Racket,2012-03-02
+1.6,Assembly,Standard ML,2012-03-02
+1.6,Assembly,Boo,2012-03-02
+1.6,Assembly,Eiffel,2012-03-02
+1.3,Assembly,Nu,2012-03-02
+1.3,Assembly,Puppet,2012-03-02
+1.2,Assembly,Rebol,2012-03-02
+1.2,Assembly,XQuery,2012-03-02
+1.2,Assembly,Turing,2012-03-02
+1.0,Assembly,Arduino,2012-03-02
+1.0,Assembly,Parrot,2012-03-02
+0.9,Assembly,Modelica,2012-03-02
+0.9,Assembly,Gosu,2012-03-02
+0.9,Assembly,AutoHotkey,2012-03-02
+0.8,Assembly,Io,2012-03-02
+0.8,Assembly,ColdFusion,2012-03-02
+0.8,Assembly,Ioke,2012-03-02
+0.7,Assembly,Factor,2012-03-02
+0.5,Assembly,Pure Data,2012-03-02
+0.4,Assembly,Dylan,2012-03-02
+0.3,Assembly,Nimrod,2012-03-02
+0.3,Assembly,Self,2012-03-02
+0.3,Assembly,ooc,2012-03-02
+0.3,Assembly,Mirah,2012-03-02
+0.3,Assembly,Arc,2012-03-02
+0.2,Assembly,Opa,2012-03-02
+0.1,Assembly,Fancy,2012-03-02
+72.1,AutoHotkey,Shell,2012-03-02
+68.4,AutoHotkey,JavaScript,2012-03-02
+55.9,AutoHotkey,Python,2012-03-02
+52.6,AutoHotkey,Ruby,2012-03-02
+50.6,AutoHotkey,C,2012-03-02
+49.0,AutoHotkey,VimL,2012-03-02
+44.1,AutoHotkey,C++,2012-03-02
+43.7,AutoHotkey,Perl,2012-03-02
+42.5,AutoHotkey,PHP,2012-03-02
+33.6,AutoHotkey,Emacs Lisp,2012-03-02
+32.0,AutoHotkey,Objective-C,2012-03-02
+31.6,AutoHotkey,Assembly,2012-03-02
+30.4,AutoHotkey,C#,2012-03-02
+29.6,AutoHotkey,Rust,2012-03-02
+28.3,AutoHotkey,CoffeeScript,2012-03-02
+26.3,AutoHotkey,Java,2012-03-02
+26.3,AutoHotkey,Scala,2012-03-02
+26.3,AutoHotkey,Prolog,2012-03-02
+25.9,AutoHotkey,R,2012-03-02
+25.5,AutoHotkey,Scheme,2012-03-02
+25.5,AutoHotkey,OCaml,2012-03-02
+25.5,AutoHotkey,Delphi,2012-03-02
+23.9,AutoHotkey,Ioke,2012-03-02
+23.5,AutoHotkey,XQuery,2012-03-02
+23.1,AutoHotkey,Groovy,2012-03-02
+22.3,AutoHotkey,Nemerle,2012-03-02
+22.3,AutoHotkey,Racket,2012-03-02
+21.9,AutoHotkey,Nu,2012-03-02
+21.1,AutoHotkey,Rebol,2012-03-02
+19.8,AutoHotkey,Matlab,2012-03-02
+19.4,AutoHotkey,Visual Basic,2012-03-02
+19.0,AutoHotkey,Gosu,2012-03-02
+17.8,AutoHotkey,SuperCollider,2012-03-02
+17.8,AutoHotkey,Parrot,2012-03-02
+17.0,AutoHotkey,Standard ML,2012-03-02
+15.8,AutoHotkey,ASP,2012-03-02
+15.8,AutoHotkey,Lua,2012-03-02
+13.4,AutoHotkey,Arduino,2012-03-02
+13.0,AutoHotkey,Turing,2012-03-02
+12.6,AutoHotkey,Haskell,2012-03-02
+11.7,AutoHotkey,Nimrod,2012-03-02
+10.9,AutoHotkey,Erlang,2012-03-02
+10.9,AutoHotkey,D,2012-03-02
+10.9,AutoHotkey,Tcl,2012-03-02
+10.5,AutoHotkey,FORTRAN,2012-03-02
+10.1,AutoHotkey,Common Lisp,2012-03-02
+9.7,AutoHotkey,ActionScript,2012-03-02
+8.9,AutoHotkey,Clojure,2012-03-02
+6.9,AutoHotkey,HaXe,2012-03-02
+6.9,AutoHotkey,Boo,2012-03-02
+6.9,AutoHotkey,ColdFusion,2012-03-02
+6.9,AutoHotkey,Go,2012-03-02
+6.1,AutoHotkey,Objective-J,2012-03-02
+6.1,AutoHotkey,Opa,2012-03-02
+5.3,AutoHotkey,Vala,2012-03-02
+4.9,AutoHotkey,VHDL,2012-03-02
+4.0,AutoHotkey,Modelica,2012-03-02
+3.6,AutoHotkey,Factor,2012-03-02
+3.6,AutoHotkey,Puppet,2012-03-02
+3.6,AutoHotkey,ooc,2012-03-02
+2.8,AutoHotkey,Smalltalk,2012-03-02
+2.4,AutoHotkey,Dylan,2012-03-02
+2.4,AutoHotkey,Ada,2012-03-02
+2.0,AutoHotkey,F#,2012-03-02
+0.8,AutoHotkey,Verilog,2012-03-02
+0.8,AutoHotkey,Self,2012-03-02
+0.8,AutoHotkey,Fancy,2012-03-02
+0.8,AutoHotkey,Eiffel,2012-03-02
+0.4,AutoHotkey,Io,2012-03-02
+0.4,AutoHotkey,Fantom,2012-03-02
+96.5,Boo,C#,2012-03-02
+83.0,Boo,JavaScript,2012-03-02
+82.7,Boo,Shell,2012-03-02
+67.3,Boo,Ruby,2012-03-02
+66.6,Boo,Python,2012-03-02
+61.7,Boo,C++,2012-03-02
+59.3,Boo,C,2012-03-02
+58.4,Boo,ASP,2012-03-02
+52.7,Boo,Perl,2012-03-02
+45.6,Boo,Visual Basic,2012-03-02
+44.0,Boo,Java,2012-03-02
+40.3,Boo,PHP,2012-03-02
+32.3,Boo,Lua,2012-03-02
+31.6,Boo,Assembly,2012-03-02
+30.3,Boo,D,2012-03-02
+30.1,Boo,Delphi,2012-03-02
+29.6,Boo,OCaml,2012-03-02
+29.4,Boo,Haskell,2012-03-02
+29.4,Boo,Objective-C,2012-03-02
+29.2,Boo,Erlang,2012-03-02
+28.5,Boo,Common Lisp,2012-03-02
+28.5,Boo,Scheme,2012-03-02
+27.7,Boo,FORTRAN,2012-03-02
+26.3,Boo,VimL,2012-03-02
+24.3,Boo,R,2012-03-02
+23.9,Boo,Scala,2012-03-02
+19.9,Boo,ColdFusion,2012-03-02
+19.5,Boo,Groovy,2012-03-02
+19.5,Boo,Emacs Lisp,2012-03-02
+19.0,Boo,ActionScript,2012-03-02
+18.1,Boo,Clojure,2012-03-02
+17.5,Boo,CoffeeScript,2012-03-02
+17.0,Boo,Vala,2012-03-02
+17.0,Boo,F#,2012-03-02
+14.6,Boo,Nu,2012-03-02
+14.2,Boo,VHDL,2012-03-02
+13.9,Boo,HaXe,2012-03-02
+13.7,Boo,Smalltalk,2012-03-02
+12.4,Boo,Objective-J,2012-03-02
+12.4,Boo,Tcl,2012-03-02
+10.2,Boo,Prolog,2012-03-02
+9.5,Boo,Rust,2012-03-02
+8.8,Boo,Ada,2012-03-02
+7.7,Boo,Go,2012-03-02
+7.3,Boo,Eiffel,2012-03-02
+6.4,Boo,Factor,2012-03-02
+5.8,Boo,Racket,2012-03-02
+5.1,Boo,Rebol,2012-03-02
+5.1,Boo,Dylan,2012-03-02
+4.9,Boo,XQuery,2012-03-02
+4.4,Boo,Matlab,2012-03-02
+4.2,Boo,Ioke,2012-03-02
+3.8,Boo,ooc,2012-03-02
+3.8,Boo,AutoHotkey,2012-03-02
+3.5,Boo,Nemerle,2012-03-02
+3.5,Boo,SuperCollider,2012-03-02
+3.3,Boo,Puppet,2012-03-02
+2.2,Boo,Verilog,2012-03-02
+1.8,Boo,Nimrod,2012-03-02
+1.8,Boo,Modelica,2012-03-02
+1.3,Boo,Standard ML,2012-03-02
+1.1,Boo,Gosu,2012-03-02
+0.9,Boo,Parrot,2012-03-02
+0.9,Boo,Arduino,2012-03-02
+0.9,Boo,Turing,2012-03-02
+0.4,Boo,Fancy,2012-03-02
+0.4,Boo,Io,2012-03-02
+0.4,Boo,Self,2012-03-02
+0.4,Boo,Arc,2012-03-02
+0.2,Boo,Opa,2012-03-02
+0.2,Boo,Fantom,2012-03-02
+0.2,Boo,Pure Data,2012-03-02
+0.2,Boo,Mirah,2012-03-02
+54.9,C#,JavaScript,2012-03-02
+47.5,C#,Shell,2012-03-02
+35.6,C#,C,2012-03-02
+32.5,C#,Python,2012-03-02
+31.6,C#,Ruby,2012-03-02
+30.8,C#,C++,2012-03-02
+27.5,C#,ASP,2012-03-02
+27.2,C#,Java,2012-03-02
+22.1,C#,PHP,2012-03-02
+22.0,C#,Perl,2012-03-02
+15.3,C#,Objective-C,2012-03-02
+9.9,C#,Visual Basic,2012-03-02
+9.9,C#,Assembly,2012-03-02
+9.3,C#,VimL,2012-03-02
+8.4,C#,Rust,2012-03-02
+8.1,C#,Emacs Lisp,2012-03-02
+7.7,C#,D,2012-03-02
+6.3,C#,CoffeeScript,2012-03-02
+6.0,C#,Delphi,2012-03-02
+5.9,C#,ActionScript,2012-03-02
+5.8,C#,Lua,2012-03-02
+5.1,C#,R,2012-03-02
+5.1,C#,Prolog,2012-03-02
+4.4,C#,Tcl,2012-03-02
+4.4,C#,Haskell,2012-03-02
+3.9,C#,Scala,2012-03-02
+3.6,C#,Erlang,2012-03-02
+3.4,C#,Ada,2012-03-02
+3.2,C#,Clojure,2012-03-02
+3.2,C#,F#,2012-03-02
+3.0,C#,Scheme,2012-03-02
+3.0,C#,OCaml,2012-03-02
+2.8,C#,Groovy,2012-03-02
+2.7,C#,Common Lisp,2012-03-02
+2.2,C#,Go,2012-03-02
+2.1,C#,FORTRAN,2012-03-02
+2.0,C#,Boo,2012-03-02
+2.0,C#,Smalltalk,2012-03-02
+1.8,C#,Verilog,2012-03-02
+1.5,C#,Matlab,2012-03-02
+1.5,C#,SuperCollider,2012-03-02
+1.0,C#,HaXe,2012-03-02
+1.0,C#,Puppet,2012-03-02
+1.0,C#,ColdFusion,2012-03-02
+0.8,C#,Vala,2012-03-02
+0.8,C#,Racket,2012-03-02
+0.8,C#,Objective-J,2012-03-02
+0.7,C#,VHDL,2012-03-02
+0.5,C#,Eiffel,2012-03-02
+0.5,C#,Modelica,2012-03-02
+0.5,C#,Nemerle,2012-03-02
+0.4,C#,XQuery,2012-03-02
+0.4,C#,Nu,2012-03-02
+0.3,C#,AutoHotkey,2012-03-02
+0.3,C#,Io,2012-03-02
+0.3,C#,Arduino,2012-03-02
+0.3,C#,Standard ML,2012-03-02
+0.3,C#,Turing,2012-03-02
+0.2,C#,Gosu,2012-03-02
+0.2,C#,Factor,2012-03-02
+0.2,C#,Rebol,2012-03-02
+0.2,C#,Parrot,2012-03-02
+0.2,C#,Pure Data,2012-03-02
+0.2,C#,Ioke,2012-03-02
+0.2,C#,ooc,2012-03-02
+0.1,C#,Self,2012-03-02
+0.1,C#,Arc,2012-03-02
+0.1,C#,Dylan,2012-03-02
+0.1,C#,Mirah,2012-03-02
+0.1,C#,Nimrod,2012-03-02
+83.0,C++,C,2012-03-02
+65.2,C++,Shell,2012-03-02
+52.3,C++,Python,2012-03-02
+44.3,C++,JavaScript,2012-03-02
+33.3,C++,Java,2012-03-02
+33.1,C++,Perl,2012-03-02
+28.2,C++,Ruby,2012-03-02
+25.3,C++,Objective-C,2012-03-02
+22.3,C++,PHP,2012-03-02
+15.7,C++,Assembly,2012-03-02
+15.1,C++,VimL,2012-03-02
+14.9,C++,C#,2012-03-02
+11.3,C++,Rust,2012-03-02
+11.2,C++,Prolog,2012-03-02
+10.9,C++,Emacs Lisp,2012-03-02
+9.5,C++,D,2012-03-02
+7.3,C++,Lua,2012-03-02
+6.3,C++,ASP,2012-03-02
+5.9,C++,CoffeeScript,2012-03-02
+5.6,C++,R,2012-03-02
+5.2,C++,Visual Basic,2012-03-02
+5.1,C++,Haskell,2012-03-02
+4.9,C++,Tcl,2012-03-02
+4.5,C++,Scheme,2012-03-02
+4.4,C++,ActionScript,2012-03-02
+4.3,C++,SuperCollider,2012-03-02
+3.8,C++,Delphi,2012-03-02
+3.7,C++,Scala,2012-03-02
+3.6,C++,Erlang,2012-03-02
+3.3,C++,Matlab,2012-03-02
+3.1,C++,FORTRAN,2012-03-02
+2.9,C++,Common Lisp,2012-03-02
+2.6,C++,Clojure,2012-03-02
+2.4,C++,OCaml,2012-03-02
+2.1,C++,Go,2012-03-02
+2.0,C++,Ada,2012-03-02
+1.9,C++,Groovy,2012-03-02
+1.8,C++,Smalltalk,2012-03-02
+1.7,C++,Verilog,2012-03-02
+1.4,C++,F#,2012-03-02
+1.0,C++,Arduino,2012-03-02
+0.9,C++,HaXe,2012-03-02
+0.8,C++,VHDL,2012-03-02
+0.7,C++,Objective-J,2012-03-02
+0.7,C++,Racket,2012-03-02
+0.7,C++,Vala,2012-03-02
+0.6,C++,Boo,2012-03-02
+0.6,C++,Modelica,2012-03-02
+0.5,C++,ColdFusion,2012-03-02
+0.5,C++,Eiffel,2012-03-02
+0.5,C++,Nemerle,2012-03-02
+0.5,C++,Puppet,2012-03-02
+0.4,C++,Io,2012-03-02
+0.4,C++,Pure Data,2012-03-02
+0.4,C++,Standard ML,2012-03-02
+0.4,C++,XQuery,2012-03-02
+0.4,C++,Nu,2012-03-02
+0.3,C++,Turing,2012-03-02
+0.3,C++,Gosu,2012-03-02
+0.3,C++,Rebol,2012-03-02
+0.2,C++,Parrot,2012-03-02
+0.2,C++,AutoHotkey,2012-03-02
+0.2,C++,Self,2012-03-02
+0.2,C++,Ioke,2012-03-02
+0.2,C++,Factor,2012-03-02
+0.2,C++,ooc,2012-03-02
+0.1,C++,Arc,2012-03-02
+0.1,C++,Mirah,2012-03-02
+0.1,C++,Nimrod,2012-03-02
+0.1,C++,Dylan,2012-03-02
+63.5,C,Shell,2012-03-02
+54.6,C,C++,2012-03-02
+48.7,C,Python,2012-03-02
+45.5,C,JavaScript,2012-03-02
+31.8,C,Ruby,2012-03-02
+29.6,C,Perl,2012-03-02
+29.4,C,Java,2012-03-02
+27.6,C,Objective-C,2012-03-02
+22.0,C,PHP,2012-03-02
+15.2,C,VimL,2012-03-02
+12.9,C,Assembly,2012-03-02
+11.3,C,C#,2012-03-02
+9.9,C,Emacs Lisp,2012-03-02
+8.0,C,Rust,2012-03-02
+7.5,C,D,2012-03-02
+6.8,C,Prolog,2012-03-02
+6.2,C,CoffeeScript,2012-03-02
+6.0,C,Lua,2012-03-02
+4.8,C,Haskell,2012-03-02
+4.8,C,ASP,2012-03-02
+4.2,C,R,2012-03-02
+4.1,C,Visual Basic,2012-03-02
+4.0,C,Tcl,2012-03-02
+3.9,C,Scheme,2012-03-02
+3.7,C,ActionScript,2012-03-02
+3.3,C,Erlang,2012-03-02
+3.3,C,Scala,2012-03-02
+2.9,C,SuperCollider,2012-03-02
+2.7,C,Delphi,2012-03-02
+2.4,C,Common Lisp,2012-03-02
+2.4,C,Matlab,2012-03-02
+2.4,C,Clojure,2012-03-02
+2.4,C,FORTRAN,2012-03-02
+2.0,C,OCaml,2012-03-02
+1.9,C,Groovy,2012-03-02
+1.8,C,Go,2012-03-02
+1.4,C,Ada,2012-03-02
+1.4,C,Smalltalk,2012-03-02
+1.3,C,Verilog,2012-03-02
+0.9,C,F#,2012-03-02
+0.7,C,VHDL,2012-03-02
+0.7,C,Modelica,2012-03-02
+0.7,C,Objective-J,2012-03-02
+0.6,C,HaXe,2012-03-02
+0.6,C,Arduino,2012-03-02
+0.6,C,Vala,2012-03-02
+0.6,C,Puppet,2012-03-02
+0.6,C,Racket,2012-03-02
+0.4,C,ColdFusion,2012-03-02
+0.4,C,Io,2012-03-02
+0.4,C,Eiffel,2012-03-02
+0.4,C,Boo,2012-03-02
+0.4,C,Nemerle,2012-03-02
+0.4,C,Standard ML,2012-03-02
+0.4,C,Nu,2012-03-02
+0.3,C,Pure Data,2012-03-02
+0.3,C,XQuery,2012-03-02
+0.3,C,Turing,2012-03-02
+0.3,C,Parrot,2012-03-02
+0.3,C,Gosu,2012-03-02
+0.2,C,Rebol,2012-03-02
+0.2,C,AutoHotkey,2012-03-02
+0.1,C,Self,2012-03-02
+0.1,C,Ioke,2012-03-02
+0.1,C,Factor,2012-03-02
+0.1,C,ooc,2012-03-02
+0.1,C,Arc,2012-03-02
+0.1,C,Mirah,2012-03-02
+66.9,Clojure,Shell,2012-03-02
+66.2,Clojure,JavaScript,2012-03-02
+59.3,Clojure,Java,2012-03-02
+57.5,Clojure,Ruby,2012-03-02
+51.6,Clojure,Python,2012-03-02
+41.6,Clojure,C,2012-03-02
+30.2,Clojure,C++,2012-03-02
+27.6,Clojure,Perl,2012-03-02
+26.8,Clojure,Emacs Lisp,2012-03-02
+26.0,Clojure,PHP,2012-03-02
+22.9,Clojure,Scala,2012-03-02
+21.0,Clojure,VimL,2012-03-02
+19.5,Clojure,Objective-C,2012-03-02
+17.9,Clojure,C#,2012-03-02
+17.6,Clojure,Haskell,2012-03-02
+16.7,Clojure,CoffeeScript,2012-03-02
+15.1,Clojure,Common Lisp,2012-03-02
+13.6,Clojure,Groovy,2012-03-02
+13.0,Clojure,Scheme,2012-03-02
+12.0,Clojure,Erlang,2012-03-02
+11.6,Clojure,Lua,2012-03-02
+7.9,Clojure,Go,2012-03-02
+7.7,Clojure,OCaml,2012-03-02
+7.2,Clojure,Visual Basic,2012-03-02
+6.6,Clojure,D,2012-03-02
+6.3,Clojure,Assembly,2012-03-02
+5.8,Clojure,R,2012-03-02
+5.7,Clojure,Delphi,2012-03-02
+5.7,Clojure,ActionScript,2012-03-02
+5.2,Clojure,ASP,2012-03-02
+4.9,Clojure,Tcl,2012-03-02
+4.7,Clojure,Prolog,2012-03-02
+4.0,Clojure,FORTRAN,2012-03-02
+3.5,Clojure,Smalltalk,2012-03-02
+3.4,Clojure,Racket,2012-03-02
+3.4,Clojure,HaXe,2012-03-02
+3.2,Clojure,F#,2012-03-02
+3.1,Clojure,Ada,2012-03-02
+2.7,Clojure,Rust,2012-03-02
+2.4,Clojure,Matlab,2012-03-02
+2.4,Clojure,ColdFusion,2012-03-02
+2.1,Clojure,Boo,2012-03-02
+2.1,Clojure,Io,2012-03-02
+2.1,Clojure,Objective-J,2012-03-02
+2.0,Clojure,Ioke,2012-03-02
+1.5,Clojure,Vala,2012-03-02
+1.4,Clojure,VHDL,2012-03-02
+1.1,Clojure,XQuery,2012-03-02
+1.1,Clojure,Factor,2012-03-02
+1.1,Clojure,Nu,2012-03-02
+1.0,Clojure,Gosu,2012-03-02
+0.9,Clojure,Fancy,2012-03-02
+0.9,Clojure,Eiffel,2012-03-02
+0.9,Clojure,Puppet,2012-03-02
+0.8,Clojure,Rebol,2012-03-02
+0.7,Clojure,SuperCollider,2012-03-02
+0.6,Clojure,Nemerle,2012-03-02
+0.6,Clojure,Dylan,2012-03-02
+0.6,Clojure,Mirah,2012-03-02
+0.6,Clojure,AutoHotkey,2012-03-02
+0.6,Clojure,ooc,2012-03-02
+0.5,Clojure,Arc,2012-03-02
+0.5,Clojure,Verilog,2012-03-02
+0.4,Clojure,Standard ML,2012-03-02
+0.3,Clojure,Turing,2012-03-02
+0.3,Clojure,Parrot,2012-03-02
+0.2,Clojure,Arduino,2012-03-02
+0.2,Clojure,Pure Data,2012-03-02
+0.2,Clojure,Nimrod,2012-03-02
+0.2,Clojure,Modelica,2012-03-02
+0.1,Clojure,Self,2012-03-02
+0.1,Clojure,Fantom,2012-03-02
+0.1,Clojure,Max/MSP,2012-03-02
+98.0,CoffeeScript,JavaScript,2012-03-02
+87.9,CoffeeScript,Ruby,2012-03-02
+41.6,CoffeeScript,Shell,2012-03-02
+25.5,CoffeeScript,Python,2012-03-02
+22.6,CoffeeScript,PHP,2012-03-02
+22.4,CoffeeScript,C,2012-03-02
+19.0,CoffeeScript,Java,2012-03-02
+15.0,CoffeeScript,VimL,2012-03-02
+14.0,CoffeeScript,C++,2012-03-02
+12.4,CoffeeScript,Perl,2012-03-02
+10.1,CoffeeScript,Objective-C,2012-03-02
+7.1,CoffeeScript,C#,2012-03-02
+5.7,CoffeeScript,Emacs Lisp,2012-03-02
+4.4,CoffeeScript,Scala,2012-03-02
+3.8,CoffeeScript,ActionScript,2012-03-02
+3.7,CoffeeScript,ASP,2012-03-02
+3.4,CoffeeScript,Clojure,2012-03-02
+3.1,CoffeeScript,Haskell,2012-03-02
+3.0,CoffeeScript,Scheme,2012-03-02
+3.0,CoffeeScript,Lua,2012-03-02
+2.9,CoffeeScript,D,2012-03-02
+2.9,CoffeeScript,Groovy,2012-03-02
+2.9,CoffeeScript,Assembly,2012-03-02
+2.6,CoffeeScript,Erlang,2012-03-02
+2.2,CoffeeScript,Prolog,2012-03-02
+2.2,CoffeeScript,Visual Basic,2012-03-02
+2.0,CoffeeScript,R,2012-03-02
+1.8,CoffeeScript,Rust,2012-03-02
+1.6,CoffeeScript,Go,2012-03-02
+1.6,CoffeeScript,Tcl,2012-03-02
+1.6,CoffeeScript,OCaml,2012-03-02
+1.5,CoffeeScript,Common Lisp,2012-03-02
+1.2,CoffeeScript,Delphi,2012-03-02
+0.9,CoffeeScript,Matlab,2012-03-02
+0.9,CoffeeScript,ColdFusion,2012-03-02
+0.8,CoffeeScript,Racket,2012-03-02
+0.7,CoffeeScript,F#,2012-03-02
+0.6,CoffeeScript,FORTRAN,2012-03-02
+0.6,CoffeeScript,HaXe,2012-03-02
+0.6,CoffeeScript,Smalltalk,2012-03-02
+0.5,CoffeeScript,Io,2012-03-02
+0.5,CoffeeScript,Objective-J,2012-03-02
+0.5,CoffeeScript,Puppet,2012-03-02
+0.5,CoffeeScript,Nu,2012-03-02
+0.5,CoffeeScript,XQuery,2012-03-02
+0.5,CoffeeScript,Gosu,2012-03-02
+0.4,CoffeeScript,Arduino,2012-03-02
+0.4,CoffeeScript,Rebol,2012-03-02
+0.4,CoffeeScript,Boo,2012-03-02
+0.4,CoffeeScript,Modelica,2012-03-02
+0.4,CoffeeScript,Ada,2012-03-02
+0.4,CoffeeScript,SuperCollider,2012-03-02
+0.4,CoffeeScript,Ioke,2012-03-02
+0.4,CoffeeScript,Nemerle,2012-03-02
+0.4,CoffeeScript,AutoHotkey,2012-03-02
+0.3,CoffeeScript,Parrot,2012-03-02
+0.3,CoffeeScript,Vala,2012-03-02
+0.3,CoffeeScript,Standard ML,2012-03-02
+0.2,CoffeeScript,VHDL,2012-03-02
+0.2,CoffeeScript,Turing,2012-03-02
+0.2,CoffeeScript,Factor,2012-03-02
+0.2,CoffeeScript,Verilog,2012-03-02
+0.2,CoffeeScript,Nimrod,2012-03-02
+0.2,CoffeeScript,ooc,2012-03-02
+0.1,CoffeeScript,Eiffel,2012-03-02
+0.1,CoffeeScript,Pure Data,2012-03-02
+0.1,CoffeeScript,Mirah,2012-03-02
+0.1,CoffeeScript,Dylan,2012-03-02
+0.1,CoffeeScript,Arc,2012-03-02
+0.1,CoffeeScript,Opa,2012-03-02
+89.6,ColdFusion,JavaScript,2012-03-02
+73.8,ColdFusion,PHP,2012-03-02
+61.1,ColdFusion,Perl,2012-03-02
+54.8,ColdFusion,Python,2012-03-02
+52.6,ColdFusion,Shell,2012-03-02
+45.9,ColdFusion,ASP,2012-03-02
+39.1,ColdFusion,Ruby,2012-03-02
+37.9,ColdFusion,Java,2012-03-02
+21.0,ColdFusion,C,2012-03-02
+17.7,ColdFusion,C++,2012-03-02
+15.3,ColdFusion,ActionScript,2012-03-02
+15.3,ColdFusion,C#,2012-03-02
+12.8,ColdFusion,Objective-C,2012-03-02
+12.3,ColdFusion,CoffeeScript,2012-03-02
+10.4,ColdFusion,Lua,2012-03-02
+9.6,ColdFusion,VimL,2012-03-02
+9.3,ColdFusion,OCaml,2012-03-02
+8.7,ColdFusion,Groovy,2012-03-02
+8.0,ColdFusion,Visual Basic,2012-03-02
+8.0,ColdFusion,Scala,2012-03-02
+7.5,ColdFusion,D,2012-03-02
+7.4,ColdFusion,Haskell,2012-03-02
+7.3,ColdFusion,Delphi,2012-03-02
+7.2,ColdFusion,Erlang,2012-03-02
+7.1,ColdFusion,Scheme,2012-03-02
+6.8,ColdFusion,Common Lisp,2012-03-02
+6.7,ColdFusion,Clojure,2012-03-02
+6.5,ColdFusion,Boo,2012-03-02
+6.3,ColdFusion,FORTRAN,2012-03-02
+5.4,ColdFusion,Assembly,2012-03-02
+5.0,ColdFusion,HaXe,2012-03-02
+4.9,ColdFusion,R,2012-03-02
+4.6,ColdFusion,Nu,2012-03-02
+3.6,ColdFusion,Emacs Lisp,2012-03-02
+3.3,ColdFusion,Smalltalk,2012-03-02
+3.1,ColdFusion,Vala,2012-03-02
+3.1,ColdFusion,Prolog,2012-03-02
+2.9,ColdFusion,VHDL,2012-03-02
+2.6,ColdFusion,Rust,2012-03-02
+2.3,ColdFusion,Objective-J,2012-03-02
+2.3,ColdFusion,Go,2012-03-02
+2.2,ColdFusion,Tcl,2012-03-02
+1.8,ColdFusion,XQuery,2012-03-02
+1.7,ColdFusion,Modelica,2012-03-02
+1.7,ColdFusion,Ada,2012-03-02
+1.3,ColdFusion,Ioke,2012-03-02
+1.2,ColdFusion,AutoHotkey,2012-03-02
+1.2,ColdFusion,ooc,2012-03-02
+1.2,ColdFusion,Nemerle,2012-03-02
+1.1,ColdFusion,Racket,2012-03-02
+1.0,ColdFusion,Factor,2012-03-02
+0.9,ColdFusion,Verilog,2012-03-02
+0.9,ColdFusion,Rebol,2012-03-02
+0.7,ColdFusion,Matlab,2012-03-02
+0.7,ColdFusion,Puppet,2012-03-02
+0.7,ColdFusion,Dylan,2012-03-02
+0.7,ColdFusion,Eiffel,2012-03-02
+0.5,ColdFusion,Nimrod,2012-03-02
+0.5,ColdFusion,Gosu,2012-03-02
+0.4,ColdFusion,F#,2012-03-02
+0.4,ColdFusion,Io,2012-03-02
+0.3,ColdFusion,Standard ML,2012-03-02
+0.2,ColdFusion,Arduino,2012-03-02
+0.2,ColdFusion,SuperCollider,2012-03-02
+0.1,ColdFusion,Self,2012-03-02
+0.1,ColdFusion,Fancy,2012-03-02
+0.1,ColdFusion,Mirah,2012-03-02
+0.1,ColdFusion,Pure Data,2012-03-02
+0.1,ColdFusion,Arc,2012-03-02
+0.1,ColdFusion,Parrot,2012-03-02
+0.1,ColdFusion,Turing,2012-03-02
+0.1,ColdFusion,Fantom,2012-03-02
+75.2,Common Lisp,Shell,2012-03-02
+67.8,Common Lisp,C,2012-03-02
+62.7,Common Lisp,Python,2012-03-02
+58.7,Common Lisp,JavaScript,2012-03-02
+52.0,Common Lisp,C++,2012-03-02
+50.1,Common Lisp,Ruby,2012-03-02
+48.8,Common Lisp,Java,2012-03-02
+45.5,Common Lisp,Perl,2012-03-02
+38.1,Common Lisp,Emacs Lisp,2012-03-02
+35.0,Common Lisp,PHP,2012-03-02
+28.0,Common Lisp,Scheme,2012-03-02
+24.7,Common Lisp,Haskell,2012-03-02
+24.0,Common Lisp,Clojure,2012-03-02
+23.9,Common Lisp,VimL,2012-03-02
+23.8,Common Lisp,Objective-C,2012-03-02
+23.6,Common Lisp,C#,2012-03-02
+21.1,Common Lisp,Lua,2012-03-02
+16.7,Common Lisp,Assembly,2012-03-02
+16.5,Common Lisp,Scala,2012-03-02
+15.5,Common Lisp,Erlang,2012-03-02
+14.6,Common Lisp,D,2012-03-02
+13.4,Common Lisp,OCaml,2012-03-02
+11.5,Common Lisp,CoffeeScript,2012-03-02
+11.4,Common Lisp,Visual Basic,2012-03-02
+11.3,Common Lisp,R,2012-03-02
+11.1,Common Lisp,Go,2012-03-02
+11.1,Common Lisp,Delphi,2012-03-02
+10.7,Common Lisp,Tcl,2012-03-02
+10.6,Common Lisp,FORTRAN,2012-03-02
+9.7,Common Lisp,Prolog,2012-03-02
+7.5,Common Lisp,Ada,2012-03-02
+7.4,Common Lisp,Rust,2012-03-02
+7.2,Common Lisp,ActionScript,2012-03-02
+7.2,Common Lisp,ASP,2012-03-02
+6.5,Common Lisp,Racket,2012-03-02
+6.5,Common Lisp,Smalltalk,2012-03-02
+6.2,Common Lisp,Groovy,2012-03-02
+5.3,Common Lisp,HaXe,2012-03-02
+5.3,Common Lisp,Matlab,2012-03-02
+5.3,Common Lisp,Boo,2012-03-02
+5.2,Common Lisp,F#,2012-03-02
+4.5,Common Lisp,Vala,2012-03-02
+3.9,Common Lisp,VHDL,2012-03-02
+3.8,Common Lisp,ColdFusion,2012-03-02
+3.1,Common Lisp,Nu,2012-03-02
+2.9,Common Lisp,Objective-J,2012-03-02
+2.7,Common Lisp,Eiffel,2012-03-02
+2.5,Common Lisp,SuperCollider,2012-03-02
+2.1,Common Lisp,Verilog,2012-03-02
+1.9,Common Lisp,Rebol,2012-03-02
+1.6,Common Lisp,Factor,2012-03-02
+1.6,Common Lisp,Standard ML,2012-03-02
+1.4,Common Lisp,ooc,2012-03-02
+1.4,Common Lisp,XQuery,2012-03-02
+1.3,Common Lisp,Dylan,2012-03-02
+1.3,Common Lisp,Io,2012-03-02
+1.3,Common Lisp,Nemerle,2012-03-02
+1.0,Common Lisp,AutoHotkey,2012-03-02
+1.0,Common Lisp,Parrot,2012-03-02
+1.0,Common Lisp,Arc,2012-03-02
+0.9,Common Lisp,Ioke,2012-03-02
+0.8,Common Lisp,Puppet,2012-03-02
+0.8,Common Lisp,Arduino,2012-03-02
+0.6,Common Lisp,Self,2012-03-02
+0.6,Common Lisp,Pure Data,2012-03-02
+0.6,Common Lisp,Gosu,2012-03-02
+0.5,Common Lisp,Modelica,2012-03-02
+0.4,Common Lisp,Turing,2012-03-02
+0.4,Common Lisp,Nimrod,2012-03-02
+0.2,Common Lisp,Fancy,2012-03-02
+0.2,Common Lisp,Mirah,2012-03-02
+87.8,D,C,2012-03-02
+86.3,D,Shell,2012-03-02
+73.3,D,C++,2012-03-02
+72.5,D,Python,2012-03-02
+63.2,D,JavaScript,2012-03-02
+59.4,D,Perl,2012-03-02
+43.6,D,Ruby,2012-03-02
+41.8,D,PHP,2012-03-02
+41.3,D,Java,2012-03-02
+34.0,D,Assembly,2012-03-02
+33.0,D,Objective-C,2012-03-02
+28.6,D,C#,2012-03-02
+23.1,D,Emacs Lisp,2012-03-02
+21.4,D,R,2012-03-02
+20.6,D,Rust,2012-03-02
+18.8,D,VimL,2012-03-02
+15.2,D,Prolog,2012-03-02
+13.3,D,Visual Basic,2012-03-02
+13.2,D,Tcl,2012-03-02
+13.2,D,Delphi,2012-03-02
+12.5,D,Lua,2012-03-02
+10.8,D,ActionScript,2012-03-02
+10.7,D,Scheme,2012-03-02
+9.7,D,CoffeeScript,2012-03-02
+9.1,D,Ada,2012-03-02
+8.5,D,ASP,2012-03-02
+7.6,D,Haskell,2012-03-02
+7.1,D,OCaml,2012-03-02
+7.0,D,FORTRAN,2012-03-02
+6.3,D,Erlang,2012-03-02
+6.2,D,Common Lisp,2012-03-02
+5.9,D,Verilog,2012-03-02
+5.7,D,Scala,2012-03-02
+5.2,D,SuperCollider,2012-03-02
+4.5,D,Matlab,2012-03-02
+4.4,D,Clojure,2012-03-02
+4.2,D,Go,2012-03-02
+3.5,D,Groovy,2012-03-02
+3.5,D,Smalltalk,2012-03-02
+2.8,D,Vala,2012-03-02
+2.4,D,VHDL,2012-03-02
+2.4,D,Boo,2012-03-02
+2.2,D,HaXe,2012-03-02
+2.2,D,F#,2012-03-02
+2.0,D,Objective-J,2012-03-02
+1.8,D,ColdFusion,2012-03-02
+1.8,D,Nemerle,2012-03-02
+1.7,D,Eiffel,2012-03-02
+1.6,D,Puppet,2012-03-02
+1.4,D,Self,2012-03-02
+1.3,D,Modelica,2012-03-02
+1.2,D,Nu,2012-03-02
+1.1,D,Standard ML,2012-03-02
+1.0,D,Racket,2012-03-02
+1.0,D,Io,2012-03-02
+0.9,D,Pure Data,2012-03-02
+0.9,D,Turing,2012-03-02
+0.8,D,XQuery,2012-03-02
+0.8,D,Arduino,2012-03-02
+0.7,D,Rebol,2012-03-02
+0.7,D,Factor,2012-03-02
+0.5,D,AutoHotkey,2012-03-02
+0.5,D,Ioke,2012-03-02
+0.4,D,ooc,2012-03-02
+0.4,D,Gosu,2012-03-02
+0.4,D,Dylan,2012-03-02
+0.3,D,Arc,2012-03-02
+0.3,D,Parrot,2012-03-02
+0.2,D,Nimrod,2012-03-02
+0.1,D,Fancy,2012-03-02
+0.1,D,Mirah,2012-03-02
+0.1,D,Opa,2012-03-02
+84.7,Delphi,Shell,2012-03-02
+83.1,Delphi,C,2012-03-02
+76.9,Delphi,C++,2012-03-02
+73.0,Delphi,Python,2012-03-02
+68.9,Delphi,JavaScript,2012-03-02
+63.2,Delphi,Java,2012-03-02
+63.2,Delphi,Perl,2012-03-02
+58.9,Delphi,C#,2012-03-02
+54.9,Delphi,Assembly,2012-03-02
+52.8,Delphi,Ruby,2012-03-02
+51.7,Delphi,Objective-C,2012-03-02
+49.2,Delphi,PHP,2012-03-02
+34.9,Delphi,D,2012-03-02
+33.8,Delphi,Ada,2012-03-02
+33.6,Delphi,Emacs Lisp,2012-03-02
+33.4,Delphi,Visual Basic,2012-03-02
+30.7,Delphi,Rust,2012-03-02
+28.9,Delphi,Prolog,2012-03-02
+27.2,Delphi,Tcl,2012-03-02
+22.5,Delphi,Lua,2012-03-02
+21.9,Delphi,ActionScript,2012-03-02
+20.6,Delphi,VimL,2012-03-02
+16.7,Delphi,R,2012-03-02
+16.6,Delphi,Haskell,2012-03-02
+16.1,Delphi,Scheme,2012-03-02
+16.0,Delphi,Erlang,2012-03-02
+15.6,Delphi,OCaml,2012-03-02
+15.2,Delphi,FORTRAN,2012-03-02
+13.7,Delphi,Scala,2012-03-02
+13.5,Delphi,Verilog,2012-03-02
+12.5,Delphi,Groovy,2012-03-02
+12.4,Delphi,Common Lisp,2012-03-02
+11.0,Delphi,Smalltalk,2012-03-02
+10.9,Delphi,ASP,2012-03-02
+10.6,Delphi,CoffeeScript,2012-03-02
+10.2,Delphi,Clojure,2012-03-02
+8.6,Delphi,Go,2012-03-02
+8.4,Delphi,Matlab,2012-03-02
+6.7,Delphi,SuperCollider,2012-03-02
+6.2,Delphi,Boo,2012-03-02
+5.4,Delphi,VHDL,2012-03-02
+5.3,Delphi,F#,2012-03-02
+5.3,Delphi,Nu,2012-03-02
+4.9,Delphi,Vala,2012-03-02
+4.7,Delphi,Eiffel,2012-03-02
+4.6,Delphi,ColdFusion,2012-03-02
+4.4,Delphi,HaXe,2012-03-02
+4.3,Delphi,Nemerle,2012-03-02
+4.1,Delphi,XQuery,2012-03-02
+4.0,Delphi,Racket,2012-03-02
+3.9,Delphi,Objective-J,2012-03-02
+3.4,Delphi,Rebol,2012-03-02
+3.2,Delphi,Gosu,2012-03-02
+3.1,Delphi,Standard ML,2012-03-02
+2.9,Delphi,Ioke,2012-03-02
+2.9,Delphi,AutoHotkey,2012-03-02
+2.6,Delphi,Parrot,2012-03-02
+2.3,Delphi,Turing,2012-03-02
+2.0,Delphi,Factor,2012-03-02
+1.9,Delphi,Arduino,2012-03-02
+1.8,Delphi,Modelica,2012-03-02
+1.5,Delphi,Nimrod,2012-03-02
+1.3,Delphi,Puppet,2012-03-02
+1.3,Delphi,Pure Data,2012-03-02
+1.1,Delphi,Dylan,2012-03-02
+1.0,Delphi,ooc,2012-03-02
+1.0,Delphi,Self,2012-03-02
+0.8,Delphi,Io,2012-03-02
+0.7,Delphi,Opa,2012-03-02
+0.5,Delphi,Arc,2012-03-02
+0.2,Delphi,Fancy,2012-03-02
+0.1,Delphi,Mirah,2012-03-02
+0.1,Delphi,Fantom,2012-03-02
+97.1,Dylan,Java,2012-03-02
+97.1,Dylan,C,2012-03-02
+97.1,Dylan,Common Lisp,2012-03-02
+97.1,Dylan,Shell,2012-03-02
+94.1,Dylan,Assembly,2012-03-02
+94.1,Dylan,Python,2012-03-02
+91.2,Dylan,JavaScript,2012-03-02
+91.2,Dylan,Visual Basic,2012-03-02
+91.2,Dylan,ASP,2012-03-02
+85.3,Dylan,Perl,2012-03-02
+79.4,Dylan,Scala,2012-03-02
+76.5,Dylan,VimL,2012-03-02
+76.5,Dylan,Ruby,2012-03-02
+76.5,Dylan,Emacs Lisp,2012-03-02
+76.5,Dylan,Smalltalk,2012-03-02
+73.5,Dylan,PHP,2012-03-02
+73.5,Dylan,Scheme,2012-03-02
+73.5,Dylan,C++,2012-03-02
+70.6,Dylan,Objective-C,2012-03-02
+70.6,Dylan,Clojure,2012-03-02
+70.6,Dylan,C#,2012-03-02
+70.6,Dylan,Haskell,2012-03-02
+70.6,Dylan,Lua,2012-03-02
+67.6,Dylan,Erlang,2012-03-02
+67.6,Dylan,Boo,2012-03-02
+67.6,Dylan,HaXe,2012-03-02
+67.6,Dylan,Objective-J,2012-03-02
+67.6,Dylan,ActionScript,2012-03-02
+67.6,Dylan,R,2012-03-02
+67.6,Dylan,Delphi,2012-03-02
+67.6,Dylan,OCaml,2012-03-02
+67.6,Dylan,FORTRAN,2012-03-02
+67.6,Dylan,Ada,2012-03-02
+67.6,Dylan,D,2012-03-02
+58.8,Dylan,Prolog,2012-03-02
+58.8,Dylan,CoffeeScript,2012-03-02
+55.9,Dylan,Rebol,2012-03-02
+55.9,Dylan,Factor,2012-03-02
+50.0,Dylan,Groovy,2012-03-02
+44.1,Dylan,Tcl,2012-03-02
+41.2,Dylan,VHDL,2012-03-02
+41.2,Dylan,Vala,2012-03-02
+41.2,Dylan,F#,2012-03-02
+41.2,Dylan,Eiffel,2012-03-02
+35.3,Dylan,Racket,2012-03-02
+32.4,Dylan,Rust,2012-03-02
+29.4,Dylan,Matlab,2012-03-02
+26.5,Dylan,ColdFusion,2012-03-02
+17.6,Dylan,XQuery,2012-03-02
+17.6,Dylan,AutoHotkey,2012-03-02
+17.6,Dylan,Ioke,2012-03-02
+8.8,Dylan,Nemerle,2012-03-02
+8.8,Dylan,Verilog,2012-03-02
+8.8,Dylan,SuperCollider,2012-03-02
+8.8,Dylan,Gosu,2012-03-02
+8.8,Dylan,Standard ML,2012-03-02
+5.9,Dylan,Puppet,2012-03-02
+5.9,Dylan,Parrot,2012-03-02
+5.9,Dylan,Nu,2012-03-02
+5.9,Dylan,Fancy,2012-03-02
+5.9,Dylan,Nimrod,2012-03-02
+2.9,Dylan,Opa,2012-03-02
+2.9,Dylan,Modelica,2012-03-02
+2.9,Dylan,Go,2012-03-02
+2.9,Dylan,Turing,2012-03-02
+2.9,Dylan,Arduino,2012-03-02
+2.9,Dylan,Arc,2012-03-02
+90.5,Eiffel,C,2012-03-02
+85.3,Eiffel,Shell,2012-03-02
+78.1,Eiffel,C++,2012-03-02
+72.9,Eiffel,Python,2012-03-02
+70.9,Eiffel,Perl,2012-03-02
+57.8,Eiffel,JavaScript,2012-03-02
+57.5,Eiffel,Java,2012-03-02
+49.7,Eiffel,Ruby,2012-03-02
+49.7,Eiffel,Objective-C,2012-03-02
+45.8,Eiffel,Assembly,2012-03-02
+44.8,Eiffel,PHP,2012-03-02
+43.8,Eiffel,Emacs Lisp,2012-03-02
+38.6,Eiffel,FORTRAN,2012-03-02
+37.3,Eiffel,C#,2012-03-02
+34.6,Eiffel,Scheme,2012-03-02
+33.7,Eiffel,Delphi,2012-03-02
+32.7,Eiffel,Tcl,2012-03-02
+32.7,Eiffel,D,2012-03-02
+31.7,Eiffel,Haskell,2012-03-02
+30.7,Eiffel,OCaml,2012-03-02
+29.7,Eiffel,VimL,2012-03-02
+29.1,Eiffel,R,2012-03-02
+28.1,Eiffel,Visual Basic,2012-03-02
+26.1,Eiffel,Lua,2012-03-02
+24.5,Eiffel,Matlab,2012-03-02
+23.5,Eiffel,Erlang,2012-03-02
+21.9,Eiffel,Common Lisp,2012-03-02
+21.9,Eiffel,Prolog,2012-03-02
+21.2,Eiffel,Ada,2012-03-02
+21.2,Eiffel,ASP,2012-03-02
+19.9,Eiffel,Smalltalk,2012-03-02
+19.6,Eiffel,Rust,2012-03-02
+17.0,Eiffel,VHDL,2012-03-02
+17.0,Eiffel,SuperCollider,2012-03-02
+15.4,Eiffel,ActionScript,2012-03-02
+15.4,Eiffel,Verilog,2012-03-02
+13.7,Eiffel,F#,2012-03-02
+13.1,Eiffel,Scala,2012-03-02
+12.4,Eiffel,HaXe,2012-03-02
+12.1,Eiffel,Objective-J,2012-03-02
+12.1,Eiffel,Groovy,2012-03-02
+11.8,Eiffel,Vala,2012-03-02
+11.8,Eiffel,Clojure,2012-03-02
+11.4,Eiffel,Pure Data,2012-03-02
+10.8,Eiffel,Boo,2012-03-02
+9.2,Eiffel,CoffeeScript,2012-03-02
+6.5,Eiffel,Factor,2012-03-02
+6.2,Eiffel,Go,2012-03-02
+6.2,Eiffel,Nemerle,2012-03-02
+5.6,Eiffel,Racket,2012-03-02
+4.6,Eiffel,Dylan,2012-03-02
+4.2,Eiffel,Standard ML,2012-03-02
+4.2,Eiffel,Rebol,2012-03-02
+3.3,Eiffel,Io,2012-03-02
+2.9,Eiffel,ColdFusion,2012-03-02
+1.6,Eiffel,Arc,2012-03-02
+1.6,Eiffel,Gosu,2012-03-02
+1.6,Eiffel,Turing,2012-03-02
+1.6,Eiffel,Parrot,2012-03-02
+1.6,Eiffel,Puppet,2012-03-02
+1.3,Eiffel,Modelica,2012-03-02
+1.3,Eiffel,Self,2012-03-02
+1.3,Eiffel,ooc,2012-03-02
+1.3,Eiffel,Arduino,2012-03-02
+1.0,Eiffel,Nu,2012-03-02
+1.0,Eiffel,XQuery,2012-03-02
+0.7,Eiffel,AutoHotkey,2012-03-02
+0.7,Eiffel,Ioke,2012-03-02
+0.7,Eiffel,Opa,2012-03-02
+0.3,Eiffel,Fantom,2012-03-02
+0.3,Eiffel,Mirah,2012-03-02
+0.3,Eiffel,Nimrod,2012-03-02
+83.1,Emacs Lisp,Shell,2012-03-02
+67.9,Emacs Lisp,Python,2012-03-02
+67.0,Emacs Lisp,JavaScript,2012-03-02
+64.6,Emacs Lisp,C,2012-03-02
+56.0,Emacs Lisp,Ruby,2012-03-02
+52.0,Emacs Lisp,Perl,2012-03-02
+46.7,Emacs Lisp,C++,2012-03-02
+40.6,Emacs Lisp,Java,2012-03-02
+35.2,Emacs Lisp,VimL,2012-03-02
+30.1,Emacs Lisp,PHP,2012-03-02
+29.4,Emacs Lisp,Objective-C,2012-03-02
+21.6,Emacs Lisp,Assembly,2012-03-02
+16.7,Emacs Lisp,C#,2012-03-02
+14.1,Emacs Lisp,Haskell,2012-03-02
+14.0,Emacs Lisp,Scheme,2012-03-02
+13.7,Emacs Lisp,Tcl,2012-03-02
+12.9,Emacs Lisp,D,2012-03-02
+11.9,Emacs Lisp,Rust,2012-03-02
+11.8,Emacs Lisp,Prolog,2012-03-02
+10.4,Emacs Lisp,CoffeeScript,2012-03-02
+10.1,Emacs Lisp,Clojure,2012-03-02
+9.7,Emacs Lisp,Lua,2012-03-02
+9.5,Emacs Lisp,Erlang,2012-03-02
+9.4,Emacs Lisp,Visual Basic,2012-03-02
+9.0,Emacs Lisp,Common Lisp,2012-03-02
+7.9,Emacs Lisp,R,2012-03-02
+7.4,Emacs Lisp,ActionScript,2012-03-02
+7.1,Emacs Lisp,Delphi,2012-03-02
+6.5,Emacs Lisp,Scala,2012-03-02
+6.0,Emacs Lisp,OCaml,2012-03-02
+5.6,Emacs Lisp,ASP,2012-03-02
+5.1,Emacs Lisp,FORTRAN,2012-03-02
+4.9,Emacs Lisp,Ada,2012-03-02
+4.8,Emacs Lisp,Smalltalk,2012-03-02
+3.5,Emacs Lisp,Matlab,2012-03-02
+3.5,Emacs Lisp,Go,2012-03-02
+3.5,Emacs Lisp,Verilog,2012-03-02
+3.4,Emacs Lisp,Groovy,2012-03-02
+3.0,Emacs Lisp,SuperCollider,2012-03-02
+2.5,Emacs Lisp,Objective-J,2012-03-02
+2.2,Emacs Lisp,Puppet,2012-03-02
+1.7,Emacs Lisp,Racket,2012-03-02
+1.6,Emacs Lisp,F#,2012-03-02
+1.3,Emacs Lisp,Standard ML,2012-03-02
+1.3,Emacs Lisp,Eiffel,2012-03-02
+1.3,Emacs Lisp,Io,2012-03-02
+1.2,Emacs Lisp,HaXe,2012-03-02
+1.1,Emacs Lisp,Nu,2012-03-02
+1.1,Emacs Lisp,Rebol,2012-03-02
+1.1,Emacs Lisp,Nemerle,2012-03-02
+1.0,Emacs Lisp,Turing,2012-03-02
+1.0,Emacs Lisp,Vala,2012-03-02
+0.9,Emacs Lisp,Parrot,2012-03-02
+0.9,Emacs Lisp,Modelica,2012-03-02
+0.9,Emacs Lisp,XQuery,2012-03-02
+0.8,Emacs Lisp,Boo,2012-03-02
+0.8,Emacs Lisp,AutoHotkey,2012-03-02
+0.8,Emacs Lisp,Gosu,2012-03-02
+0.7,Emacs Lisp,VHDL,2012-03-02
+0.6,Emacs Lisp,Arduino,2012-03-02
+0.6,Emacs Lisp,Ioke,2012-03-02
+0.5,Emacs Lisp,Factor,2012-03-02
+0.5,Emacs Lisp,Pure Data,2012-03-02
+0.5,Emacs Lisp,ColdFusion,2012-03-02
+0.5,Emacs Lisp,Self,2012-03-02
+0.4,Emacs Lisp,Arc,2012-03-02
+0.3,Emacs Lisp,Mirah,2012-03-02
+0.3,Emacs Lisp,Dylan,2012-03-02
+0.2,Emacs Lisp,Nimrod,2012-03-02
+0.2,Emacs Lisp,ooc,2012-03-02
+0.2,Emacs Lisp,Opa,2012-03-02
+0.1,Emacs Lisp,Fancy,2012-03-02
+79.1,Erlang,Shell,2012-03-02
+71.5,Erlang,JavaScript,2012-03-02
+62.8,Erlang,Python,2012-03-02
+62.7,Erlang,C,2012-03-02
+58.4,Erlang,Ruby,2012-03-02
+48.5,Erlang,Java,2012-03-02
+46.0,Erlang,Perl,2012-03-02
+44.3,Erlang,C++,2012-03-02
+34.9,Erlang,PHP,2012-03-02
+27.6,Erlang,Emacs Lisp,2012-03-02
+26.4,Erlang,VimL,2012-03-02
+23.5,Erlang,Objective-C,2012-03-02
+22.5,Erlang,Haskell,2012-03-02
+21.6,Erlang,C#,2012-03-02
+15.9,Erlang,Scala,2012-03-02
+13.8,Erlang,CoffeeScript,2012-03-02
+13.2,Erlang,Tcl,2012-03-02
+13.0,Erlang,Clojure,2012-03-02
+13.0,Erlang,Assembly,2012-03-02
+12.9,Erlang,Lua,2012-03-02
+11.1,Erlang,OCaml,2012-03-02
+10.9,Erlang,Scheme,2012-03-02
+10.6,Erlang,Common Lisp,2012-03-02
+10.2,Erlang,D,2012-03-02
+9.7,Erlang,Delphi,2012-03-02
+9.5,Erlang,ActionScript,2012-03-02
+9.2,Erlang,Groovy,2012-03-02
+8.6,Erlang,Go,2012-03-02
+8.2,Erlang,Visual Basic,2012-03-02
+7.2,Erlang,Prolog,2012-03-02
+7.2,Erlang,R,2012-03-02
+6.7,Erlang,Rust,2012-03-02
+5.8,Erlang,ASP,2012-03-02
+5.8,Erlang,Smalltalk,2012-03-02
+5.7,Erlang,FORTRAN,2012-03-02
+3.7,Erlang,Boo,2012-03-02
+3.2,Erlang,F#,2012-03-02
+2.8,Erlang,ColdFusion,2012-03-02
+2.8,Erlang,Ada,2012-03-02
+2.7,Erlang,HaXe,2012-03-02
+2.7,Erlang,Vala,2012-03-02
+2.6,Erlang,Matlab,2012-03-02
+2.6,Erlang,VHDL,2012-03-02
+2.5,Erlang,Racket,2012-03-02
+2.4,Erlang,Objective-J,2012-03-02
+2.3,Erlang,Verilog,2012-03-02
+2.2,Erlang,Io,2012-03-02
+2.2,Erlang,Nu,2012-03-02
+2.0,Erlang,Eiffel,2012-03-02
+1.3,Erlang,XQuery,2012-03-02
+1.2,Erlang,SuperCollider,2012-03-02
+1.1,Erlang,Turing,2012-03-02
+1.1,Erlang,Factor,2012-03-02
+1.1,Erlang,Puppet,2012-03-02
+0.9,Erlang,Standard ML,2012-03-02
+0.9,Erlang,Rebol,2012-03-02
+0.8,Erlang,Gosu,2012-03-02
+0.8,Erlang,ooc,2012-03-02
+0.8,Erlang,Nemerle,2012-03-02
+0.8,Erlang,AutoHotkey,2012-03-02
+0.7,Erlang,Ioke,2012-03-02
+0.7,Erlang,Arduino,2012-03-02
+0.6,Erlang,Dylan,2012-03-02
+0.6,Erlang,Modelica,2012-03-02
+0.4,Erlang,Arc,2012-03-02
+0.4,Erlang,Self,2012-03-02
+0.3,Erlang,Nimrod,2012-03-02
+0.3,Erlang,Parrot,2012-03-02
+0.3,Erlang,Fancy,2012-03-02
+0.2,Erlang,Pure Data,2012-03-02
+0.1,Erlang,Mirah,2012-03-02
+0.1,Erlang,Opa,2012-03-02
+73.4,F#,Shell,2012-03-02
+67.3,F#,JavaScript,2012-03-02
+63.4,F#,C#,2012-03-02
+58.5,F#,C,2012-03-02
+57.9,F#,Python,2012-03-02
+57.8,F#,C++,2012-03-02
+39.6,F#,Java,2012-03-02
+39.4,F#,Ruby,2012-03-02
+38.9,F#,Perl,2012-03-02
+30.8,F#,PHP,2012-03-02
+25.8,F#,ASP,2012-03-02
+25.4,F#,Objective-C,2012-03-02
+20.4,F#,Visual Basic,2012-03-02
+18.2,F#,Lua,2012-03-02
+17.0,F#,Assembly,2012-03-02
+16.7,F#,VimL,2012-03-02
+16.6,F#,Haskell,2012-03-02
+15.5,F#,Rust,2012-03-02
+15.3,F#,Emacs Lisp,2012-03-02
+14.4,F#,Scala,2012-03-02
+12.0,F#,CoffeeScript,2012-03-02
+11.6,F#,Common Lisp,2012-03-02
+11.5,F#,Clojure,2012-03-02
+11.4,F#,D,2012-03-02
+10.7,F#,Delphi,2012-03-02
+10.6,F#,Erlang,2012-03-02
+10.5,F#,Prolog,2012-03-02
+10.2,F#,Tcl,2012-03-02
+9.0,F#,OCaml,2012-03-02
+8.9,F#,Ada,2012-03-02
+8.9,F#,Scheme,2012-03-02
+8.2,F#,Go,2012-03-02
+8.0,F#,HaXe,2012-03-02
+7.5,F#,FORTRAN,2012-03-02
+7.4,F#,ActionScript,2012-03-02
+7.4,F#,R,2012-03-02
+7.1,F#,Boo,2012-03-02
+6.8,F#,Racket,2012-03-02
+6.4,F#,Smalltalk,2012-03-02
+5.0,F#,Matlab,2012-03-02
+4.8,F#,Groovy,2012-03-02
+3.9,F#,Eiffel,2012-03-02
+3.2,F#,Vala,2012-03-02
+2.9,F#,Objective-J,2012-03-02
+2.7,F#,Factor,2012-03-02
+2.6,F#,VHDL,2012-03-02
+2.4,F#,Nemerle,2012-03-02
+2.4,F#,Verilog,2012-03-02
+2.2,F#,Gosu,2012-03-02
+1.9,F#,Puppet,2012-03-02
+1.5,F#,Io,2012-03-02
+1.5,F#,SuperCollider,2012-03-02
+1.4,F#,Rebol,2012-03-02
+1.3,F#,Dylan,2012-03-02
+1.1,F#,Standard ML,2012-03-02
+1.0,F#,XQuery,2012-03-02
+0.6,F#,Modelica,2012-03-02
+0.6,F#,Parrot,2012-03-02
+0.6,F#,Self,2012-03-02
+0.6,F#,Arduino,2012-03-02
+0.6,F#,ColdFusion,2012-03-02
+0.6,F#,Nu,2012-03-02
+0.5,F#,AutoHotkey,2012-03-02
+0.5,F#,Arc,2012-03-02
+0.4,F#,ooc,2012-03-02
+0.4,F#,Turing,2012-03-02
+0.3,F#,Mirah,2012-03-02
+0.3,F#,Ioke,2012-03-02
+0.2,F#,Pure Data,2012-03-02
+0.2,F#,Fantom,2012-03-02
+0.2,F#,Fancy,2012-03-02
+0.2,F#,Nimrod,2012-03-02
+0.1,F#,Opa,2012-03-02
+88.5,FORTRAN,C,2012-03-02
+86.3,FORTRAN,Shell,2012-03-02
+79.3,FORTRAN,Python,2012-03-02
+74.6,FORTRAN,C++,2012-03-02
+58.8,FORTRAN,Perl,2012-03-02
+48.8,FORTRAN,JavaScript,2012-03-02
+47.8,FORTRAN,Objective-C,2012-03-02
+45.2,FORTRAN,Java,2012-03-02
+38.4,FORTRAN,Ruby,2012-03-02
+33.6,FORTRAN,Assembly,2012-03-02
+33.1,FORTRAN,PHP,2012-03-02
+28.9,FORTRAN,Emacs Lisp,2012-03-02
+24.7,FORTRAN,Tcl,2012-03-02
+24.7,FORTRAN,C#,2012-03-02
+24.3,FORTRAN,VimL,2012-03-02
+23.3,FORTRAN,R,2012-03-02
+22.0,FORTRAN,D,2012-03-02
+20.7,FORTRAN,Scheme,2012-03-02
+20.4,FORTRAN,Matlab,2012-03-02
+18.2,FORTRAN,Lua,2012-03-02
+18.1,FORTRAN,Delphi,2012-03-02
+17.3,FORTRAN,OCaml,2012-03-02
+16.3,FORTRAN,Haskell,2012-03-02
+16.0,FORTRAN,Prolog,2012-03-02
+14.4,FORTRAN,Rust,2012-03-02
+14.1,FORTRAN,Common Lisp,2012-03-02
+13.4,FORTRAN,Visual Basic,2012-03-02
+11.1,FORTRAN,Erlang,2012-03-02
+10.5,FORTRAN,Ada,2012-03-02
+9.2,FORTRAN,ASP,2012-03-02
+8.5,FORTRAN,Scala,2012-03-02
+8.5,FORTRAN,Clojure,2012-03-02
+8.3,FORTRAN,ActionScript,2012-03-02
+6.9,FORTRAN,Boo,2012-03-02
+6.7,FORTRAN,Smalltalk,2012-03-02
+6.5,FORTRAN,VHDL,2012-03-02
+6.5,FORTRAN,Eiffel,2012-03-02
+6.4,FORTRAN,CoffeeScript,2012-03-02
+6.4,FORTRAN,SuperCollider,2012-03-02
+6.2,FORTRAN,Verilog,2012-03-02
+6.1,FORTRAN,Vala,2012-03-02
+6.0,FORTRAN,Groovy,2012-03-02
+5.5,FORTRAN,Go,2012-03-02
+5.2,FORTRAN,Objective-J,2012-03-02
+4.8,FORTRAN,ColdFusion,2012-03-02
+4.4,FORTRAN,F#,2012-03-02
+4.2,FORTRAN,HaXe,2012-03-02
+4.2,FORTRAN,Nu,2012-03-02
+2.7,FORTRAN,Nemerle,2012-03-02
+2.6,FORTRAN,Standard ML,2012-03-02
+2.6,FORTRAN,Parrot,2012-03-02
+2.2,FORTRAN,Racket,2012-03-02
+2.1,FORTRAN,Factor,2012-03-02
+2.1,FORTRAN,XQuery,2012-03-02
+1.9,FORTRAN,Io,2012-03-02
+1.8,FORTRAN,Rebol,2012-03-02
+1.6,FORTRAN,Pure Data,2012-03-02
+1.4,FORTRAN,Puppet,2012-03-02
+1.4,FORTRAN,AutoHotkey,2012-03-02
+1.3,FORTRAN,Gosu,2012-03-02
+1.3,FORTRAN,Ioke,2012-03-02
+1.3,FORTRAN,Dylan,2012-03-02
+1.2,FORTRAN,ooc,2012-03-02
+1.2,FORTRAN,Self,2012-03-02
+1.1,FORTRAN,Turing,2012-03-02
+0.8,FORTRAN,Arc,2012-03-02
+0.7,FORTRAN,Modelica,2012-03-02
+0.7,FORTRAN,Arduino,2012-03-02
+0.6,FORTRAN,Nimrod,2012-03-02
+0.2,FORTRAN,Mirah,2012-03-02
+0.2,FORTRAN,Opa,2012-03-02
+0.2,FORTRAN,Fancy,2012-03-02
+0.1,FORTRAN,Fantom,2012-03-02
+90.4,Factor,Shell,2012-03-02
+87.2,Factor,C,2012-03-02
+86.2,Factor,JavaScript,2012-03-02
+85.1,Factor,Ruby,2012-03-02
+78.7,Factor,C++,2012-03-02
+73.4,Factor,Python,2012-03-02
+69.1,Factor,Visual Basic,2012-03-02
+69.1,Factor,Objective-C,2012-03-02
+66.0,Factor,Assembly,2012-03-02
+66.0,Factor,Perl,2012-03-02
+66.0,Factor,VimL,2012-03-02
+61.7,Factor,Smalltalk,2012-03-02
+60.6,Factor,Java,2012-03-02
+59.6,Factor,Emacs Lisp,2012-03-02
+55.3,Factor,PHP,2012-03-02
+51.1,Factor,Haskell,2012-03-02
+50.0,Factor,C#,2012-03-02
+50.0,Factor,Lua,2012-03-02
+47.9,Factor,Scala,2012-03-02
+46.8,Factor,Delphi,2012-03-02
+45.7,Factor,Clojure,2012-03-02
+43.6,Factor,Erlang,2012-03-02
+42.6,Factor,Scheme,2012-03-02
+42.6,Factor,CoffeeScript,2012-03-02
+42.6,Factor,Common Lisp,2012-03-02
+41.5,Factor,FORTRAN,2012-03-02
+40.4,Factor,D,2012-03-02
+38.3,Factor,OCaml,2012-03-02
+35.1,Factor,R,2012-03-02
+34.0,Factor,ActionScript,2012-03-02
+34.0,Factor,Rust,2012-03-02
+33.0,Factor,ASP,2012-03-02
+31.9,Factor,Prolog,2012-03-02
+31.9,Factor,Objective-J,2012-03-02
+30.9,Factor,Boo,2012-03-02
+30.9,Factor,Tcl,2012-03-02
+30.9,Factor,Groovy,2012-03-02
+30.9,Factor,F#,2012-03-02
+28.7,Factor,HaXe,2012-03-02
+26.6,Factor,Ada,2012-03-02
+24.5,Factor,Vala,2012-03-02
+24.5,Factor,Rebol,2012-03-02
+23.4,Factor,VHDL,2012-03-02
+21.3,Factor,Racket,2012-03-02
+21.3,Factor,Eiffel,2012-03-02
+20.2,Factor,Go,2012-03-02
+20.2,Factor,Dylan,2012-03-02
+18.1,Factor,Matlab,2012-03-02
+14.9,Factor,ColdFusion,2012-03-02
+13.8,Factor,XQuery,2012-03-02
+10.6,Factor,Nu,2012-03-02
+10.6,Factor,Ioke,2012-03-02
+9.6,Factor,AutoHotkey,2012-03-02
+7.4,Factor,ooc,2012-03-02
+7.4,Factor,Nemerle,2012-03-02
+4.3,Factor,Puppet,2012-03-02
+4.3,Factor,Arc,2012-03-02
+4.3,Factor,Parrot,2012-03-02
+4.3,Factor,Verilog,2012-03-02
+4.3,Factor,Io,2012-03-02
+4.3,Factor,SuperCollider,2012-03-02
+3.2,Factor,Standard ML,2012-03-02
+3.2,Factor,Nimrod,2012-03-02
+3.2,Factor,Self,2012-03-02
+3.2,Factor,Gosu,2012-03-02
+2.1,Factor,Mirah,2012-03-02
+2.1,Factor,Fancy,2012-03-02
+2.1,Factor,Arduino,2012-03-02
+2.1,Factor,Modelica,2012-03-02
+1.1,Factor,Fantom,2012-03-02
+1.1,Factor,Turing,2012-03-02
+1.1,Factor,Pure Data,2012-03-02
+1.1,Factor,Opa,2012-03-02
+100.0,Fancy,Shell,2012-03-02
+100.0,Fancy,Python,2012-03-02
+100.0,Fancy,Java,2012-03-02
+100.0,Fancy,Ruby,2012-03-02
+92.3,Fancy,Clojure,2012-03-02
+69.2,Fancy,JavaScript,2012-03-02
+53.8,Fancy,C,2012-03-02
+43.6,Fancy,PHP,2012-03-02
+43.6,Fancy,Perl,2012-03-02
+41.0,Fancy,C++,2012-03-02
+30.8,Fancy,Emacs Lisp,2012-03-02
+28.2,Fancy,VimL,2012-03-02
+25.6,Fancy,Scala,2012-03-02
+25.6,Fancy,Objective-C,2012-03-02
+23.1,Fancy,Haskell,2012-03-02
+23.1,Fancy,Erlang,2012-03-02
+20.5,Fancy,Assembly,2012-03-02
+20.5,Fancy,CoffeeScript,2012-03-02
+17.9,Fancy,C#,2012-03-02
+17.9,Fancy,Scheme,2012-03-02
+17.9,Fancy,Groovy,2012-03-02
+15.4,Fancy,Smalltalk,2012-03-02
+15.4,Fancy,D,2012-03-02
+12.8,Fancy,Go,2012-03-02
+12.8,Fancy,ActionScript,2012-03-02
+12.8,Fancy,Common Lisp,2012-03-02
+12.8,Fancy,R,2012-03-02
+12.8,Fancy,Tcl,2012-03-02
+10.3,Fancy,Prolog,2012-03-02
+10.3,Fancy,Lua,2012-03-02
+10.3,Fancy,Delphi,2012-03-02
+10.3,Fancy,Visual Basic,2012-03-02
+10.3,Fancy,OCaml,2012-03-02
+7.7,Fancy,Racket,2012-03-02
+7.7,Fancy,HaXe,2012-03-02
+7.7,Fancy,Ada,2012-03-02
+7.7,Fancy,FORTRAN,2012-03-02
+7.7,Fancy,Objective-J,2012-03-02
+5.1,Fancy,Dylan,2012-03-02
+5.1,Fancy,Gosu,2012-03-02
+5.1,Fancy,Nemerle,2012-03-02
+5.1,Fancy,Nu,2012-03-02
+5.1,Fancy,Rust,2012-03-02
+5.1,Fancy,XQuery,2012-03-02
+5.1,Fancy,Factor,2012-03-02
+5.1,Fancy,ASP,2012-03-02
+5.1,Fancy,Rebol,2012-03-02
+5.1,Fancy,AutoHotkey,2012-03-02
+5.1,Fancy,Ioke,2012-03-02
+5.1,Fancy,F#,2012-03-02
+5.1,Fancy,Matlab,2012-03-02
+5.1,Fancy,Boo,2012-03-02
+5.1,Fancy,ColdFusion,2012-03-02
+2.6,Fancy,Arc,2012-03-02
+2.6,Fancy,Arduino,2012-03-02
+2.6,Fancy,Nimrod,2012-03-02
+2.6,Fancy,Standard ML,2012-03-02
+83.3,Fantom,Java,2012-03-02
+83.3,Fantom,JavaScript,2012-03-02
+83.3,Fantom,Ruby,2012-03-02
+66.7,Fantom,PHP,2012-03-02
+66.7,Fantom,Python,2012-03-02
+66.7,Fantom,Scala,2012-03-02
+66.7,Fantom,Shell,2012-03-02
+66.7,Fantom,Groovy,2012-03-02
+66.7,Fantom,C++,2012-03-02
+50.0,Fantom,Assembly,2012-03-02
+50.0,Fantom,Clojure,2012-03-02
+50.0,Fantom,C,2012-03-02
+50.0,Fantom,CoffeeScript,2012-03-02
+50.0,Fantom,Haskell,2012-03-02
+33.3,Fantom,Tcl,2012-03-02
+33.3,Fantom,F#,2012-03-02
+33.3,Fantom,SuperCollider,2012-03-02
+33.3,Fantom,Delphi,2012-03-02
+33.3,Fantom,Parrot,2012-03-02
+33.3,Fantom,XQuery,2012-03-02
+33.3,Fantom,R,2012-03-02
+33.3,Fantom,Nu,2012-03-02
+33.3,Fantom,Racket,2012-03-02
+33.3,Fantom,Objective-C,2012-03-02
+33.3,Fantom,Perl,2012-03-02
+33.3,Fantom,Lua,2012-03-02
+33.3,Fantom,Prolog,2012-03-02
+33.3,Fantom,Matlab,2012-03-02
+33.3,Fantom,OCaml,2012-03-02
+33.3,Fantom,VimL,2012-03-02
+33.3,Fantom,Scheme,2012-03-02
+33.3,Fantom,C#,2012-03-02
+33.3,Fantom,Rust,2012-03-02
+33.3,Fantom,Nemerle,2012-03-02
+33.3,Fantom,Emacs Lisp,2012-03-02
+16.7,Fantom,Common Lisp,2012-03-02
+16.7,Fantom,Eiffel,2012-03-02
+16.7,Fantom,Arduino,2012-03-02
+16.7,Fantom,Verilog,2012-03-02
+16.7,Fantom,Go,2012-03-02
+16.7,Fantom,AutoHotkey,2012-03-02
+16.7,Fantom,FORTRAN,2012-03-02
+16.7,Fantom,ColdFusion,2012-03-02
+16.7,Fantom,ActionScript,2012-03-02
+16.7,Fantom,Gosu,2012-03-02
+16.7,Fantom,ASP,2012-03-02
+16.7,Fantom,Objective-J,2012-03-02
+16.7,Fantom,HaXe,2012-03-02
+16.7,Fantom,Smalltalk,2012-03-02
+16.7,Fantom,Arc,2012-03-02
+16.7,Fantom,Boo,2012-03-02
+16.7,Fantom,Standard ML,2012-03-02
+16.7,Fantom,Rebol,2012-03-02
+16.7,Fantom,Erlang,2012-03-02
+16.7,Fantom,D,2012-03-02
+16.7,Fantom,Vala,2012-03-02
+16.7,Fantom,Visual Basic,2012-03-02
+16.7,Fantom,Ioke,2012-03-02
+16.7,Fantom,Ada,2012-03-02
+16.7,Fantom,Turing,2012-03-02
+16.7,Fantom,Puppet,2012-03-02
+16.7,Fantom,Factor,2012-03-02
+68.8,Go,Shell,2012-03-02
+62.7,Go,Python,2012-03-02
+62.2,Go,JavaScript,2012-03-02
+61.9,Go,C,2012-03-02
+50.4,Go,Ruby,2012-03-02
+46.7,Go,Java,2012-03-02
+46.2,Go,C++,2012-03-02
+38.4,Go,PHP,2012-03-02
+38.0,Go,Perl,2012-03-02
+24.6,Go,VimL,2012-03-02
+23.5,Go,C#,2012-03-02
+23.2,Go,Objective-C,2012-03-02
+21.9,Go,Haskell,2012-03-02
+18.4,Go,Scala,2012-03-02
+17.9,Go,Emacs Lisp,2012-03-02
+17.7,Go,Lua,2012-03-02
+15.4,Go,Clojure,2012-03-02
+15.3,Go,Erlang,2012-03-02
+14.9,Go,CoffeeScript,2012-03-02
+13.6,Go,Common Lisp,2012-03-02
+12.7,Go,OCaml,2012-03-02
+12.0,Go,D,2012-03-02
+11.6,Go,Assembly,2012-03-02
+9.4,Go,Delphi,2012-03-02
+9.3,Go,Scheme,2012-03-02
+8.6,Go,Visual Basic,2012-03-02
+8.2,Go,Tcl,2012-03-02
+6.7,Go,R,2012-03-02
+6.7,Go,ActionScript,2012-03-02
+6.7,Go,Ada,2012-03-02
+6.5,Go,Groovy,2012-03-02
+6.4,Go,Rust,2012-03-02
+6.0,Go,Prolog,2012-03-02
+5.9,Go,Racket,2012-03-02
+5.1,Go,FORTRAN,2012-03-02
+4.8,Go,Smalltalk,2012-03-02
+4.8,Go,HaXe,2012-03-02
+4.5,Go,F#,2012-03-02
+3.9,Go,ASP,2012-03-02
+3.0,Go,Matlab,2012-03-02
+2.8,Go,Vala,2012-03-02
+2.5,Go,Verilog,2012-03-02
+2.2,Go,Io,2012-03-02
+1.8,Go,SuperCollider,2012-03-02
+1.8,Go,Boo,2012-03-02
+1.7,Go,Nu,2012-03-02
+1.7,Go,VHDL,2012-03-02
+1.7,Go,Objective-J,2012-03-02
+1.7,Go,ooc,2012-03-02
+1.6,Go,ColdFusion,2012-03-02
+1.2,Go,Nemerle,2012-03-02
+1.1,Go,XQuery,2012-03-02
+1.0,Go,Ioke,2012-03-02
+1.0,Go,Gosu,2012-03-02
+1.0,Go,Standard ML,2012-03-02
+1.0,Go,Turing,2012-03-02
+0.9,Go,Eiffel,2012-03-02
+0.9,Go,Factor,2012-03-02
+0.9,Go,AutoHotkey,2012-03-02
+0.8,Go,Self,2012-03-02
+0.8,Go,Puppet,2012-03-02
+0.7,Go,Rebol,2012-03-02
+0.7,Go,Arc,2012-03-02
+0.5,Go,Modelica,2012-03-02
+0.5,Go,Arduino,2012-03-02
+0.4,Go,Parrot,2012-03-02
+0.4,Go,Mirah,2012-03-02
+0.3,Go,Pure Data,2012-03-02
+0.3,Go,Nimrod,2012-03-02
+0.2,Go,Fancy,2012-03-02
+0.1,Go,Dylan,2012-03-02
+0.1,Go,Fantom,2012-03-02
+92.7,Gosu,JavaScript,2012-03-02
+84.4,Gosu,Groovy,2012-03-02
+64.9,Gosu,Java,2012-03-02
+60.5,Gosu,Shell,2012-03-02
+37.6,Gosu,Ruby,2012-03-02
+33.6,Gosu,Python,2012-03-02
+32.4,Gosu,C,2012-03-02
+30.3,Gosu,PHP,2012-03-02
+27.1,Gosu,C++,2012-03-02
+25.6,Gosu,Perl,2012-03-02
+21.8,Gosu,Scala,2012-03-02
+17.7,Gosu,Objective-C,2012-03-02
+16.8,Gosu,VimL,2012-03-02
+16.8,Gosu,CoffeeScript,2012-03-02
+15.8,Gosu,Emacs Lisp,2012-03-02
+14.9,Gosu,Assembly,2012-03-02
+14.3,Gosu,Rust,2012-03-02
+13.7,Gosu,Prolog,2012-03-02
+13.4,Gosu,Delphi,2012-03-02
+12.6,Gosu,R,2012-03-02
+10.9,Gosu,Ioke,2012-03-02
+10.7,Gosu,Nemerle,2012-03-02
+10.7,Gosu,Scheme,2012-03-02
+10.3,Gosu,Matlab,2012-03-02
+10.3,Gosu,OCaml,2012-03-02
+10.1,Gosu,Rebol,2012-03-02
+9.7,Gosu,Nu,2012-03-02
+9.7,Gosu,Parrot,2012-03-02
+9.7,Gosu,Racket,2012-03-02
+9.5,Gosu,XQuery,2012-03-02
+9.4,Gosu,C#,2012-03-02
+9.2,Gosu,Standard ML,2012-03-02
+9.0,Gosu,Visual Basic,2012-03-02
+9.0,Gosu,AutoHotkey,2012-03-02
+8.8,Gosu,SuperCollider,2012-03-02
+7.6,Gosu,ActionScript,2012-03-02
+7.6,Gosu,Clojure,2012-03-02
+7.3,Gosu,Haskell,2012-03-02
+6.7,Gosu,Arduino,2012-03-02
+6.5,Gosu,Lua,2012-03-02
+6.3,Gosu,Turing,2012-03-02
+5.5,Gosu,Erlang,2012-03-02
+5.0,Gosu,Nimrod,2012-03-02
+4.6,Gosu,D,2012-03-02
+4.6,Gosu,FORTRAN,2012-03-02
+4.6,Gosu,F#,2012-03-02
+4.0,Gosu,Tcl,2012-03-02
+4.0,Gosu,ASP,2012-03-02
+3.8,Gosu,Go,2012-03-02
+2.9,Gosu,Opa,2012-03-02
+2.9,Gosu,Smalltalk,2012-03-02
+2.7,Gosu,Common Lisp,2012-03-02
+2.1,Gosu,Ada,2012-03-02
+1.7,Gosu,Vala,2012-03-02
+1.7,Gosu,Io,2012-03-02
+1.3,Gosu,Modelica,2012-03-02
+1.3,Gosu,ColdFusion,2012-03-02
+1.1,Gosu,HaXe,2012-03-02
+1.1,Gosu,VHDL,2012-03-02
+1.0,Gosu,Boo,2012-03-02
+1.0,Gosu,Eiffel,2012-03-02
+1.0,Gosu,Objective-J,2012-03-02
+0.8,Gosu,Arc,2012-03-02
+0.6,Gosu,Factor,2012-03-02
+0.6,Gosu,Verilog,2012-03-02
+0.6,Gosu,Dylan,2012-03-02
+0.6,Gosu,ooc,2012-03-02
+0.4,Gosu,Fancy,2012-03-02
+0.4,Gosu,Self,2012-03-02
+0.4,Gosu,Puppet,2012-03-02
+0.2,Gosu,Pure Data,2012-03-02
+0.2,Gosu,Fantom,2012-03-02
+77.1,Groovy,Java,2012-03-02
+72.9,Groovy,JavaScript,2012-03-02
+60.1,Groovy,Shell,2012-03-02
+39.1,Groovy,Ruby,2012-03-02
+34.8,Groovy,Python,2012-03-02
+24.3,Groovy,C,2012-03-02
+23.9,Groovy,PHP,2012-03-02
+22.2,Groovy,Perl,2012-03-02
+20.5,Groovy,Scala,2012-03-02
+15.9,Groovy,C++,2012-03-02
+11.7,Groovy,Objective-C,2012-03-02
+11.1,Groovy,C#,2012-03-02
+10.2,Groovy,CoffeeScript,2012-03-02
+9.9,Groovy,Clojure,2012-03-02
+8.6,Groovy,VimL,2012-03-02
+8.2,Groovy,Gosu,2012-03-02
+6.6,Groovy,Emacs Lisp,2012-03-02
+6.1,Groovy,Erlang,2012-03-02
+5.9,Groovy,Haskell,2012-03-02
+5.6,Groovy,ActionScript,2012-03-02
+5.1,Groovy,Assembly,2012-03-02
+5.1,Groovy,Lua,2012-03-02
+5.1,Groovy,Delphi,2012-03-02
+4.8,Groovy,Visual Basic,2012-03-02
+4.2,Groovy,OCaml,2012-03-02
+4.1,Groovy,Scheme,2012-03-02
+3.9,Groovy,R,2012-03-02
+3.7,Groovy,D,2012-03-02
+3.7,Groovy,ASP,2012-03-02
+3.5,Groovy,Prolog,2012-03-02
+3.4,Groovy,Rust,2012-03-02
+2.8,Groovy,Common Lisp,2012-03-02
+2.4,Groovy,Go,2012-03-02
+2.4,Groovy,Tcl,2012-03-02
+2.4,Groovy,Smalltalk,2012-03-02
+2.2,Groovy,Ioke,2012-03-02
+2.2,Groovy,ColdFusion,2012-03-02
+2.1,Groovy,Nu,2012-03-02
+2.0,Groovy,FORTRAN,2012-03-02
+2.0,Groovy,Racket,2012-03-02
+1.8,Groovy,XQuery,2012-03-02
+1.8,Groovy,HaXe,2012-03-02
+1.8,Groovy,Matlab,2012-03-02
+1.6,Groovy,Boo,2012-03-02
+1.4,Groovy,Vala,2012-03-02
+1.4,Groovy,Rebol,2012-03-02
+1.4,Groovy,VHDL,2012-03-02
+1.3,Groovy,Objective-J,2012-03-02
+1.3,Groovy,Nemerle,2012-03-02
+1.3,Groovy,SuperCollider,2012-03-02
+1.1,Groovy,Standard ML,2012-03-02
+1.1,Groovy,Parrot,2012-03-02
+1.1,Groovy,AutoHotkey,2012-03-02
+1.0,Groovy,Ada,2012-03-02
+1.0,Groovy,F#,2012-03-02
+0.8,Groovy,Arduino,2012-03-02
+0.8,Groovy,Puppet,2012-03-02
+0.8,Groovy,Io,2012-03-02
+0.7,Groovy,Turing,2012-03-02
+0.7,Groovy,Eiffel,2012-03-02
+0.5,Groovy,Nimrod,2012-03-02
+0.5,Groovy,Factor,2012-03-02
+0.5,Groovy,ooc,2012-03-02
+0.4,Groovy,Verilog,2012-03-02
+0.4,Groovy,Modelica,2012-03-02
+0.3,Groovy,Dylan,2012-03-02
+0.3,Groovy,Mirah,2012-03-02
+0.3,Groovy,Opa,2012-03-02
+0.1,Groovy,Arc,2012-03-02
+0.1,Groovy,Fancy,2012-03-02
+0.1,Groovy,Pure Data,2012-03-02
+0.1,Groovy,Self,2012-03-02
+0.1,Groovy,Fantom,2012-03-02
+80.3,HaXe,Shell,2012-03-02
+72.9,HaXe,JavaScript,2012-03-02
+71.3,HaXe,Python,2012-03-02
+67.7,HaXe,C,2012-03-02
+59.9,HaXe,C++,2012-03-02
+57.9,HaXe,Perl,2012-03-02
+52.7,HaXe,Java,2012-03-02
+52.1,HaXe,Objective-C,2012-03-02
+50.5,HaXe,Ruby,2012-03-02
+49.1,HaXe,PHP,2012-03-02
+37.4,HaXe,Assembly,2012-03-02
+35.3,HaXe,C#,2012-03-02
+34.5,HaXe,Lua,2012-03-02
+34.2,HaXe,ActionScript,2012-03-02
+28.9,HaXe,VimL,2012-03-02
+26.0,HaXe,Haskell,2012-03-02
+25.9,HaXe,Scala,2012-03-02
+20.7,HaXe,Clojure,2012-03-02
+20.5,HaXe,Common Lisp,2012-03-02
+20.3,HaXe,D,2012-03-02
+20.3,HaXe,Emacs Lisp,2012-03-02
+20.0,HaXe,OCaml,2012-03-02
+18.9,HaXe,Rust,2012-03-02
+18.5,HaXe,Ada,2012-03-02
+18.0,HaXe,CoffeeScript,2012-03-02
+17.4,HaXe,R,2012-03-02
+16.1,HaXe,Scheme,2012-03-02
+15.8,HaXe,ASP,2012-03-02
+15.1,HaXe,Erlang,2012-03-02
+15.1,HaXe,Delphi,2012-03-02
+15.1,HaXe,Groovy,2012-03-02
+15.0,HaXe,Go,2012-03-02
+13.7,HaXe,Prolog,2012-03-02
+13.7,HaXe,F#,2012-03-02
+13.4,HaXe,Racket,2012-03-02
+12.8,HaXe,Visual Basic,2012-03-02
+12.1,HaXe,FORTRAN,2012-03-02
+11.2,HaXe,Smalltalk,2012-03-02
+11.0,HaXe,Objective-J,2012-03-02
+10.9,HaXe,ColdFusion,2012-03-02
+10.6,HaXe,Tcl,2012-03-02
+9.9,HaXe,Boo,2012-03-02
+7.9,HaXe,VHDL,2012-03-02
+7.4,HaXe,Vala,2012-03-02
+6.5,HaXe,SuperCollider,2012-03-02
+6.0,HaXe,Eiffel,2012-03-02
+5.4,HaXe,Nemerle,2012-03-02
+5.0,HaXe,Matlab,2012-03-02
+4.3,HaXe,Factor,2012-03-02
+3.6,HaXe,XQuery,2012-03-02
+3.6,HaXe,Rebol,2012-03-02
+3.6,HaXe,Dylan,2012-03-02
+3.0,HaXe,Verilog,2012-03-02
+2.8,HaXe,Nu,2012-03-02
+2.8,HaXe,Ioke,2012-03-02
+2.7,HaXe,AutoHotkey,2012-03-02
+2.5,HaXe,ooc,2012-03-02
+2.1,HaXe,Modelica,2012-03-02
+1.6,HaXe,Turing,2012-03-02
+1.4,HaXe,Puppet,2012-03-02
+1.1,HaXe,Nimrod,2012-03-02
+1.1,HaXe,Standard ML,2012-03-02
+0.9,HaXe,Gosu,2012-03-02
+0.8,HaXe,Pure Data,2012-03-02
+0.8,HaXe,Parrot,2012-03-02
+0.8,HaXe,Arc,2012-03-02
+0.6,HaXe,Io,2012-03-02
+0.5,HaXe,Self,2012-03-02
+0.5,HaXe,Arduino,2012-03-02
+0.5,HaXe,Fancy,2012-03-02
+0.3,HaXe,Mirah,2012-03-02
+0.2,HaXe,Fantom,2012-03-02
+0.2,HaXe,Opa,2012-03-02
+72.5,Haskell,Shell,2012-03-02
+59.7,Haskell,Python,2012-03-02
+59.0,Haskell,C,2012-03-02
+56.8,Haskell,JavaScript,2012-03-02
+44.8,Haskell,Ruby,2012-03-02
+42.2,Haskell,Java,2012-03-02
+41.3,Haskell,C++,2012-03-02
+38.6,Haskell,Perl,2012-03-02
+34.2,Haskell,VimL,2012-03-02
+28.4,Haskell,PHP,2012-03-02
+26.3,Haskell,Emacs Lisp,2012-03-02
+21.3,Haskell,Objective-C,2012-03-02
+17.2,Haskell,C#,2012-03-02
+14.5,Haskell,Erlang,2012-03-02
+14.5,Haskell,Scala,2012-03-02
+12.7,Haskell,Scheme,2012-03-02
+12.3,Haskell,Clojure,2012-03-02
+12.2,Haskell,Lua,2012-03-02
+11.3,Haskell,Assembly,2012-03-02
+10.9,Haskell,Common Lisp,2012-03-02
+10.6,Haskell,CoffeeScript,2012-03-02
+10.0,Haskell,OCaml,2012-03-02
+7.9,Haskell,Go,2012-03-02
+7.9,Haskell,D,2012-03-02
+7.4,Haskell,Prolog,2012-03-02
+6.6,Haskell,R,2012-03-02
+6.5,Haskell,Delphi,2012-03-02
+6.5,Haskell,Rust,2012-03-02
+6.3,Haskell,Visual Basic,2012-03-02
+5.9,Haskell,ActionScript,2012-03-02
+5.7,Haskell,Groovy,2012-03-02
+5.7,Haskell,Tcl,2012-03-02
+5.5,Haskell,Smalltalk,2012-03-02
+5.4,Haskell,FORTRAN,2012-03-02
+4.8,Haskell,ASP,2012-03-02
+3.4,Haskell,Racket,2012-03-02
+3.3,Haskell,Ada,2012-03-02
+3.3,Haskell,F#,2012-03-02
+3.1,Haskell,Matlab,2012-03-02
+3.0,Haskell,HaXe,2012-03-02
+2.7,Haskell,Verilog,2012-03-02
+2.4,Haskell,Boo,2012-03-02
+2.1,Haskell,Objective-J,2012-03-02
+1.9,Haskell,Vala,2012-03-02
+1.9,Haskell,VHDL,2012-03-02
+1.8,Haskell,ColdFusion,2012-03-02
+1.8,Haskell,Eiffel,2012-03-02
+1.7,Haskell,Io,2012-03-02
+1.6,Haskell,SuperCollider,2012-03-02
+1.5,Haskell,Nu,2012-03-02
+1.2,Haskell,Puppet,2012-03-02
+1.2,Haskell,Standard ML,2012-03-02
+1.0,Haskell,Rebol,2012-03-02
+0.9,Haskell,XQuery,2012-03-02
+0.9,Haskell,Factor,2012-03-02
+0.7,Haskell,Nemerle,2012-03-02
+0.7,Haskell,Gosu,2012-03-02
+0.7,Haskell,ooc,2012-03-02
+0.6,Haskell,Pure Data,2012-03-02
+0.6,Haskell,AutoHotkey,2012-03-02
+0.5,Haskell,Modelica,2012-03-02
+0.5,Haskell,Turing,2012-03-02
+0.4,Haskell,Dylan,2012-03-02
+0.4,Haskell,Self,2012-03-02
+0.4,Haskell,Arduino,2012-03-02
+0.4,Haskell,Ioke,2012-03-02
+0.4,Haskell,Arc,2012-03-02
+0.4,Haskell,Parrot,2012-03-02
+0.2,Haskell,Mirah,2012-03-02
+0.2,Haskell,Nimrod,2012-03-02
+0.2,Haskell,Fancy,2012-03-02
+0.1,Haskell,Opa,2012-03-02
+0.1,Haskell,Fantom,2012-03-02
+84.8,Io,Ruby,2012-03-02
+78.3,Io,JavaScript,2012-03-02
+75.7,Io,Shell,2012-03-02
+68.6,Io,Python,2012-03-02
+66.7,Io,C,2012-03-02
+49.0,Io,Java,2012-03-02
+47.1,Io,C++,2012-03-02
+46.7,Io,Objective-C,2012-03-02
+45.2,Io,Perl,2012-03-02
+41.9,Io,PHP,2012-03-02
+41.7,Io,VimL,2012-03-02
+31.9,Io,Emacs Lisp,2012-03-02
+27.1,Io,Scala,2012-03-02
+24.3,Io,CoffeeScript,2012-03-02
+22.9,Io,Prolog,2012-03-02
+22.1,Io,Haskell,2012-03-02
+19.5,Io,Clojure,2012-03-02
+19.0,Io,Erlang,2012-03-02
+17.9,Io,Assembly,2012-03-02
+17.6,Io,C#,2012-03-02
+16.9,Io,Lua,2012-03-02
+14.5,Io,R,2012-03-02
+14.3,Io,Scheme,2012-03-02
+13.8,Io,D,2012-03-02
+13.1,Io,Rust,2012-03-02
+11.0,Io,ActionScript,2012-03-02
+11.0,Io,Tcl,2012-03-02
+10.7,Io,Go,2012-03-02
+9.8,Io,Groovy,2012-03-02
+8.8,Io,OCaml,2012-03-02
+8.3,Io,FORTRAN,2012-03-02
+7.6,Io,Common Lisp,2012-03-02
+7.6,Io,Rebol,2012-03-02
+7.4,Io,ASP,2012-03-02
+7.1,Io,Visual Basic,2012-03-02
+5.7,Io,Smalltalk,2012-03-02
+4.3,Io,Matlab,2012-03-02
+4.0,Io,Delphi,2012-03-02
+3.8,Io,F#,2012-03-02
+3.1,Io,Racket,2012-03-02
+2.9,Io,SuperCollider,2012-03-02
+2.6,Io,Arc,2012-03-02
+2.6,Io,Ada,2012-03-02
+2.4,Io,Eiffel,2012-03-02
+2.1,Io,Puppet,2012-03-02
+2.1,Io,Gosu,2012-03-02
+1.9,Io,ooc,2012-03-02
+1.7,Io,Nemerle,2012-03-02
+1.7,Io,Objective-J,2012-03-02
+1.4,Io,Standard ML,2012-03-02
+1.4,Io,Vala,2012-03-02
+1.4,Io,ColdFusion,2012-03-02
+1.2,Io,Turing,2012-03-02
+1.2,Io,Modelica,2012-03-02
+1.2,Io,VHDL,2012-03-02
+1.0,Io,Nu,2012-03-02
+1.0,Io,HaXe,2012-03-02
+1.0,Io,Pure Data,2012-03-02
+1.0,Io,Self,2012-03-02
+1.0,Io,Factor,2012-03-02
+1.0,Io,Arduino,2012-03-02
+0.7,Io,Verilog,2012-03-02
+0.7,Io,Parrot,2012-03-02
+0.7,Io,XQuery,2012-03-02
+0.7,Io,Mirah,2012-03-02
+0.5,Io,Boo,2012-03-02
+0.5,Io,Ioke,2012-03-02
+0.2,Io,AutoHotkey,2012-03-02
+99.2,Ioke,JavaScript,2012-03-02
+97.7,Ioke,Ruby,2012-03-02
+94.7,Ioke,Scala,2012-03-02
+93.1,Ioke,Python,2012-03-02
+91.6,Ioke,Groovy,2012-03-02
+79.4,Ioke,Java,2012-03-02
+78.6,Ioke,Shell,2012-03-02
+66.4,Ioke,C,2012-03-02
+61.8,Ioke,C++,2012-03-02
+61.8,Ioke,PHP,2012-03-02
+58.0,Ioke,Clojure,2012-03-02
+58.0,Ioke,Objective-C,2012-03-02
+57.3,Ioke,CoffeeScript,2012-03-02
+57.3,Ioke,Perl,2012-03-02
+53.4,Ioke,Prolog,2012-03-02
+53.4,Ioke,Assembly,2012-03-02
+53.4,Ioke,VimL,2012-03-02
+51.9,Ioke,R,2012-03-02
+48.9,Ioke,XQuery,2012-03-02
+48.9,Ioke,Delphi,2012-03-02
+48.1,Ioke,OCaml,2012-03-02
+48.1,Ioke,Nemerle,2012-03-02
+48.1,Ioke,Racket,2012-03-02
+48.1,Ioke,Nu,2012-03-02
+47.3,Ioke,Scheme,2012-03-02
+45.8,Ioke,Emacs Lisp,2012-03-02
+45.0,Ioke,AutoHotkey,2012-03-02
+45.0,Ioke,Rebol,2012-03-02
+43.5,Ioke,Gosu,2012-03-02
+43.5,Ioke,Rust,2012-03-02
+38.9,Ioke,Matlab,2012-03-02
+38.2,Ioke,Parrot,2012-03-02
+33.6,Ioke,SuperCollider,2012-03-02
+32.1,Ioke,Standard ML,2012-03-02
+26.0,Ioke,C#,2012-03-02
+25.2,Ioke,Arduino,2012-03-02
+24.4,Ioke,Turing,2012-03-02
+22.1,Ioke,Nimrod,2012-03-02
+21.4,Ioke,Lua,2012-03-02
+19.8,Ioke,D,2012-03-02
+19.8,Ioke,Erlang,2012-03-02
+19.1,Ioke,ActionScript,2012-03-02
+18.3,Ioke,Visual Basic,2012-03-02
+18.3,Ioke,FORTRAN,2012-03-02
+17.6,Ioke,Haskell,2012-03-02
+16.8,Ioke,Common Lisp,2012-03-02
+15.3,Ioke,ASP,2012-03-02
+15.3,Ioke,Go,2012-03-02
+14.5,Ioke,Boo,2012-03-02
+13.7,Ioke,ColdFusion,2012-03-02
+13.7,Ioke,HaXe,2012-03-02
+13.0,Ioke,Objective-J,2012-03-02
+11.5,Ioke,Vala,2012-03-02
+11.5,Ioke,Opa,2012-03-02
+10.7,Ioke,VHDL,2012-03-02
+9.9,Ioke,Tcl,2012-03-02
+8.4,Ioke,ooc,2012-03-02
+7.6,Ioke,Factor,2012-03-02
+6.1,Ioke,Ada,2012-03-02
+5.3,Ioke,Smalltalk,2012-03-02
+4.6,Ioke,Dylan,2012-03-02
+4.6,Ioke,Modelica,2012-03-02
+2.3,Ioke,Self,2012-03-02
+2.3,Ioke,F#,2012-03-02
+1.5,Ioke,Fancy,2012-03-02
+1.5,Ioke,Eiffel,2012-03-02
+1.5,Ioke,Io,2012-03-02
+0.8,Ioke,Fantom,2012-03-02
+0.8,Ioke,Puppet,2012-03-02
+0.8,Ioke,Arc,2012-03-02
+0.8,Ioke,Verilog,2012-03-02
+0.8,Ioke,Mirah,2012-03-02
+44.9,Java,JavaScript,2012-03-02
+43.2,Java,Shell,2012-03-02
+31.2,Java,Python,2012-03-02
+30.1,Java,C,2012-03-02
+25.8,Java,Ruby,2012-03-02
+22.4,Java,C++,2012-03-02
+18.9,Java,PHP,2012-03-02
+16.7,Java,Perl,2012-03-02
+11.5,Java,Objective-C,2012-03-02
+8.8,Java,C#,2012-03-02
+8.1,Java,VimL,2012-03-02
+6.4,Java,Emacs Lisp,2012-03-02
+6.3,Java,Scala,2012-03-02
+6.3,Java,Groovy,2012-03-02
+5.9,Java,Assembly,2012-03-02
+5.4,Java,CoffeeScript,2012-03-02
+4.1,Java,ActionScript,2012-03-02
+3.7,Java,Rust,2012-03-02
+3.6,Java,D,2012-03-02
+3.5,Java,Haskell,2012-03-02
+3.5,Java,Clojure,2012-03-02
+3.2,Java,Prolog,2012-03-02
+3.2,Java,Lua,2012-03-02
+3.0,Java,ASP,2012-03-02
+2.7,Java,Visual Basic,2012-03-02
+2.7,Java,Tcl,2012-03-02
+2.6,Java,Erlang,2012-03-02
+2.3,Java,Scheme,2012-03-02
+2.1,Java,R,2012-03-02
+2.1,Java,Delphi,2012-03-02
+1.8,Java,Common Lisp,2012-03-02
+1.4,Java,OCaml,2012-03-02
+1.4,Java,Go,2012-03-02
+1.4,Java,Matlab,2012-03-02
+1.3,Java,Smalltalk,2012-03-02
+1.2,Java,FORTRAN,2012-03-02
+1.1,Java,Ada,2012-03-02
+1.1,Java,SuperCollider,2012-03-02
+0.8,Java,Verilog,2012-03-02
+0.8,Java,ColdFusion,2012-03-02
+0.6,Java,F#,2012-03-02
+0.6,Java,Arduino,2012-03-02
+0.5,Java,Gosu,2012-03-02
+0.5,Java,HaXe,2012-03-02
+0.5,Java,Objective-J,2012-03-02
+0.4,Java,VHDL,2012-03-02
+0.4,Java,Modelica,2012-03-02
+0.4,Java,Racket,2012-03-02
+0.4,Java,XQuery,2012-03-02
+0.3,Java,Vala,2012-03-02
+0.3,Java,Puppet,2012-03-02
+0.3,Java,Io,2012-03-02
+0.3,Java,Boo,2012-03-02
+0.3,Java,Eiffel,2012-03-02
+0.3,Java,Standard ML,2012-03-02
+0.2,Java,Pure Data,2012-03-02
+0.2,Java,Nu,2012-03-02
+0.2,Java,Turing,2012-03-02
+0.2,Java,Ioke,2012-03-02
+0.2,Java,Nemerle,2012-03-02
+0.1,Java,Rebol,2012-03-02
+0.1,Java,AutoHotkey,2012-03-02
+0.1,Java,Mirah,2012-03-02
+0.1,Java,Parrot,2012-03-02
+0.1,Java,Factor,2012-03-02
+0.1,Java,ooc,2012-03-02
+0.1,Java,Arc,2012-03-02
+0.1,Java,Self,2012-03-02
+0.1,Java,Fancy,2012-03-02
+50.8,JavaScript,Ruby,2012-03-02
+37.9,JavaScript,Shell,2012-03-02
+30.5,JavaScript,PHP,2012-03-02
+27.8,JavaScript,Python,2012-03-02
+20.5,JavaScript,C,2012-03-02
+19.8,JavaScript,Java,2012-03-02
+13.1,JavaScript,C++,2012-03-02
+13.1,JavaScript,Perl,2012-03-02
+12.3,JavaScript,CoffeeScript,2012-03-02
+8.5,JavaScript,VimL,2012-03-02
+8.1,JavaScript,Objective-C,2012-03-02
+7.9,JavaScript,C#,2012-03-02
+5.0,JavaScript,ASP,2012-03-02
+4.6,JavaScript,Emacs Lisp,2012-03-02
+4.3,JavaScript,ActionScript,2012-03-02
+3.2,JavaScript,Assembly,2012-03-02
+2.6,JavaScript,Groovy,2012-03-02
+2.5,JavaScript,Scala,2012-03-02
+2.4,JavaScript,D,2012-03-02
+2.2,JavaScript,Rust,2012-03-02
+2.1,JavaScript,Lua,2012-03-02
+2.1,JavaScript,Haskell,2012-03-02
+2.1,JavaScript,Visual Basic,2012-03-02
+1.9,JavaScript,Prolog,2012-03-02
+1.7,JavaScript,Clojure,2012-03-02
+1.7,JavaScript,Erlang,2012-03-02
+1.7,JavaScript,Scheme,2012-03-02
+1.4,JavaScript,Tcl,2012-03-02
+1.4,JavaScript,R,2012-03-02
+1.0,JavaScript,Delphi,2012-03-02
+1.0,JavaScript,Common Lisp,2012-03-02
+0.9,JavaScript,Modelica,2012-03-02
+0.8,JavaScript,Go,2012-03-02
+0.8,JavaScript,ColdFusion,2012-03-02
+0.7,JavaScript,OCaml,2012-03-02
+0.6,JavaScript,Smalltalk,2012-03-02
+0.6,JavaScript,Matlab,2012-03-02
+0.6,JavaScript,FORTRAN,2012-03-02
+0.5,JavaScript,Ada,2012-03-02
+0.5,JavaScript,F#,2012-03-02
+0.4,JavaScript,SuperCollider,2012-03-02
+0.4,JavaScript,Puppet,2012-03-02
+0.4,JavaScript,Verilog,2012-03-02
+0.4,JavaScript,Objective-J,2012-03-02
+0.3,JavaScript,Gosu,2012-03-02
+0.3,JavaScript,HaXe,2012-03-02
+0.3,JavaScript,Racket,2012-03-02
+0.2,JavaScript,Boo,2012-03-02
+0.2,JavaScript,Io,2012-03-02
+0.2,JavaScript,Arduino,2012-03-02
+0.2,JavaScript,Vala,2012-03-02
+0.2,JavaScript,XQuery,2012-03-02
+0.2,JavaScript,VHDL,2012-03-02
+0.1,JavaScript,Standard ML,2012-03-02
+0.1,JavaScript,Nu,2012-03-02
+0.1,JavaScript,Eiffel,2012-03-02
+0.1,JavaScript,AutoHotkey,2012-03-02
+0.1,JavaScript,Nemerle,2012-03-02
+0.1,JavaScript,Pure Data,2012-03-02
+0.1,JavaScript,Parrot,2012-03-02
+0.1,JavaScript,Turing,2012-03-02
+0.1,JavaScript,Ioke,2012-03-02
+0.1,JavaScript,Rebol,2012-03-02
+0.1,JavaScript,Factor,2012-03-02
+0.1,JavaScript,ooc,2012-03-02
+71.5,Lua,Shell,2012-03-02
+65.7,Lua,C,2012-03-02
+57.0,Lua,Python,2012-03-02
+52.8,Lua,C++,2012-03-02
+51.0,Lua,JavaScript,2012-03-02
+41.0,Lua,Perl,2012-03-02
+40.4,Lua,Ruby,2012-03-02
+34.5,Lua,Java,2012-03-02
+31.6,Lua,PHP,2012-03-02
+26.3,Lua,VimL,2012-03-02
+26.3,Lua,Objective-C,2012-03-02
+20.1,Lua,C#,2012-03-02
+16.8,Lua,Assembly,2012-03-02
+16.2,Lua,Emacs Lisp,2012-03-02
+12.4,Lua,Rust,2012-03-02
+11.6,Lua,D,2012-03-02
+10.9,Lua,Haskell,2012-03-02
+9.9,Lua,Scheme,2012-03-02
+9.0,Lua,CoffeeScript,2012-03-02
+8.8,Lua,Prolog,2012-03-02
+8.7,Lua,Visual Basic,2012-03-02
+8.3,Lua,Common Lisp,2012-03-02
+7.9,Lua,Delphi,2012-03-02
+7.6,Lua,Tcl,2012-03-02
+7.4,Lua,Erlang,2012-03-02
+7.3,Lua,Scala,2012-03-02
+7.3,Lua,Clojure,2012-03-02
+7.3,Lua,R,2012-03-02
+6.6,Lua,OCaml,2012-03-02
+5.8,Lua,ActionScript,2012-03-02
+5.7,Lua,Go,2012-03-02
+5.4,Lua,FORTRAN,2012-03-02
+4.8,Lua,Ada,2012-03-02
+4.4,Lua,Groovy,2012-03-02
+4.4,Lua,ASP,2012-03-02
+3.5,Lua,HaXe,2012-03-02
+3.5,Lua,Smalltalk,2012-03-02
+3.3,Lua,Matlab,2012-03-02
+3.2,Lua,F#,2012-03-02
+2.8,Lua,Vala,2012-03-02
+2.4,Lua,Racket,2012-03-02
+2.4,Lua,Boo,2012-03-02
+2.3,Lua,ColdFusion,2012-03-02
+2.1,Lua,VHDL,2012-03-02
+1.8,Lua,SuperCollider,2012-03-02
+1.6,Lua,Objective-J,2012-03-02
+1.4,Lua,Verilog,2012-03-02
+1.3,Lua,Nu,2012-03-02
+1.3,Lua,Eiffel,2012-03-02
+1.1,Lua,Io,2012-03-02
+1.0,Lua,Standard ML,2012-03-02
+0.8,Lua,Nemerle,2012-03-02
+0.8,Lua,Rebol,2012-03-02
+0.8,Lua,Factor,2012-03-02
+0.7,Lua,Puppet,2012-03-02
+0.7,Lua,Modelica,2012-03-02
+0.6,Lua,ooc,2012-03-02
+0.6,Lua,AutoHotkey,2012-03-02
+0.6,Lua,XQuery,2012-03-02
+0.6,Lua,Pure Data,2012-03-02
+0.6,Lua,Turing,2012-03-02
+0.5,Lua,Gosu,2012-03-02
+0.5,Lua,Ioke,2012-03-02
+0.4,Lua,Self,2012-03-02
+0.4,Lua,Parrot,2012-03-02
+0.4,Lua,Arduino,2012-03-02
+0.4,Lua,Dylan,2012-03-02
+0.3,Lua,Arc,2012-03-02
+0.2,Lua,Mirah,2012-03-02
+0.2,Lua,Nimrod,2012-03-02
+0.1,Lua,Fancy,2012-03-02
+68.3,Matlab,C,2012-03-02
+66.7,Matlab,Shell,2012-03-02
+64.3,Matlab,Python,2012-03-02
+60.2,Matlab,C++,2012-03-02
+56.1,Matlab,Objective-C,2012-03-02
+38.6,Matlab,Java,2012-03-02
+37.7,Matlab,JavaScript,2012-03-02
+33.9,Matlab,Perl,2012-03-02
+25.2,Matlab,Ruby,2012-03-02
+20.8,Matlab,PHP,2012-03-02
+20.5,Matlab,Assembly,2012-03-02
+15.5,Matlab,FORTRAN,2012-03-02
+15.3,Matlab,R,2012-03-02
+15.2,Matlab,Emacs Lisp,2012-03-02
+14.8,Matlab,VimL,2012-03-02
+13.7,Matlab,C#,2012-03-02
+12.9,Matlab,Prolog,2012-03-02
+10.9,Matlab,D,2012-03-02
+10.4,Matlab,Rust,2012-03-02
+9.9,Matlab,Tcl,2012-03-02
+9.2,Matlab,Scheme,2012-03-02
+8.4,Matlab,Lua,2012-03-02
+7.7,Matlab,OCaml,2012-03-02
+7.7,Matlab,Delphi,2012-03-02
+7.2,Matlab,Haskell,2012-03-02
+7.1,Matlab,CoffeeScript,2012-03-02
+6.0,Matlab,Scala,2012-03-02
+5.7,Matlab,Visual Basic,2012-03-02
+5.4,Matlab,Common Lisp,2012-03-02
+5.3,Matlab,SuperCollider,2012-03-02
+4.2,Matlab,ActionScript,2012-03-02
+4.0,Matlab,VHDL,2012-03-02
+4.0,Matlab,Groovy,2012-03-02
+3.9,Matlab,Clojure,2012-03-02
+3.8,Matlab,ASP,2012-03-02
+3.8,Matlab,Erlang,2012-03-02
+3.6,Matlab,Ada,2012-03-02
+3.6,Matlab,Racket,2012-03-02
+3.4,Matlab,Verilog,2012-03-02
+3.1,Matlab,Eiffel,2012-03-02
+3.1,Matlab,Nemerle,2012-03-02
+2.8,Matlab,Rebol,2012-03-02
+2.5,Matlab,Nu,2012-03-02
+2.5,Matlab,Standard ML,2012-03-02
+2.5,Matlab,Go,2012-03-02
+2.4,Matlab,Smalltalk,2012-03-02
+2.4,Matlab,Parrot,2012-03-02
+2.3,Matlab,Objective-J,2012-03-02
+2.2,Matlab,F#,2012-03-02
+2.2,Matlab,Gosu,2012-03-02
+2.2,Matlab,XQuery,2012-03-02
+2.1,Matlab,Ioke,2012-03-02
+2.0,Matlab,AutoHotkey,2012-03-02
+2.0,Matlab,Vala,2012-03-02
+2.0,Matlab,Arduino,2012-03-02
+1.9,Matlab,Turing,2012-03-02
+1.6,Matlab,Pure Data,2012-03-02
+1.3,Matlab,HaXe,2012-03-02
+1.0,Matlab,Nimrod,2012-03-02
+0.9,Matlab,Modelica,2012-03-02
+0.8,Matlab,Boo,2012-03-02
+0.7,Matlab,Io,2012-03-02
+0.7,Matlab,Factor,2012-03-02
+0.6,Matlab,Opa,2012-03-02
+0.5,Matlab,Arc,2012-03-02
+0.4,Matlab,Dylan,2012-03-02
+0.4,Matlab,Puppet,2012-03-02
+0.4,Matlab,ColdFusion,2012-03-02
+0.2,Matlab,Self,2012-03-02
+0.2,Matlab,ooc,2012-03-02
+0.1,Matlab,Fantom,2012-03-02
+0.1,Matlab,Fancy,2012-03-02
+0.1,Matlab,Mirah,2012-03-02
+77.8,Max/MSP,JavaScript,2012-03-02
+55.6,Max/MSP,Ruby,2012-03-02
+55.6,Max/MSP,C,2012-03-02
+44.4,Max/MSP,PHP,2012-03-02
+33.3,Max/MSP,Java,2012-03-02
+33.3,Max/MSP,C++,2012-03-02
+33.3,Max/MSP,Shell,2012-03-02
+22.2,Max/MSP,Clojure,2012-03-02
+22.2,Max/MSP,Perl,2012-03-02
+22.2,Max/MSP,Objective-C,2012-03-02
+22.2,Max/MSP,Pure Data,2012-03-02
+22.2,Max/MSP,CoffeeScript,2012-03-02
+11.1,Max/MSP,Groovy,2012-03-02
+11.1,Max/MSP,Prolog,2012-03-02
+11.1,Max/MSP,Python,2012-03-02
+11.1,Max/MSP,VimL,2012-03-02
+11.1,Max/MSP,Emacs Lisp,2012-03-02
+11.1,Max/MSP,SuperCollider,2012-03-02
+11.1,Max/MSP,Scheme,2012-03-02
+94.9,Mirah,JavaScript,2012-03-02
+87.3,Mirah,Ruby,2012-03-02
+84.8,Mirah,Shell,2012-03-02
+81.0,Mirah,Java,2012-03-02
+67.1,Mirah,Python,2012-03-02
+64.6,Mirah,C,2012-03-02
+45.6,Mirah,Perl,2012-03-02
+40.5,Mirah,C++,2012-03-02
+38.0,Mirah,Emacs Lisp,2012-03-02
+34.2,Mirah,VimL,2012-03-02
+34.2,Mirah,Assembly,2012-03-02
+32.9,Mirah,CoffeeScript,2012-03-02
+31.6,Mirah,Objective-C,2012-03-02
+30.4,Mirah,Clojure,2012-03-02
+26.6,Mirah,PHP,2012-03-02
+25.3,Mirah,OCaml,2012-03-02
+24.1,Mirah,Scala,2012-03-02
+24.1,Mirah,Scheme,2012-03-02
+20.3,Mirah,Groovy,2012-03-02
+19.0,Mirah,C#,2012-03-02
+19.0,Mirah,Lua,2012-03-02
+17.7,Mirah,Tcl,2012-03-02
+15.2,Mirah,Haskell,2012-03-02
+11.4,Mirah,Rust,2012-03-02
+11.4,Mirah,ActionScript,2012-03-02
+10.1,Mirah,Go,2012-03-02
+7.6,Mirah,Prolog,2012-03-02
+6.3,Mirah,Visual Basic,2012-03-02
+6.3,Mirah,D,2012-03-02
+6.3,Mirah,ASP,2012-03-02
+5.1,Mirah,R,2012-03-02
+5.1,Mirah,Common Lisp,2012-03-02
+5.1,Mirah,FORTRAN,2012-03-02
+3.8,Mirah,Io,2012-03-02
+3.8,Mirah,SuperCollider,2012-03-02
+3.8,Mirah,F#,2012-03-02
+3.8,Mirah,Erlang,2012-03-02
+2.5,Mirah,Vala,2012-03-02
+2.5,Mirah,Racket,2012-03-02
+2.5,Mirah,Factor,2012-03-02
+2.5,Mirah,ColdFusion,2012-03-02
+2.5,Mirah,HaXe,2012-03-02
+2.5,Mirah,Matlab,2012-03-02
+2.5,Mirah,Smalltalk,2012-03-02
+2.5,Mirah,Delphi,2012-03-02
+2.5,Mirah,Arc,2012-03-02
+1.3,Mirah,Ioke,2012-03-02
+1.3,Mirah,Rebol,2012-03-02
+1.3,Mirah,Boo,2012-03-02
+1.3,Mirah,Puppet,2012-03-02
+1.3,Mirah,Objective-J,2012-03-02
+1.3,Mirah,Arduino,2012-03-02
+1.3,Mirah,ooc,2012-03-02
+1.3,Mirah,Ada,2012-03-02
+1.3,Mirah,Standard ML,2012-03-02
+1.3,Mirah,Eiffel,2012-03-02
+89.9,Modelica,JavaScript,2012-03-02
+71.9,Modelica,Shell,2012-03-02
+67.1,Modelica,PHP,2012-03-02
+57.5,Modelica,Python,2012-03-02
+30.8,Modelica,C,2012-03-02
+26.3,Modelica,Ruby,2012-03-02
+18.9,Modelica,Perl,2012-03-02
+17.3,Modelica,Java,2012-03-02
+17.0,Modelica,C++,2012-03-02
+12.6,Modelica,VimL,2012-03-02
+9.2,Modelica,Objective-C,2012-03-02
+7.2,Modelica,ASP,2012-03-02
+7.1,Modelica,C#,2012-03-02
+6.2,Modelica,Emacs Lisp,2012-03-02
+5.7,Modelica,ActionScript,2012-03-02
+5.6,Modelica,Assembly,2012-03-02
+5.2,Modelica,CoffeeScript,2012-03-02
+5.0,Modelica,D,2012-03-02
+4.5,Modelica,Visual Basic,2012-03-02
+4.3,Modelica,Puppet,2012-03-02
+3.9,Modelica,Prolog,2012-03-02
+3.3,Modelica,R,2012-03-02
+2.9,Modelica,Lua,2012-03-02
+2.8,Modelica,Rust,2012-03-02
+2.7,Modelica,Delphi,2012-03-02
+2.4,Modelica,Scheme,2012-03-02
+2.2,Modelica,Tcl,2012-03-02
+2.1,Modelica,Scala,2012-03-02
+1.7,Modelica,Haskell,2012-03-02
+1.6,Modelica,ColdFusion,2012-03-02
+1.6,Modelica,Groovy,2012-03-02
+1.5,Modelica,Erlang,2012-03-02
+1.5,Modelica,Matlab,2012-03-02
+1.4,Modelica,OCaml,2012-03-02
+1.2,Modelica,SuperCollider,2012-03-02
+1.1,Modelica,Ada,2012-03-02
+1.1,Modelica,Nemerle,2012-03-02
+1.0,Modelica,Smalltalk,2012-03-02
+0.9,Modelica,HaXe,2012-03-02
+0.8,Modelica,FORTRAN,2012-03-02
+0.8,Modelica,Common Lisp,2012-03-02
+0.8,Modelica,Objective-J,2012-03-02
+0.8,Modelica,Turing,2012-03-02
+0.7,Modelica,AutoHotkey,2012-03-02
+0.7,Modelica,Go,2012-03-02
+0.5,Modelica,Boo,2012-03-02
+0.5,Modelica,Standard ML,2012-03-02
+0.5,Modelica,Clojure,2012-03-02
+0.5,Modelica,Vala,2012-03-02
+0.5,Modelica,Racket,2012-03-02
+0.5,Modelica,Gosu,2012-03-02
+0.5,Modelica,Arduino,2012-03-02
+0.5,Modelica,F#,2012-03-02
+0.5,Modelica,XQuery,2012-03-02
+0.5,Modelica,Nu,2012-03-02
+0.5,Modelica,Parrot,2012-03-02
+0.4,Modelica,Ioke,2012-03-02
+0.4,Modelica,Rebol,2012-03-02
+0.3,Modelica,Nimrod,2012-03-02
+0.3,Modelica,Io,2012-03-02
+0.3,Modelica,Eiffel,2012-03-02
+0.3,Modelica,Pure Data,2012-03-02
+0.3,Modelica,Verilog,2012-03-02
+0.3,Modelica,Opa,2012-03-02
+0.2,Modelica,Arc,2012-03-02
+0.1,Modelica,VHDL,2012-03-02
+0.1,Modelica,Factor,2012-03-02
+0.1,Modelica,Dylan,2012-03-02
+95.6,Nemerle,Shell,2012-03-02
+92.6,Nemerle,C,2012-03-02
+79.8,Nemerle,C++,2012-03-02
+74.3,Nemerle,Python,2012-03-02
+73.9,Nemerle,Perl,2012-03-02
+64.3,Nemerle,Assembly,2012-03-02
+61.8,Nemerle,Rust,2012-03-02
+59.9,Nemerle,JavaScript,2012-03-02
+49.3,Nemerle,R,2012-03-02
+47.4,Nemerle,PHP,2012-03-02
+47.1,Nemerle,Objective-C,2012-03-02
+46.3,Nemerle,Ruby,2012-03-02
+40.8,Nemerle,Emacs Lisp,2012-03-02
+40.4,Nemerle,VimL,2012-03-02
+38.2,Nemerle,Java,2012-03-02
+37.1,Nemerle,D,2012-03-02
+36.4,Nemerle,C#,2012-03-02
+36.4,Nemerle,Prolog,2012-03-02
+34.6,Nemerle,Delphi,2012-03-02
+32.4,Nemerle,Scheme,2012-03-02
+32.0,Nemerle,OCaml,2012-03-02
+27.6,Nemerle,Matlab,2012-03-02
+26.8,Nemerle,CoffeeScript,2012-03-02
+26.5,Nemerle,SuperCollider,2012-03-02
+26.1,Nemerle,Groovy,2012-03-02
+25.4,Nemerle,Scala,2012-03-02
+23.9,Nemerle,Tcl,2012-03-02
+23.2,Nemerle,Ioke,2012-03-02
+23.2,Nemerle,Racket,2012-03-02
+22.8,Nemerle,Visual Basic,2012-03-02
+22.8,Nemerle,Nu,2012-03-02
+21.7,Nemerle,XQuery,2012-03-02
+21.0,Nemerle,ASP,2012-03-02
+20.6,Nemerle,Gosu,2012-03-02
+20.2,Nemerle,Rebol,2012-03-02
+20.2,Nemerle,AutoHotkey,2012-03-02
+19.5,Nemerle,Parrot,2012-03-02
+19.1,Nemerle,Lua,2012-03-02
+18.4,Nemerle,FORTRAN,2012-03-02
+15.8,Nemerle,Standard ML,2012-03-02
+15.4,Nemerle,Turing,2012-03-02
+14.3,Nemerle,Haskell,2012-03-02
+12.9,Nemerle,Ada,2012-03-02
+12.5,Nemerle,Arduino,2012-03-02
+12.5,Nemerle,HaXe,2012-03-02
+11.8,Nemerle,ActionScript,2012-03-02
+11.4,Nemerle,Common Lisp,2012-03-02
+10.7,Nemerle,Nimrod,2012-03-02
+10.3,Nemerle,Erlang,2012-03-02
+9.6,Nemerle,F#,2012-03-02
+8.8,Nemerle,Go,2012-03-02
+8.8,Nemerle,Clojure,2012-03-02
+8.8,Nemerle,Objective-J,2012-03-02
+7.4,Nemerle,Smalltalk,2012-03-02
+7.0,Nemerle,Eiffel,2012-03-02
+6.2,Nemerle,Vala,2012-03-02
+5.9,Nemerle,ColdFusion,2012-03-02
+5.9,Nemerle,Boo,2012-03-02
+5.9,Nemerle,Modelica,2012-03-02
+5.5,Nemerle,Opa,2012-03-02
+5.5,Nemerle,VHDL,2012-03-02
+4.0,Nemerle,ooc,2012-03-02
+3.3,Nemerle,Pure Data,2012-03-02
+2.9,Nemerle,Verilog,2012-03-02
+2.9,Nemerle,Arc,2012-03-02
+2.9,Nemerle,Self,2012-03-02
+2.6,Nemerle,Io,2012-03-02
+2.6,Nemerle,Factor,2012-03-02
+1.1,Nemerle,Dylan,2012-03-02
+0.7,Nemerle,Fantom,2012-03-02
+0.7,Nemerle,Puppet,2012-03-02
+0.7,Nemerle,Fancy,2012-03-02
+100.0,Nimrod,Python,2012-03-02
+100.0,Nimrod,Shell,2012-03-02
+97.0,Nimrod,C,2012-03-02
+97.0,Nimrod,Delphi,2012-03-02
+97.0,Nimrod,JavaScript,2012-03-02
+93.9,Nimrod,Assembly,2012-03-02
+93.9,Nimrod,Ruby,2012-03-02
+93.9,Nimrod,R,2012-03-02
+93.9,Nimrod,Objective-C,2012-03-02
+93.9,Nimrod,Perl,2012-03-02
+90.9,Nimrod,C++,2012-03-02
+90.9,Nimrod,Scheme,2012-03-02
+90.9,Nimrod,CoffeeScript,2012-03-02
+90.9,Nimrod,OCaml,2012-03-02
+90.9,Nimrod,PHP,2012-03-02
+87.9,Nimrod,Prolog,2012-03-02
+87.9,Nimrod,Scala,2012-03-02
+87.9,Nimrod,Ioke,2012-03-02
+87.9,Nimrod,Groovy,2012-03-02
+87.9,Nimrod,AutoHotkey,2012-03-02
+87.9,Nimrod,XQuery,2012-03-02
+87.9,Nimrod,VimL,2012-03-02
+87.9,Nimrod,Nemerle,2012-03-02
+84.8,Nimrod,Racket,2012-03-02
+84.8,Nimrod,Nu,2012-03-02
+78.8,Nimrod,Rust,2012-03-02
+78.8,Nimrod,Gosu,2012-03-02
+75.8,Nimrod,Rebol,2012-03-02
+72.7,Nimrod,Standard ML,2012-03-02
+72.7,Nimrod,Emacs Lisp,2012-03-02
+72.7,Nimrod,SuperCollider,2012-03-02
+69.7,Nimrod,Matlab,2012-03-02
+69.7,Nimrod,Parrot,2012-03-02
+66.7,Nimrod,Turing,2012-03-02
+66.7,Nimrod,Arduino,2012-03-02
+48.5,Nimrod,Java,2012-03-02
+45.5,Nimrod,Opa,2012-03-02
+36.4,Nimrod,Erlang,2012-03-02
+33.3,Nimrod,FORTRAN,2012-03-02
+33.3,Nimrod,Haskell,2012-03-02
+33.3,Nimrod,C#,2012-03-02
+33.3,Nimrod,D,2012-03-02
+30.3,Nimrod,Lua,2012-03-02
+30.3,Nimrod,Visual Basic,2012-03-02
+30.3,Nimrod,Common Lisp,2012-03-02
+27.3,Nimrod,Clojure,2012-03-02
+24.2,Nimrod,Vala,2012-03-02
+24.2,Nimrod,ASP,2012-03-02
+24.2,Nimrod,Boo,2012-03-02
+21.2,Nimrod,HaXe,2012-03-02
+21.2,Nimrod,Objective-J,2012-03-02
+21.2,Nimrod,ActionScript,2012-03-02
+21.2,Nimrod,ColdFusion,2012-03-02
+21.2,Nimrod,VHDL,2012-03-02
+18.2,Nimrod,Go,2012-03-02
+15.2,Nimrod,Modelica,2012-03-02
+15.2,Nimrod,ooc,2012-03-02
+15.2,Nimrod,Tcl,2012-03-02
+9.1,Nimrod,Ada,2012-03-02
+9.1,Nimrod,Factor,2012-03-02
+6.1,Nimrod,Smalltalk,2012-03-02
+6.1,Nimrod,Dylan,2012-03-02
+6.1,Nimrod,F#,2012-03-02
+3.0,Nimrod,Eiffel,2012-03-02
+3.0,Nimrod,Self,2012-03-02
+3.0,Nimrod,Fancy,2012-03-02
+94.8,Nu,C,2012-03-02
+89.6,Nu,Python,2012-03-02
+83.7,Nu,Shell,2012-03-02
+79.7,Nu,JavaScript,2012-03-02
+78.5,Nu,Ruby,2012-03-02
+68.1,Nu,Objective-C,2012-03-02
+66.5,Nu,Perl,2012-03-02
+66.5,Nu,C++,2012-03-02
+59.8,Nu,PHP,2012-03-02
+49.0,Nu,Java,2012-03-02
+49.0,Nu,Scheme,2012-03-02
+47.8,Nu,Assembly,2012-03-02
+47.0,Nu,Emacs Lisp,2012-03-02
+45.8,Nu,Scala,2012-03-02
+45.8,Nu,Delphi,2012-03-02
+45.4,Nu,Groovy,2012-03-02
+44.2,Nu,OCaml,2012-03-02
+44.2,Nu,R,2012-03-02
+41.8,Nu,Prolog,2012-03-02
+41.8,Nu,VimL,2012-03-02
+38.6,Nu,CoffeeScript,2012-03-02
+33.1,Nu,Lua,2012-03-02
+32.7,Nu,Racket,2012-03-02
+32.7,Nu,C#,2012-03-02
+32.3,Nu,Haskell,2012-03-02
+31.9,Nu,Erlang,2012-03-02
+30.3,Nu,FORTRAN,2012-03-02
+30.3,Nu,Common Lisp,2012-03-02
+30.3,Nu,Parrot,2012-03-02
+27.5,Nu,D,2012-03-02
+26.3,Nu,Boo,2012-03-02
+25.5,Nu,Rust,2012-03-02
+25.5,Nu,ColdFusion,2012-03-02
+25.1,Nu,Ioke,2012-03-02
+24.7,Nu,Nemerle,2012-03-02
+24.3,Nu,Matlab,2012-03-02
+23.9,Nu,XQuery,2012-03-02
+23.5,Nu,Rebol,2012-03-02
+21.5,Nu,AutoHotkey,2012-03-02
+20.3,Nu,Gosu,2012-03-02
+18.7,Nu,SuperCollider,2012-03-02
+17.9,Nu,Visual Basic,2012-03-02
+17.9,Nu,ASP,2012-03-02
+16.7,Nu,Standard ML,2012-03-02
+16.3,Nu,Clojure,2012-03-02
+15.1,Nu,Vala,2012-03-02
+13.9,Nu,Arduino,2012-03-02
+13.5,Nu,Go,2012-03-02
+13.1,Nu,VHDL,2012-03-02
+12.7,Nu,Turing,2012-03-02
+12.0,Nu,ActionScript,2012-03-02
+11.2,Nu,Nimrod,2012-03-02
+9.2,Nu,Tcl,2012-03-02
+8.8,Nu,Objective-J,2012-03-02
+7.2,Nu,HaXe,2012-03-02
+6.0,Nu,Opa,2012-03-02
+5.6,Nu,ooc,2012-03-02
+4.0,Nu,Factor,2012-03-02
+3.2,Nu,Smalltalk,2012-03-02
+2.8,Nu,Modelica,2012-03-02
+2.4,Nu,F#,2012-03-02
+1.6,Nu,Ada,2012-03-02
+1.6,Nu,Verilog,2012-03-02
+1.6,Nu,Io,2012-03-02
+1.2,Nu,Arc,2012-03-02
+1.2,Nu,Eiffel,2012-03-02
+1.2,Nu,Self,2012-03-02
+0.8,Nu,Fantom,2012-03-02
+0.8,Nu,Puppet,2012-03-02
+0.8,Nu,Fancy,2012-03-02
+0.8,Nu,Dylan,2012-03-02
+0.4,Nu,Pure Data,2012-03-02
+83.1,OCaml,Shell,2012-03-02
+80.4,OCaml,C,2012-03-02
+73.9,OCaml,Python,2012-03-02
+64.7,OCaml,JavaScript,2012-03-02
+64.0,OCaml,C++,2012-03-02
+63.8,OCaml,Perl,2012-03-02
+57.4,OCaml,Java,2012-03-02
+52.4,OCaml,Ruby,2012-03-02
+48.8,OCaml,PHP,2012-03-02
+42.6,OCaml,Objective-C,2012-03-02
+38.4,OCaml,C#,2012-03-02
+37.7,OCaml,Emacs Lisp,2012-03-02
+34.0,OCaml,VimL,2012-03-02
+33.3,OCaml,Haskell,2012-03-02
+29.6,OCaml,Assembly,2012-03-02
+25.8,OCaml,Scala,2012-03-02
+24.6,OCaml,D,2012-03-02
+24.4,OCaml,Lua,2012-03-02
+23.8,OCaml,Erlang,2012-03-02
+22.7,OCaml,Scheme,2012-03-02
+20.5,OCaml,Delphi,2012-03-02
+19.7,OCaml,Common Lisp,2012-03-02
+18.9,OCaml,FORTRAN,2012-03-02
+18.0,OCaml,Clojure,2012-03-02
+17.7,OCaml,CoffeeScript,2012-03-02
+17.4,OCaml,R,2012-03-02
+16.2,OCaml,Tcl,2012-03-02
+15.2,OCaml,Go,2012-03-02
+14.6,OCaml,Visual Basic,2012-03-02
+14.2,OCaml,Prolog,2012-03-02
+13.6,OCaml,Rust,2012-03-02
+13.5,OCaml,Groovy,2012-03-02
+12.4,OCaml,ActionScript,2012-03-02
+12.0,OCaml,Smalltalk,2012-03-02
+11.2,OCaml,Matlab,2012-03-02
+10.6,OCaml,ASP,2012-03-02
+9.8,OCaml,Ada,2012-03-02
+8.3,OCaml,Verilog,2012-03-02
+8.0,OCaml,Boo,2012-03-02
+7.7,OCaml,ColdFusion,2012-03-02
+7.6,OCaml,HaXe,2012-03-02
+7.3,OCaml,SuperCollider,2012-03-02
+6.7,OCaml,Nu,2012-03-02
+5.9,OCaml,F#,2012-03-02
+5.8,OCaml,Racket,2012-03-02
+5.8,OCaml,VHDL,2012-03-02
+5.6,OCaml,Standard ML,2012-03-02
+5.6,OCaml,Vala,2012-03-02
+5.6,OCaml,Eiffel,2012-03-02
+5.2,OCaml,Nemerle,2012-03-02
+4.6,OCaml,Objective-J,2012-03-02
+4.4,OCaml,XQuery,2012-03-02
+4.1,OCaml,Rebol,2012-03-02
+3.8,OCaml,Ioke,2012-03-02
+3.8,OCaml,AutoHotkey,2012-03-02
+3.2,OCaml,Gosu,2012-03-02
+3.1,OCaml,Turing,2012-03-02
+2.8,OCaml,Parrot,2012-03-02
+2.3,OCaml,Arduino,2012-03-02
+2.2,OCaml,Io,2012-03-02
+2.2,OCaml,Factor,2012-03-02
+1.8,OCaml,Nimrod,2012-03-02
+1.6,OCaml,Puppet,2012-03-02
+1.4,OCaml,Pure Data,2012-03-02
+1.4,OCaml,Dylan,2012-03-02
+1.3,OCaml,Modelica,2012-03-02
+1.2,OCaml,Mirah,2012-03-02
+1.2,OCaml,ooc,2012-03-02
+1.1,OCaml,Opa,2012-03-02
+1.1,OCaml,Self,2012-03-02
+1.0,OCaml,Arc,2012-03-02
+0.2,OCaml,Fancy,2012-03-02
+0.1,OCaml,Fantom,2012-03-02
+75.7,Objective-C,C,2012-03-02
+59.0,Objective-C,Shell,2012-03-02
+49.4,Objective-C,JavaScript,2012-03-02
+47.7,Objective-C,Python,2012-03-02
+45.7,Objective-C,C++,2012-03-02
+37.3,Objective-C,Ruby,2012-03-02
+32.5,Objective-C,Perl,2012-03-02
+31.0,Objective-C,Java,2012-03-02
+23.5,Objective-C,PHP,2012-03-02
+18.1,Objective-C,VimL,2012-03-02
+17.3,Objective-C,Assembly,2012-03-02
+13.4,Objective-C,C#,2012-03-02
+12.3,Objective-C,Emacs Lisp,2012-03-02
+9.2,Objective-C,Rust,2012-03-02
+9.0,Objective-C,ASP,2012-03-02
+7.7,Objective-C,CoffeeScript,2012-03-02
+7.7,Objective-C,D,2012-03-02
+7.1,Objective-C,SuperCollider,2012-03-02
+6.7,Objective-C,Prolog,2012-03-02
+6.6,Objective-C,Lua,2012-03-02
+6.2,Objective-C,ActionScript,2012-03-02
+5.5,Objective-C,Matlab,2012-03-02
+5.4,Objective-C,R,2012-03-02
+5.0,Objective-C,Tcl,2012-03-02
+4.9,Objective-C,Visual Basic,2012-03-02
+4.8,Objective-C,Haskell,2012-03-02
+4.6,Objective-C,Delphi,2012-03-02
+4.3,Objective-C,Scheme,2012-03-02
+3.8,Objective-C,Scala,2012-03-02
+3.5,Objective-C,FORTRAN,2012-03-02
+3.4,Objective-C,Erlang,2012-03-02
+3.1,Objective-C,Clojure,2012-03-02
+2.9,Objective-C,Ada,2012-03-02
+2.9,Objective-C,OCaml,2012-03-02
+2.6,Objective-C,Smalltalk,2012-03-02
+2.5,Objective-C,Groovy,2012-03-02
+2.4,Objective-C,Common Lisp,2012-03-02
+2.0,Objective-C,Verilog,2012-03-02
+1.9,Objective-C,Go,2012-03-02
+1.3,Objective-C,HaXe,2012-03-02
+1.3,Objective-C,Objective-J,2012-03-02
+1.1,Objective-C,F#,2012-03-02
+0.8,Objective-C,Racket,2012-03-02
+0.8,Objective-C,VHDL,2012-03-02
+0.8,Objective-C,Io,2012-03-02
+0.7,Objective-C,ColdFusion,2012-03-02
+0.7,Objective-C,Nu,2012-03-02
+0.7,Objective-C,Vala,2012-03-02
+0.6,Objective-C,Eiffel,2012-03-02
+0.6,Objective-C,Modelica,2012-03-02
+0.5,Objective-C,Boo,2012-03-02
+0.5,Objective-C,Arduino,2012-03-02
+0.5,Objective-C,Standard ML,2012-03-02
+0.5,Objective-C,Nemerle,2012-03-02
+0.5,Objective-C,XQuery,2012-03-02
+0.5,Objective-C,Pure Data,2012-03-02
+0.4,Objective-C,Rebol,2012-03-02
+0.4,Objective-C,Gosu,2012-03-02
+0.4,Objective-C,Puppet,2012-03-02
+0.4,Objective-C,Turing,2012-03-02
+0.3,Objective-C,AutoHotkey,2012-03-02
+0.3,Objective-C,Ioke,2012-03-02
+0.3,Objective-C,Parrot,2012-03-02
+0.3,Objective-C,Factor,2012-03-02
+0.2,Objective-C,ooc,2012-03-02
+0.2,Objective-C,Self,2012-03-02
+0.1,Objective-C,Nimrod,2012-03-02
+0.1,Objective-C,Arc,2012-03-02
+0.1,Objective-C,Mirah,2012-03-02
+0.1,Objective-C,Dylan,2012-03-02
+0.1,Objective-C,Opa,2012-03-02
+86.6,Objective-J,JavaScript,2012-03-02
+81.8,Objective-J,Shell,2012-03-02
+72.3,Objective-J,C,2012-03-02
+64.3,Objective-J,Python,2012-03-02
+61.8,Objective-J,Ruby,2012-03-02
+51.0,Objective-J,C++,2012-03-02
+50.9,Objective-J,Objective-C,2012-03-02
+49.9,Objective-J,Java,2012-03-02
+44.6,Objective-J,Perl,2012-03-02
+43.6,Objective-J,VimL,2012-03-02
+42.5,Objective-J,Emacs Lisp,2012-03-02
+35.7,Objective-J,PHP,2012-03-02
+34.9,Objective-J,Assembly,2012-03-02
+26.1,Objective-J,C#,2012-03-02
+22.5,Objective-J,R,2012-03-02
+20.3,Objective-J,Scheme,2012-03-02
+18.5,Objective-J,Haskell,2012-03-02
+18.4,Objective-J,D,2012-03-02
+16.4,Objective-J,Scala,2012-03-02
+16.1,Objective-J,CoffeeScript,2012-03-02
+15.8,Objective-J,Lua,2012-03-02
+15.3,Objective-J,ASP,2012-03-02
+15.1,Objective-J,FORTRAN,2012-03-02
+13.8,Objective-J,Delphi,2012-03-02
+13.8,Objective-J,Rust,2012-03-02
+13.7,Objective-J,Erlang,2012-03-02
+13.5,Objective-J,ActionScript,2012-03-02
+13.2,Objective-J,Prolog,2012-03-02
+13.0,Objective-J,Clojure,2012-03-02
+13.0,Objective-J,Visual Basic,2012-03-02
+12.2,Objective-J,OCaml,2012-03-02
+11.6,Objective-J,Smalltalk,2012-03-02
+11.4,Objective-J,Groovy,2012-03-02
+11.4,Objective-J,Common Lisp,2012-03-02
+11.3,Objective-J,HaXe,2012-03-02
+10.3,Objective-J,Tcl,2012-03-02
+9.3,Objective-J,Ada,2012-03-02
+9.0,Objective-J,Matlab,2012-03-02
+9.0,Objective-J,Boo,2012-03-02
+6.6,Objective-J,VHDL,2012-03-02
+6.6,Objective-J,Vala,2012-03-02
+6.1,Objective-J,SuperCollider,2012-03-02
+6.0,Objective-J,Eiffel,2012-03-02
+5.3,Objective-J,Go,2012-03-02
+5.2,Objective-J,ColdFusion,2012-03-02
+5.0,Objective-J,Racket,2012-03-02
+5.0,Objective-J,F#,2012-03-02
+4.8,Objective-J,Factor,2012-03-02
+4.0,Objective-J,Rebol,2012-03-02
+3.9,Objective-J,Nemerle,2012-03-02
+3.7,Objective-J,Dylan,2012-03-02
+3.5,Objective-J,XQuery,2012-03-02
+3.5,Objective-J,Nu,2012-03-02
+2.7,Objective-J,Ioke,2012-03-02
+2.4,Objective-J,AutoHotkey,2012-03-02
+2.4,Objective-J,Turing,2012-03-02
+1.9,Objective-J,ooc,2012-03-02
+1.9,Objective-J,Modelica,2012-03-02
+1.8,Objective-J,Verilog,2012-03-02
+1.3,Objective-J,Puppet,2012-03-02
+1.1,Objective-J,Nimrod,2012-03-02
+1.1,Objective-J,Io,2012-03-02
+1.0,Objective-J,Self,2012-03-02
+1.0,Objective-J,Standard ML,2012-03-02
+0.8,Objective-J,Gosu,2012-03-02
+0.6,Objective-J,Parrot,2012-03-02
+0.5,Objective-J,Fancy,2012-03-02
+0.5,Objective-J,Arc,2012-03-02
+0.3,Objective-J,Pure Data,2012-03-02
+0.2,Objective-J,Opa,2012-03-02
+0.2,Objective-J,Arduino,2012-03-02
+0.2,Objective-J,Fantom,2012-03-02
+0.2,Objective-J,Mirah,2012-03-02
+89.7,Opa,JavaScript,2012-03-02
+82.8,Opa,Shell,2012-03-02
+75.9,Opa,C,2012-03-02
+75.9,Opa,Python,2012-03-02
+69.0,Opa,Perl,2012-03-02
+65.5,Opa,Standard ML,2012-03-02
+65.5,Opa,C++,2012-03-02
+65.5,Opa,SuperCollider,2012-03-02
+65.5,Opa,VimL,2012-03-02
+65.5,Opa,OCaml,2012-03-02
+65.5,Opa,Assembly,2012-03-02
+65.5,Opa,Objective-C,2012-03-02
+65.5,Opa,Ruby,2012-03-02
+62.1,Opa,PHP,2012-03-02
+62.1,Opa,Emacs Lisp,2012-03-02
+55.2,Opa,Scheme,2012-03-02
+55.2,Opa,Rust,2012-03-02
+51.7,Opa,XQuery,2012-03-02
+51.7,Opa,Groovy,2012-03-02
+51.7,Opa,Delphi,2012-03-02
+51.7,Opa,Matlab,2012-03-02
+51.7,Opa,Scala,2012-03-02
+51.7,Opa,Rebol,2012-03-02
+51.7,Opa,Gosu,2012-03-02
+51.7,Opa,Parrot,2012-03-02
+51.7,Opa,R,2012-03-02
+51.7,Opa,Prolog,2012-03-02
+51.7,Opa,Nimrod,2012-03-02
+51.7,Opa,Nu,2012-03-02
+51.7,Opa,Racket,2012-03-02
+51.7,Opa,CoffeeScript,2012-03-02
+51.7,Opa,Ioke,2012-03-02
+51.7,Opa,Arduino,2012-03-02
+51.7,Opa,Nemerle,2012-03-02
+51.7,Opa,Turing,2012-03-02
+51.7,Opa,AutoHotkey,2012-03-02
+20.7,Opa,Java,2012-03-02
+20.7,Opa,Tcl,2012-03-02
+17.2,Opa,C#,2012-03-02
+13.8,Opa,D,2012-03-02
+13.8,Opa,Modelica,2012-03-02
+10.3,Opa,FORTRAN,2012-03-02
+10.3,Opa,Haskell,2012-03-02
+10.3,Opa,Erlang,2012-03-02
+6.9,Opa,Smalltalk,2012-03-02
+6.9,Opa,Visual Basic,2012-03-02
+6.9,Opa,Eiffel,2012-03-02
+6.9,Opa,ASP,2012-03-02
+6.9,Opa,Lua,2012-03-02
+3.4,Opa,Puppet,2012-03-02
+3.4,Opa,VHDL,2012-03-02
+3.4,Opa,F#,2012-03-02
+3.4,Opa,Boo,2012-03-02
+3.4,Opa,Dylan,2012-03-02
+3.4,Opa,Factor,2012-03-02
+3.4,Opa,Verilog,2012-03-02
+3.4,Opa,HaXe,2012-03-02
+3.4,Opa,Objective-J,2012-03-02
+3.4,Opa,Common Lisp,2012-03-02
+3.4,Opa,Vala,2012-03-02
+3.4,Opa,ActionScript,2012-03-02
+3.4,Opa,Arc,2012-03-02
+3.4,Opa,Clojure,2012-03-02
+3.4,Opa,Ada,2012-03-02
+72.9,PHP,JavaScript,2012-03-02
+44.7,PHP,Shell,2012-03-02
+30.0,PHP,Python,2012-03-02
+28.0,PHP,Ruby,2012-03-02
+23.7,PHP,C,2012-03-02
+19.9,PHP,Java,2012-03-02
+18.8,PHP,Perl,2012-03-02
+15.8,PHP,C++,2012-03-02
+9.2,PHP,Objective-C,2012-03-02
+8.9,PHP,VimL,2012-03-02
+7.6,PHP,C#,2012-03-02
+6.8,PHP,CoffeeScript,2012-03-02
+5.8,PHP,ActionScript,2012-03-02
+5.0,PHP,Emacs Lisp,2012-03-02
+4.9,PHP,ASP,2012-03-02
+3.8,PHP,D,2012-03-02
+3.8,PHP,Assembly,2012-03-02
+3.1,PHP,Lua,2012-03-02
+2.8,PHP,Rust,2012-03-02
+2.6,PHP,Prolog,2012-03-02
+2.5,PHP,Haskell,2012-03-02
+2.4,PHP,Visual Basic,2012-03-02
+2.3,PHP,Scala,2012-03-02
+2.3,PHP,R,2012-03-02
+2.2,PHP,Scheme,2012-03-02
+2.0,PHP,Groovy,2012-03-02
+2.0,PHP,Erlang,2012-03-02
+1.8,PHP,Tcl,2012-03-02
+1.7,PHP,Delphi,2012-03-02
+1.6,PHP,ColdFusion,2012-03-02
+1.6,PHP,Clojure,2012-03-02
+1.6,PHP,Modelica,2012-03-02
+1.4,PHP,Common Lisp,2012-03-02
+1.3,PHP,OCaml,2012-03-02
+1.2,PHP,Go,2012-03-02
+1.0,PHP,FORTRAN,2012-03-02
+0.9,PHP,Smalltalk,2012-03-02
+0.8,PHP,Matlab,2012-03-02
+0.7,PHP,Ada,2012-03-02
+0.6,PHP,SuperCollider,2012-03-02
+0.5,PHP,Puppet,2012-03-02
+0.5,PHP,F#,2012-03-02
+0.5,PHP,HaXe,2012-03-02
+0.4,PHP,Verilog,2012-03-02
+0.4,PHP,Racket,2012-03-02
+0.4,PHP,Vala,2012-03-02
+0.4,PHP,Objective-J,2012-03-02
+0.4,PHP,XQuery,2012-03-02
+0.3,PHP,VHDL,2012-03-02
+0.3,PHP,Arduino,2012-03-02
+0.3,PHP,Boo,2012-03-02
+0.3,PHP,Io,2012-03-02
+0.3,PHP,Gosu,2012-03-02
+0.2,PHP,Nu,2012-03-02
+0.2,PHP,Standard ML,2012-03-02
+0.2,PHP,Eiffel,2012-03-02
+0.2,PHP,Nemerle,2012-03-02
+0.2,PHP,Rebol,2012-03-02
+0.2,PHP,AutoHotkey,2012-03-02
+0.2,PHP,Parrot,2012-03-02
+0.1,PHP,Turing,2012-03-02
+0.1,PHP,Ioke,2012-03-02
+0.1,PHP,Pure Data,2012-03-02
+0.1,PHP,Factor,2012-03-02
+0.1,PHP,ooc,2012-03-02
+0.1,PHP,Self,2012-03-02
+0.1,PHP,Arc,2012-03-02
+90.0,Parrot,C,2012-03-02
+87.9,Parrot,Perl,2012-03-02
+84.7,Parrot,Shell,2012-03-02
+77.4,Parrot,Python,2012-03-02
+71.1,Parrot,JavaScript,2012-03-02
+70.0,Parrot,Ruby,2012-03-02
+57.9,Parrot,C++,2012-03-02
+55.8,Parrot,VimL,2012-03-02
+52.1,Parrot,PHP,2012-03-02
+51.1,Parrot,Emacs Lisp,2012-03-02
+46.8,Parrot,Assembly,2012-03-02
+46.3,Parrot,Prolog,2012-03-02
+40.0,Parrot,Nu,2012-03-02
+36.8,Parrot,Objective-C,2012-03-02
+35.8,Parrot,R,2012-03-02
+33.7,Parrot,Rust,2012-03-02
+32.6,Parrot,Scala,2012-03-02
+32.6,Parrot,Java,2012-03-02
+32.1,Parrot,CoffeeScript,2012-03-02
+30.5,Parrot,Groovy,2012-03-02
+30.0,Parrot,Matlab,2012-03-02
+29.5,Parrot,Delphi,2012-03-02
+28.9,Parrot,Turing,2012-03-02
+27.9,Parrot,Racket,2012-03-02
+27.9,Parrot,Scheme,2012-03-02
+27.9,Parrot,Rebol,2012-03-02
+27.9,Parrot,Nemerle,2012-03-02
+26.8,Parrot,Gosu,2012-03-02
+26.3,Parrot,Ioke,2012-03-02
+25.3,Parrot,XQuery,2012-03-02
+24.7,Parrot,OCaml,2012-03-02
+24.7,Parrot,FORTRAN,2012-03-02
+24.2,Parrot,C#,2012-03-02
+24.2,Parrot,SuperCollider,2012-03-02
+23.7,Parrot,Standard ML,2012-03-02
+23.2,Parrot,AutoHotkey,2012-03-02
+18.4,Parrot,Visual Basic,2012-03-02
+17.9,Parrot,Arduino,2012-03-02
+13.7,Parrot,Lua,2012-03-02
+13.2,Parrot,Common Lisp,2012-03-02
+12.1,Parrot,Nimrod,2012-03-02
+11.1,Parrot,Tcl,2012-03-02
+10.5,Parrot,Haskell,2012-03-02
+8.9,Parrot,D,2012-03-02
+7.9,Parrot,Opa,2012-03-02
+5.8,Parrot,ASP,2012-03-02
+5.8,Parrot,ActionScript,2012-03-02
+5.8,Parrot,Erlang,2012-03-02
+5.3,Parrot,Clojure,2012-03-02
+4.7,Parrot,Go,2012-03-02
+4.2,Parrot,Ada,2012-03-02
+3.7,Parrot,Modelica,2012-03-02
+3.7,Parrot,Vala,2012-03-02
+3.2,Parrot,Smalltalk,2012-03-02
+3.2,Parrot,F#,2012-03-02
+2.6,Parrot,Self,2012-03-02
+2.6,Parrot,Eiffel,2012-03-02
+2.6,Parrot,Verilog,2012-03-02
+2.6,Parrot,Puppet,2012-03-02
+2.6,Parrot,HaXe,2012-03-02
+2.1,Parrot,VHDL,2012-03-02
+2.1,Parrot,Boo,2012-03-02
+2.1,Parrot,Objective-J,2012-03-02
+2.1,Parrot,Factor,2012-03-02
+1.6,Parrot,ooc,2012-03-02
+1.6,Parrot,Io,2012-03-02
+1.1,Parrot,Dylan,2012-03-02
+1.1,Parrot,Fantom,2012-03-02
+1.1,Parrot,ColdFusion,2012-03-02
+0.5,Parrot,Arc,2012-03-02
+80.0,Perl,Shell,2012-03-02
+61.8,Perl,C,2012-03-02
+61.6,Perl,Python,2012-03-02
+60.7,Perl,JavaScript,2012-03-02
+45.4,Perl,C++,2012-03-02
+40.9,Perl,Ruby,2012-03-02
+36.4,Perl,PHP,2012-03-02
+34.0,Perl,Java,2012-03-02
+24.7,Perl,Objective-C,2012-03-02
+22.7,Perl,VimL,2012-03-02
+18.7,Perl,Assembly,2012-03-02
+16.6,Perl,Emacs Lisp,2012-03-02
+14.6,Perl,C#,2012-03-02
+10.5,Perl,D,2012-03-02
+10.4,Perl,Rust,2012-03-02
+10.1,Perl,ASP,2012-03-02
+7.8,Perl,Lua,2012-03-02
+7.5,Perl,Prolog,2012-03-02
+7.2,Perl,CoffeeScript,2012-03-02
+6.8,Perl,Tcl,2012-03-02
+6.6,Perl,Haskell,2012-03-02
+6.5,Perl,R,2012-03-02
+6.4,Perl,Visual Basic,2012-03-02
+6.3,Perl,ActionScript,2012-03-02
+6.3,Perl,Scheme,2012-03-02
+5.6,Perl,SuperCollider,2012-03-02
+5.1,Perl,Erlang,2012-03-02
+4.4,Perl,Scala,2012-03-02
+4.2,Perl,Delphi,2012-03-02
+3.7,Perl,Groovy,2012-03-02
+3.4,Perl,Common Lisp,2012-03-02
+3.3,Perl,Clojure,2012-03-02
+3.3,Perl,FORTRAN,2012-03-02
+3.3,Perl,OCaml,2012-03-02
+2.6,Perl,ColdFusion,2012-03-02
+2.5,Perl,Matlab,2012-03-02
+2.5,Perl,Ada,2012-03-02
+2.3,Perl,Go,2012-03-02
+2.3,Perl,Smalltalk,2012-03-02
+2.1,Perl,Verilog,2012-03-02
+1.3,Perl,F#,2012-03-02
+1.1,Perl,HaXe,2012-03-02
+1.0,Perl,Puppet,2012-03-02
+0.9,Perl,Racket,2012-03-02
+0.9,Perl,Modelica,2012-03-02
+0.9,Perl,Objective-J,2012-03-02
+0.9,Perl,Vala,2012-03-02
+0.8,Perl,VHDL,2012-03-02
+0.7,Perl,Boo,2012-03-02
+0.7,Perl,Eiffel,2012-03-02
+0.6,Perl,XQuery,2012-03-02
+0.6,Perl,Nemerle,2012-03-02
+0.6,Perl,Standard ML,2012-03-02
+0.6,Perl,Turing,2012-03-02
+0.6,Perl,Io,2012-03-02
+0.5,Perl,Arduino,2012-03-02
+0.5,Perl,Nu,2012-03-02
+0.5,Perl,Parrot,2012-03-02
+0.4,Perl,Gosu,2012-03-02
+0.4,Perl,Rebol,2012-03-02
+0.3,Perl,AutoHotkey,2012-03-02
+0.3,Perl,Pure Data,2012-03-02
+0.3,Perl,Self,2012-03-02
+0.2,Perl,Ioke,2012-03-02
+0.2,Perl,Factor,2012-03-02
+0.2,Perl,Arc,2012-03-02
+0.2,Perl,ooc,2012-03-02
+0.1,Perl,Mirah,2012-03-02
+0.1,Perl,Nimrod,2012-03-02
+0.1,Perl,Dylan,2012-03-02
+0.1,Perl,Opa,2012-03-02
+0.1,Perl,Fancy,2012-03-02
+87.6,Prolog,C++,2012-03-02
+80.9,Prolog,C,2012-03-02
+72.0,Prolog,Shell,2012-03-02
+56.3,Prolog,Python,2012-03-02
+51.0,Prolog,JavaScript,2012-03-02
+42.9,Prolog,Perl,2012-03-02
+37.7,Prolog,Java,2012-03-02
+33.9,Prolog,Ruby,2012-03-02
+29.1,Prolog,PHP,2012-03-02
+29.1,Prolog,Objective-C,2012-03-02
+26.8,Prolog,Assembly,2012-03-02
+24.4,Prolog,Rust,2012-03-02
+21.5,Prolog,Emacs Lisp,2012-03-02
+20.8,Prolog,VimL,2012-03-02
+19.3,Prolog,C#,2012-03-02
+15.4,Prolog,D,2012-03-02
+13.1,Prolog,Tcl,2012-03-02
+11.1,Prolog,Delphi,2012-03-02
+10.2,Prolog,Visual Basic,2012-03-02
+9.5,Prolog,Lua,2012-03-02
+8.9,Prolog,Scheme,2012-03-02
+8.0,Prolog,R,2012-03-02
+7.8,Prolog,ActionScript,2012-03-02
+7.4,Prolog,CoffeeScript,2012-03-02
+7.2,Prolog,Haskell,2012-03-02
+7.1,Prolog,Ada,2012-03-02
+5.6,Prolog,Verilog,2012-03-02
+5.4,Prolog,Matlab,2012-03-02
+5.2,Prolog,Scala,2012-03-02
+5.1,Prolog,FORTRAN,2012-03-02
+4.5,Prolog,Erlang,2012-03-02
+4.4,Prolog,ASP,2012-03-02
+4.3,Prolog,SuperCollider,2012-03-02
+4.2,Prolog,OCaml,2012-03-02
+4.2,Prolog,Common Lisp,2012-03-02
+3.4,Prolog,Smalltalk,2012-03-02
+3.3,Prolog,Groovy,2012-03-02
+3.2,Prolog,Clojure,2012-03-02
+2.1,Prolog,Go,2012-03-02
+2.0,Prolog,F#,2012-03-02
+1.9,Prolog,XQuery,2012-03-02
+1.8,Prolog,Nu,2012-03-02
+1.8,Prolog,Racket,2012-03-02
+1.8,Prolog,Rebol,2012-03-02
+1.7,Prolog,Nemerle,2012-03-02
+1.7,Prolog,Io,2012-03-02
+1.5,Prolog,Parrot,2012-03-02
+1.5,Prolog,HaXe,2012-03-02
+1.5,Prolog,VHDL,2012-03-02
+1.5,Prolog,Standard ML,2012-03-02
+1.4,Prolog,Objective-J,2012-03-02
+1.4,Prolog,Turing,2012-03-02
+1.3,Prolog,Arduino,2012-03-02
+1.3,Prolog,Gosu,2012-03-02
+1.2,Prolog,Ioke,2012-03-02
+1.2,Prolog,Vala,2012-03-02
+1.2,Prolog,Eiffel,2012-03-02
+1.1,Prolog,AutoHotkey,2012-03-02
+1.0,Prolog,Modelica,2012-03-02
+0.9,Prolog,Self,2012-03-02
+0.8,Prolog,Puppet,2012-03-02
+0.8,Prolog,Boo,2012-03-02
+0.8,Prolog,ColdFusion,2012-03-02
+0.7,Prolog,Pure Data,2012-03-02
+0.5,Prolog,Factor,2012-03-02
+0.5,Prolog,Nimrod,2012-03-02
+0.4,Prolog,ooc,2012-03-02
+0.4,Prolog,Dylan,2012-03-02
+0.3,Prolog,Arc,2012-03-02
+0.3,Prolog,Opa,2012-03-02
+0.1,Prolog,Mirah,2012-03-02
+0.1,Prolog,Fancy,2012-03-02
+86.2,Puppet,Shell,2012-03-02
+73.3,Puppet,JavaScript,2012-03-02
+64.8,Puppet,Ruby,2012-03-02
+53.6,Puppet,Python,2012-03-02
+44.7,Puppet,C,2012-03-02
+38.3,Puppet,PHP,2012-03-02
+37.8,Puppet,Perl,2012-03-02
+32.6,Puppet,VimL,2012-03-02
+25.7,Puppet,Emacs Lisp,2012-03-02
+25.2,Puppet,Java,2012-03-02
+24.2,Puppet,C#,2012-03-02
+23.7,Puppet,C++,2012-03-02
+19.7,Puppet,ASP,2012-03-02
+13.1,Puppet,Assembly,2012-03-02
+10.9,Puppet,CoffeeScript,2012-03-02
+10.7,Puppet,D,2012-03-02
+10.1,Puppet,Rust,2012-03-02
+10.0,Puppet,Objective-C,2012-03-02
+7.8,Puppet,Haskell,2012-03-02
+7.3,Puppet,Modelica,2012-03-02
+6.3,Puppet,Visual Basic,2012-03-02
+5.2,Puppet,Prolog,2012-03-02
+5.2,Puppet,Lua,2012-03-02
+4.7,Puppet,Groovy,2012-03-02
+4.5,Puppet,Erlang,2012-03-02
+4.3,Puppet,Scheme,2012-03-02
+4.0,Puppet,ActionScript,2012-03-02
+4.0,Puppet,Scala,2012-03-02
+3.9,Puppet,Clojure,2012-03-02
+3.9,Puppet,R,2012-03-02
+3.8,Puppet,Tcl,2012-03-02
+3.3,Puppet,Delphi,2012-03-02
+2.9,Puppet,OCaml,2012-03-02
+2.9,Puppet,FORTRAN,2012-03-02
+2.4,Puppet,F#,2012-03-02
+2.2,Puppet,Common Lisp,2012-03-02
+1.7,Puppet,Smalltalk,2012-03-02
+1.7,Puppet,Go,2012-03-02
+1.7,Puppet,Boo,2012-03-02
+1.6,Puppet,Self,2012-03-02
+1.5,Puppet,Verilog,2012-03-02
+1.2,Puppet,SuperCollider,2012-03-02
+1.1,Puppet,Ada,2012-03-02
+1.1,Puppet,XQuery,2012-03-02
+1.1,Puppet,Matlab,2012-03-02
+1.0,Puppet,HaXe,2012-03-02
+1.0,Puppet,Io,2012-03-02
+1.0,Puppet,AutoHotkey,2012-03-02
+1.0,Puppet,ColdFusion,2012-03-02
+0.9,Puppet,Standard ML,2012-03-02
+0.9,Puppet,Racket,2012-03-02
+0.9,Puppet,Objective-J,2012-03-02
+0.7,Puppet,Rebol,2012-03-02
+0.7,Puppet,VHDL,2012-03-02
+0.6,Puppet,Eiffel,2012-03-02
+0.6,Puppet,Parrot,2012-03-02
+0.4,Puppet,Factor,2012-03-02
+0.4,Puppet,Turing,2012-03-02
+0.4,Puppet,ooc,2012-03-02
+0.4,Puppet,Vala,2012-03-02
+0.3,Puppet,Arc,2012-03-02
+0.2,Puppet,Dylan,2012-03-02
+0.2,Puppet,Gosu,2012-03-02
+0.2,Puppet,Nemerle,2012-03-02
+0.2,Puppet,Nu,2012-03-02
+0.1,Puppet,Opa,2012-03-02
+0.1,Puppet,Mirah,2012-03-02
+0.1,Puppet,Arduino,2012-03-02
+0.1,Puppet,Fantom,2012-03-02
+0.1,Puppet,Ioke,2012-03-02
+72.0,Pure Data,C,2012-03-02
+67.3,Pure Data,Shell,2012-03-02
+62.3,Pure Data,C++,2012-03-02
+56.7,Pure Data,Python,2012-03-02
+54.3,Pure Data,Java,2012-03-02
+49.0,Pure Data,JavaScript,2012-03-02
+38.7,Pure Data,Objective-C,2012-03-02
+32.3,Pure Data,Perl,2012-03-02
+26.7,Pure Data,PHP,2012-03-02
+26.3,Pure Data,Ruby,2012-03-02
+20.7,Pure Data,SuperCollider,2012-03-02
+18.0,Pure Data,Emacs Lisp,2012-03-02
+18.0,Pure Data,D,2012-03-02
+16.0,Pure Data,R,2012-03-02
+15.7,Pure Data,Assembly,2012-03-02
+15.3,Pure Data,C#,2012-03-02
+15.3,Pure Data,Scheme,2012-03-02
+13.7,Pure Data,Prolog,2012-03-02
+13.0,Pure Data,Matlab,2012-03-02
+12.3,Pure Data,Lua,2012-03-02
+12.3,Pure Data,Rust,2012-03-02
+12.0,Pure Data,Tcl,2012-03-02
+11.7,Pure Data,Eiffel,2012-03-02
+11.3,Pure Data,VimL,2012-03-02
+10.3,Pure Data,Haskell,2012-03-02
+10.0,Pure Data,FORTRAN,2012-03-02
+9.3,Pure Data,Delphi,2012-03-02
+9.0,Pure Data,Ada,2012-03-02
+9.0,Pure Data,CoffeeScript,2012-03-02
+8.0,Pure Data,OCaml,2012-03-02
+6.0,Pure Data,ActionScript,2012-03-02
+4.7,Pure Data,Common Lisp,2012-03-02
+4.7,Pure Data,ASP,2012-03-02
+3.3,Pure Data,Visual Basic,2012-03-02
+3.0,Pure Data,Nemerle,2012-03-02
+3.0,Pure Data,Clojure,2012-03-02
+2.7,Pure Data,Scala,2012-03-02
+2.7,Pure Data,Verilog,2012-03-02
+2.3,Pure Data,Groovy,2012-03-02
+2.3,Pure Data,Erlang,2012-03-02
+2.3,Pure Data,Arduino,2012-03-02
+2.0,Pure Data,Go,2012-03-02
+1.7,Pure Data,HaXe,2012-03-02
+1.3,Pure Data,Modelica,2012-03-02
+1.3,Pure Data,Io,2012-03-02
+1.3,Pure Data,Arc,2012-03-02
+1.0,Pure Data,Turing,2012-03-02
+1.0,Pure Data,Smalltalk,2012-03-02
+0.7,Pure Data,ColdFusion,2012-03-02
+0.7,Pure Data,Racket,2012-03-02
+0.7,Pure Data,F#,2012-03-02
+0.7,Pure Data,Max/MSP,2012-03-02
+0.7,Pure Data,Objective-J,2012-03-02
+0.3,Pure Data,XQuery,2012-03-02
+0.3,Pure Data,Nu,2012-03-02
+0.3,Pure Data,Boo,2012-03-02
+0.3,Pure Data,Gosu,2012-03-02
+0.3,Pure Data,VHDL,2012-03-02
+0.3,Pure Data,Factor,2012-03-02
+60.8,Python,Shell,2012-03-02
+54.8,Python,JavaScript,2012-03-02
+43.4,Python,C,2012-03-02
+30.6,Python,C++,2012-03-02
+30.6,Python,Ruby,2012-03-02
+27.2,Python,Java,2012-03-02
+26.3,Python,Perl,2012-03-02
+24.8,Python,PHP,2012-03-02
+16.3,Python,VimL,2012-03-02
+15.5,Python,Objective-C,2012-03-02
+9.3,Python,Emacs Lisp,2012-03-02
+9.2,Python,C#,2012-03-02
+8.9,Python,Assembly,2012-03-02
+6.4,Python,CoffeeScript,2012-03-02
+5.5,Python,D,2012-03-02
+5.4,Python,Rust,2012-03-02
+4.9,Python,ASP,2012-03-02
+4.7,Python,Lua,2012-03-02
+4.3,Python,Haskell,2012-03-02
+4.2,Python,Prolog,2012-03-02
+4.2,Python,ActionScript,2012-03-02
+3.8,Python,R,2012-03-02
+3.6,Python,Scala,2012-03-02
+3.5,Python,Scheme,2012-03-02
+3.4,Python,Visual Basic,2012-03-02
+3.3,Python,Tcl,2012-03-02
+3.0,Python,Erlang,2012-03-02
+2.6,Python,Clojure,2012-03-02
+2.5,Python,Groovy,2012-03-02
+2.5,Python,SuperCollider,2012-03-02
+2.1,Python,Delphi,2012-03-02
+2.0,Python,Matlab,2012-03-02
+2.0,Python,Common Lisp,2012-03-02
+1.9,Python,FORTRAN,2012-03-02
+1.7,Python,Go,2012-03-02
+1.6,Python,OCaml,2012-03-02
+1.1,Python,Modelica,2012-03-02
+1.1,Python,Smalltalk,2012-03-02
+1.1,Python,Ada,2012-03-02
+1.0,Python,ColdFusion,2012-03-02
+1.0,Python,Verilog,2012-03-02
+0.8,Python,F#,2012-03-02
+0.6,Python,Puppet,2012-03-02
+0.6,Python,HaXe,2012-03-02
+0.5,Python,Objective-J,2012-03-02
+0.5,Python,Vala,2012-03-02
+0.5,Python,Racket,2012-03-02
+0.5,Python,VHDL,2012-03-02
+0.4,Python,Boo,2012-03-02
+0.4,Python,Arduino,2012-03-02
+0.4,Python,Io,2012-03-02
+0.3,Python,Standard ML,2012-03-02
+0.3,Python,Nu,2012-03-02
+0.3,Python,Eiffel,2012-03-02
+0.3,Python,XQuery,2012-03-02
+0.3,Python,Nemerle,2012-03-02
+0.2,Python,Gosu,2012-03-02
+0.2,Python,Pure Data,2012-03-02
+0.2,Python,Parrot,2012-03-02
+0.2,Python,Turing,2012-03-02
+0.2,Python,AutoHotkey,2012-03-02
+0.2,Python,Rebol,2012-03-02
+0.2,Python,Ioke,2012-03-02
+0.1,Python,ooc,2012-03-02
+0.1,Python,Factor,2012-03-02
+0.1,Python,Arc,2012-03-02
+0.1,Python,Self,2012-03-02
+0.1,Python,Mirah,2012-03-02
+0.1,Python,Fancy,2012-03-02
+77.0,R,Shell,2012-03-02
+72.5,R,Python,2012-03-02
+71.3,R,C,2012-03-02
+62.9,R,C++,2012-03-02
+52.8,R,Perl,2012-03-02
+51.1,R,JavaScript,2012-03-02
+40.4,R,Ruby,2012-03-02
+36.1,R,PHP,2012-03-02
+34.6,R,Java,2012-03-02
+33.2,R,Objective-C,2012-03-02
+31.0,R,D,2012-03-02
+27.7,R,C#,2012-03-02
+22.9,R,Assembly,2012-03-02
+20.5,R,Emacs Lisp,2012-03-02
+18.2,R,VimL,2012-03-02
+18.0,R,Rust,2012-03-02
+13.5,R,Scheme,2012-03-02
+11.5,R,Prolog,2012-03-02
+11.3,R,Lua,2012-03-02
+11.0,R,Tcl,2012-03-02
+10.7,R,FORTRAN,2012-03-02
+9.4,R,CoffeeScript,2012-03-02
+9.2,R,Haskell,2012-03-02
+9.2,R,Matlab,2012-03-02
+9.1,R,Delphi,2012-03-02
+8.4,R,Scala,2012-03-02
+7.2,R,OCaml,2012-03-02
+6.9,R,Common Lisp,2012-03-02
+6.6,R,Visual Basic,2012-03-02
+6.4,R,Erlang,2012-03-02
+6.3,R,ActionScript,2012-03-02
+6.1,R,ASP,2012-03-02
+5.6,R,Clojure,2012-03-02
+5.3,R,Groovy,2012-03-02
+5.1,R,SuperCollider,2012-03-02
+5.0,R,Ada,2012-03-02
+4.7,R,Smalltalk,2012-03-02
+3.5,R,Objective-J,2012-03-02
+3.4,R,Nemerle,2012-03-02
+3.4,R,Go,2012-03-02
+3.1,R,Vala,2012-03-02
+3.0,R,Racket,2012-03-02
+2.8,R,Nu,2012-03-02
+2.8,R,HaXe,2012-03-02
+2.8,R,Boo,2012-03-02
+2.6,R,VHDL,2012-03-02
+2.2,R,Eiffel,2012-03-02
+2.2,R,XQuery,2012-03-02
+2.2,R,Rebol,2012-03-02
+2.0,R,F#,2012-03-02
+1.8,R,Turing,2012-03-02
+1.7,R,Parrot,2012-03-02
+1.7,R,Ioke,2012-03-02
+1.7,R,ColdFusion,2012-03-02
+1.7,R,Gosu,2012-03-02
+1.6,R,AutoHotkey,2012-03-02
+1.6,R,Standard ML,2012-03-02
+1.5,R,Io,2012-03-02
+1.4,R,Verilog,2012-03-02
+1.3,R,Modelica,2012-03-02
+1.2,R,Pure Data,2012-03-02
+1.2,R,Arduino,2012-03-02
+0.9,R,Puppet,2012-03-02
+0.8,R,Factor,2012-03-02
+0.8,R,Nimrod,2012-03-02
+0.6,R,Dylan,2012-03-02
+0.5,R,Self,2012-03-02
+0.5,R,ooc,2012-03-02
+0.4,R,Arc,2012-03-02
+0.4,R,Opa,2012-03-02
+0.1,R,Fancy,2012-03-02
+0.1,R,Mirah,2012-03-02
+0.1,R,Fantom,2012-03-02
+71.8,Racket,JavaScript,2012-03-02
+71.5,Racket,Shell,2012-03-02
+68.5,Racket,C,2012-03-02
+65.8,Racket,Python,2012-03-02
+59.8,Racket,Ruby,2012-03-02
+54.7,Racket,C++,2012-03-02
+54.5,Racket,Perl,2012-03-02
+47.5,Racket,Java,2012-03-02
+44.9,Racket,PHP,2012-03-02
+41.6,Racket,Scheme,2012-03-02
+36.9,Racket,Objective-C,2012-03-02
+36.2,Racket,Scala,2012-03-02
+34.0,Racket,Haskell,2012-03-02
+31.8,Racket,Emacs Lisp,2012-03-02
+31.3,Racket,C#,2012-03-02
+29.8,Racket,VimL,2012-03-02
+28.9,Racket,Common Lisp,2012-03-02
+28.4,Racket,Assembly,2012-03-02
+26.9,Racket,Lua,2012-03-02
+26.5,Racket,CoffeeScript,2012-03-02
+24.4,Racket,Clojure,2012-03-02
+21.8,Racket,R,2012-03-02
+21.5,Racket,Go,2012-03-02
+19.1,Racket,Groovy,2012-03-02
+18.9,Racket,Prolog,2012-03-02
+17.6,Racket,OCaml,2012-03-02
+17.5,Racket,Rust,2012-03-02
+16.7,Racket,Ada,2012-03-02
+16.5,Racket,Erlang,2012-03-02
+15.8,Racket,Delphi,2012-03-02
+15.6,Racket,Matlab,2012-03-02
+15.5,Racket,HaXe,2012-03-02
+14.9,Racket,Nu,2012-03-02
+13.5,Racket,F#,2012-03-02
+12.9,Racket,Rebol,2012-03-02
+11.5,Racket,Nemerle,2012-03-02
+11.5,Racket,Visual Basic,2012-03-02
+11.5,Racket,Ioke,2012-03-02
+11.3,Racket,XQuery,2012-03-02
+10.7,Racket,D,2012-03-02
+10.0,Racket,AutoHotkey,2012-03-02
+9.8,Racket,ActionScript,2012-03-02
+9.8,Racket,Tcl,2012-03-02
+9.6,Racket,Parrot,2012-03-02
+9.5,Racket,SuperCollider,2012-03-02
+9.3,Racket,Gosu,2012-03-02
+8.7,Racket,Standard ML,2012-03-02
+7.5,Racket,FORTRAN,2012-03-02
+7.3,Racket,ASP,2012-03-02
+6.5,Racket,Arduino,2012-03-02
+6.2,Racket,Turing,2012-03-02
+5.6,Racket,Objective-J,2012-03-02
+5.5,Racket,Vala,2012-03-02
+5.1,Racket,Nimrod,2012-03-02
+4.7,Racket,Boo,2012-03-02
+4.5,Racket,VHDL,2012-03-02
+4.4,Racket,Smalltalk,2012-03-02
+3.6,Racket,Factor,2012-03-02
+3.5,Racket,ooc,2012-03-02
+3.1,Racket,Eiffel,2012-03-02
+2.7,Racket,ColdFusion,2012-03-02
+2.7,Racket,Opa,2012-03-02
+2.4,Racket,Verilog,2012-03-02
+2.4,Racket,Io,2012-03-02
+2.2,Racket,Dylan,2012-03-02
+1.6,Racket,Arc,2012-03-02
+1.5,Racket,Puppet,2012-03-02
+1.3,Racket,Modelica,2012-03-02
+0.9,Racket,Self,2012-03-02
+0.5,Racket,Fancy,2012-03-02
+0.4,Racket,Fantom,2012-03-02
+0.4,Racket,Pure Data,2012-03-02
+0.4,Racket,Mirah,2012-03-02
+95.2,Rebol,Shell,2012-03-02
+93.2,Rebol,C,2012-03-02
+92.5,Rebol,Ruby,2012-03-02
+91.8,Rebol,Python,2012-03-02
+89.7,Rebol,C++,2012-03-02
+88.4,Rebol,JavaScript,2012-03-02
+78.8,Rebol,Perl,2012-03-02
+76.7,Rebol,Emacs Lisp,2012-03-02
+76.7,Rebol,Assembly,2012-03-02
+76.0,Rebol,PHP,2012-03-02
+74.7,Rebol,Objective-C,2012-03-02
+74.7,Rebol,VimL,2012-03-02
+69.2,Rebol,Prolog,2012-03-02
+65.1,Rebol,Scala,2012-03-02
+62.3,Rebol,Rust,2012-03-02
+60.3,Rebol,Java,2012-03-02
+58.9,Rebol,R,2012-03-02
+58.2,Rebol,Scheme,2012-03-02
+57.5,Rebol,CoffeeScript,2012-03-02
+51.4,Rebol,Groovy,2012-03-02
+50.7,Rebol,Delphi,2012-03-02
+48.6,Rebol,Racket,2012-03-02
+47.3,Rebol,OCaml,2012-03-02
+46.6,Rebol,Matlab,2012-03-02
+42.5,Rebol,XQuery,2012-03-02
+40.4,Rebol,Ioke,2012-03-02
+40.4,Rebol,Nu,2012-03-02
+37.7,Rebol,Nemerle,2012-03-02
+37.0,Rebol,Haskell,2012-03-02
+36.3,Rebol,Gosu,2012-03-02
+36.3,Rebol,Parrot,2012-03-02
+35.6,Rebol,AutoHotkey,2012-03-02
+34.9,Rebol,Standard ML,2012-03-02
+34.2,Rebol,Lua,2012-03-02
+32.2,Rebol,Common Lisp,2012-03-02
+32.2,Rebol,C#,2012-03-02
+30.8,Rebol,Visual Basic,2012-03-02
+30.8,Rebol,SuperCollider,2012-03-02
+27.4,Rebol,D,2012-03-02
+26.0,Rebol,Tcl,2012-03-02
+24.7,Rebol,Smalltalk,2012-03-02
+22.6,Rebol,Clojure,2012-03-02
+22.6,Rebol,Erlang,2012-03-02
+22.6,Rebol,FORTRAN,2012-03-02
+22.6,Rebol,Arduino,2012-03-02
+21.9,Rebol,Turing,2012-03-02
+21.9,Rebol,ActionScript,2012-03-02
+21.9,Rebol,Io,2012-03-02
+18.5,Rebol,ASP,2012-03-02
+17.1,Rebol,Nimrod,2012-03-02
+17.1,Rebol,Objective-J,2012-03-02
+15.8,Rebol,Boo,2012-03-02
+15.8,Rebol,HaXe,2012-03-02
+15.8,Rebol,Factor,2012-03-02
+15.1,Rebol,Ada,2012-03-02
+13.7,Rebol,Vala,2012-03-02
+13.0,Rebol,Dylan,2012-03-02
+10.3,Rebol,F#,2012-03-02
+10.3,Rebol,VHDL,2012-03-02
+10.3,Rebol,Opa,2012-03-02
+9.6,Rebol,Go,2012-03-02
+8.9,Rebol,Eiffel,2012-03-02
+8.2,Rebol,ColdFusion,2012-03-02
+4.1,Rebol,Puppet,2012-03-02
+4.1,Rebol,Modelica,2012-03-02
+4.1,Rebol,ooc,2012-03-02
+4.1,Rebol,Self,2012-03-02
+2.1,Rebol,Verilog,2012-03-02
+1.4,Rebol,Fancy,2012-03-02
+1.4,Rebol,Arc,2012-03-02
+0.7,Rebol,Mirah,2012-03-02
+0.7,Rebol,Fantom,2012-03-02
+81.1,Ruby,JavaScript,2012-03-02
+37.1,Ruby,Shell,2012-03-02
+24.7,Ruby,Python,2012-03-02
+22.9,Ruby,C,2012-03-02
+18.7,Ruby,PHP,2012-03-02
+18.1,Ruby,Java,2012-03-02
+17.7,Ruby,CoffeeScript,2012-03-02
+14.1,Ruby,Perl,2012-03-02
+13.4,Ruby,C++,2012-03-02
+12.0,Ruby,VimL,2012-03-02
+9.8,Ruby,Objective-C,2012-03-02
+7.2,Ruby,C#,2012-03-02
+6.2,Ruby,Emacs Lisp,2012-03-02
+3.3,Ruby,ActionScript,2012-03-02
+3.2,Ruby,ASP,2012-03-02
+3.1,Ruby,Assembly,2012-03-02
+2.8,Ruby,Scala,2012-03-02
+2.7,Ruby,D,2012-03-02
+2.7,Ruby,Lua,2012-03-02
+2.6,Ruby,Haskell,2012-03-02
+2.4,Ruby,Clojure,2012-03-02
+2.4,Ruby,Visual Basic,2012-03-02
+2.3,Ruby,Scheme,2012-03-02
+2.2,Ruby,Groovy,2012-03-02
+2.2,Ruby,Erlang,2012-03-02
+2.1,Ruby,Prolog,2012-03-02
+2.0,Ruby,Rust,2012-03-02
+1.8,Ruby,Tcl,2012-03-02
+1.7,Ruby,R,2012-03-02
+1.3,Ruby,Common Lisp,2012-03-02
+1.2,Ruby,Delphi,2012-03-02
+1.1,Ruby,Go,2012-03-02
+0.9,Ruby,OCaml,2012-03-02
+0.8,Ruby,Smalltalk,2012-03-02
+0.7,Ruby,FORTRAN,2012-03-02
+0.6,Ruby,Matlab,2012-03-02
+0.6,Ruby,Puppet,2012-03-02
+0.6,Ruby,Ada,2012-03-02
+0.6,Ruby,ColdFusion,2012-03-02
+0.5,Ruby,Verilog,2012-03-02
+0.5,Ruby,F#,2012-03-02
+0.4,Ruby,Modelica,2012-03-02
+0.4,Ruby,Objective-J,2012-03-02
+0.4,Ruby,SuperCollider,2012-03-02
+0.4,Ruby,Io,2012-03-02
+0.3,Ruby,Racket,2012-03-02
+0.3,Ruby,HaXe,2012-03-02
+0.3,Ruby,Boo,2012-03-02
+0.2,Ruby,Vala,2012-03-02
+0.2,Ruby,XQuery,2012-03-02
+0.2,Ruby,VHDL,2012-03-02
+0.2,Ruby,Gosu,2012-03-02
+0.2,Ruby,Nu,2012-03-02
+0.2,Ruby,Arduino,2012-03-02
+0.2,Ruby,Standard ML,2012-03-02
+0.2,Ruby,Eiffel,2012-03-02
+0.1,Ruby,Rebol,2012-03-02
+0.1,Ruby,Parrot,2012-03-02
+0.1,Ruby,AutoHotkey,2012-03-02
+0.1,Ruby,Turing,2012-03-02
+0.1,Ruby,Ioke,2012-03-02
+0.1,Ruby,Nemerle,2012-03-02
+0.1,Ruby,Factor,2012-03-02
+0.1,Ruby,Pure Data,2012-03-02
+0.1,Ruby,ooc,2012-03-02
+0.1,Ruby,Mirah,2012-03-02
+0.1,Ruby,Arc,2012-03-02
+0.1,Ruby,Self,2012-03-02
+90.7,Rust,C,2012-03-02
+87.0,Rust,Shell,2012-03-02
+84.0,Rust,C++,2012-03-02
+68.3,Rust,Python,2012-03-02
+56.3,Rust,Perl,2012-03-02
+54.0,Rust,JavaScript,2012-03-02
+40.4,Rust,Java,2012-03-02
+39.7,Rust,Assembly,2012-03-02
+37.6,Rust,Objective-C,2012-03-02
+31.1,Rust,Ruby,2012-03-02
+30.1,Rust,C#,2012-03-02
+29.8,Rust,PHP,2012-03-02
+23.2,Rust,Prolog,2012-03-02
+22.6,Rust,VimL,2012-03-02
+20.6,Rust,Emacs Lisp,2012-03-02
+19.8,Rust,D,2012-03-02
+12.9,Rust,Visual Basic,2012-03-02
+12.8,Rust,Lua,2012-03-02
+12.0,Rust,R,2012-03-02
+11.4,Rust,ASP,2012-03-02
+11.2,Rust,Delphi,2012-03-02
+10.0,Rust,Tcl,2012-03-02
+8.7,Rust,SuperCollider,2012-03-02
+7.1,Rust,Scheme,2012-03-02
+6.7,Rust,ActionScript,2012-03-02
+6.6,Rust,Ada,2012-03-02
+6.0,Rust,Haskell,2012-03-02
+5.8,Rust,CoffeeScript,2012-03-02
+4.4,Rust,FORTRAN,2012-03-02
+4.1,Rust,Matlab,2012-03-02
+4.0,Rust,Erlang,2012-03-02
+3.8,Rust,Smalltalk,2012-03-02
+3.8,Rust,OCaml,2012-03-02
+3.5,Rust,Scala,2012-03-02
+3.3,Rust,Verilog,2012-03-02
+3.0,Rust,Common Lisp,2012-03-02
+3.0,Rust,Groovy,2012-03-02
+2.8,Rust,Nemerle,2012-03-02
+2.8,Rust,F#,2012-03-02
+2.1,Rust,Go,2012-03-02
+2.0,Rust,HaXe,2012-03-02
+1.7,Rust,Clojure,2012-03-02
+1.7,Rust,Standard ML,2012-03-02
+1.6,Rust,Racket,2012-03-02
+1.5,Rust,Rebol,2012-03-02
+1.5,Rust,Puppet,2012-03-02
+1.4,Rust,Objective-J,2012-03-02
+1.4,Rust,XQuery,2012-03-02
+1.3,Rust,Vala,2012-03-02
+1.2,Rust,Gosu,2012-03-02
+1.2,Rust,Turing,2012-03-02
+1.2,Rust,AutoHotkey,2012-03-02
+1.1,Rust,Nu,2012-03-02
+1.1,Rust,Parrot,2012-03-02
+1.0,Rust,Eiffel,2012-03-02
+1.0,Rust,Arduino,2012-03-02
+0.9,Rust,Ioke,2012-03-02
+0.9,Rust,Io,2012-03-02
+0.9,Rust,VHDL,2012-03-02
+0.8,Rust,Self,2012-03-02
+0.7,Rust,Boo,2012-03-02
+0.7,Rust,Modelica,2012-03-02
+0.6,Rust,Pure Data,2012-03-02
+0.6,Rust,ColdFusion,2012-03-02
+0.5,Rust,Factor,2012-03-02
+0.4,Rust,Nimrod,2012-03-02
+0.3,Rust,Opa,2012-03-02
+0.2,Rust,ooc,2012-03-02
+0.2,Rust,Arc,2012-03-02
+0.2,Rust,Dylan,2012-03-02
+0.1,Rust,Mirah,2012-03-02
+68.9,Scala,Java,2012-03-02
+63.1,Scala,Shell,2012-03-02
+62.3,Scala,JavaScript,2012-03-02
+45.4,Scala,Python,2012-03-02
+43.4,Scala,Ruby,2012-03-02
+36.5,Scala,C,2012-03-02
+27.6,Scala,C++,2012-03-02
+24.3,Scala,PHP,2012-03-02
+23.6,Scala,Perl,2012-03-02
+18.2,Scala,Groovy,2012-03-02
+15.6,Scala,Objective-C,2012-03-02
+14.7,Scala,Clojure,2012-03-02
+14.4,Scala,VimL,2012-03-02
+14.0,Scala,C#,2012-03-02
+13.8,Scala,CoffeeScript,2012-03-02
+13.3,Scala,Haskell,2012-03-02
+11.1,Scala,Emacs Lisp,2012-03-02
+9.4,Scala,Erlang,2012-03-02
+7.5,Scala,Lua,2012-03-02
+7.1,Scala,OCaml,2012-03-02
+6.7,Scala,Common Lisp,2012-03-02
+6.4,Scala,Scheme,2012-03-02
+6.3,Scala,ActionScript,2012-03-02
+6.1,Scala,Go,2012-03-02
+6.1,Scala,Assembly,2012-03-02
+5.5,Scala,R,2012-03-02
+5.4,Scala,D,2012-03-02
+5.4,Scala,Visual Basic,2012-03-02
+4.9,Scala,Delphi,2012-03-02
+4.9,Scala,Prolog,2012-03-02
+3.5,Scala,Rust,2012-03-02
+3.5,Scala,ASP,2012-03-02
+3.3,Scala,Tcl,2012-03-02
+3.3,Scala,Racket,2012-03-02
+3.0,Scala,Smalltalk,2012-03-02
+2.7,Scala,HaXe,2012-03-02
+2.6,Scala,F#,2012-03-02
+2.6,Scala,FORTRAN,2012-03-02
+2.4,Scala,Matlab,2012-03-02
+2.4,Scala,Ada,2012-03-02
+2.1,Scala,Ioke,2012-03-02
+1.9,Scala,XQuery,2012-03-02
+1.9,Scala,Nu,2012-03-02
+1.9,Scala,Io,2012-03-02
+1.9,Scala,Gosu,2012-03-02
+1.8,Scala,ColdFusion,2012-03-02
+1.8,Scala,Boo,2012-03-02
+1.7,Scala,Objective-J,2012-03-02
+1.6,Scala,Rebol,2012-03-02
+1.4,Scala,Vala,2012-03-02
+1.1,Scala,VHDL,2012-03-02
+1.1,Scala,Nemerle,2012-03-02
+1.1,Scala,Standard ML,2012-03-02
+1.1,Scala,Verilog,2012-03-02
+1.1,Scala,SuperCollider,2012-03-02
+1.1,Scala,AutoHotkey,2012-03-02
+1.0,Scala,Parrot,2012-03-02
+0.8,Scala,Arduino,2012-03-02
+0.7,Scala,Factor,2012-03-02
+0.7,Scala,Eiffel,2012-03-02
+0.6,Scala,Turing,2012-03-02
+0.6,Scala,Puppet,2012-03-02
+0.5,Scala,Modelica,2012-03-02
+0.5,Scala,Nimrod,2012-03-02
+0.4,Scala,Dylan,2012-03-02
+0.4,Scala,ooc,2012-03-02
+0.3,Scala,Mirah,2012-03-02
+0.2,Scala,Arc,2012-03-02
+0.2,Scala,Opa,2012-03-02
+0.2,Scala,Fancy,2012-03-02
+0.1,Scala,Pure Data,2012-03-02
+0.1,Scala,Self,2012-03-02
+0.1,Scala,Fantom,2012-03-02
+80.3,Scheme,Shell,2012-03-02
+71.5,Scheme,Python,2012-03-02
+70.7,Scheme,C,2012-03-02
+68.8,Scheme,JavaScript,2012-03-02
+57.3,Scheme,Ruby,2012-03-02
+55.0,Scheme,Perl,2012-03-02
+53.5,Scheme,C++,2012-03-02
+41.4,Scheme,Java,2012-03-02
+39.2,Scheme,Emacs Lisp,2012-03-02
+36.5,Scheme,PHP,2012-03-02
+31.3,Scheme,VimL,2012-03-02
+28.8,Scheme,Objective-C,2012-03-02
+25.5,Scheme,Assembly,2012-03-02
+18.9,Scheme,Haskell,2012-03-02
+18.4,Scheme,Common Lisp,2012-03-02
+17.6,Scheme,C#,2012-03-02
+16.6,Scheme,Lua,2012-03-02
+16.6,Scheme,D,2012-03-02
+15.7,Scheme,Tcl,2012-03-02
+15.5,Scheme,CoffeeScript,2012-03-02
+14.6,Scheme,R,2012-03-02
+13.7,Scheme,Prolog,2012-03-02
+13.7,Scheme,Clojure,2012-03-02
+11.5,Scheme,Rust,2012-03-02
+10.6,Scheme,Erlang,2012-03-02
+10.5,Scheme,Scala,2012-03-02
+10.2,Scheme,FORTRAN,2012-03-02
+10.2,Scheme,OCaml,2012-03-02
+9.5,Scheme,Delphi,2012-03-02
+8.7,Scheme,Visual Basic,2012-03-02
+7.0,Scheme,ActionScript,2012-03-02
+6.6,Scheme,ASP,2012-03-02
+6.2,Scheme,Racket,2012-03-02
+5.9,Scheme,Matlab,2012-03-02
+5.9,Scheme,Groovy,2012-03-02
+5.8,Scheme,Smalltalk,2012-03-02
+5.0,Scheme,Go,2012-03-02
+4.6,Scheme,Ada,2012-03-02
+4.5,Scheme,SuperCollider,2012-03-02
+3.5,Scheme,Boo,2012-03-02
+3.4,Scheme,Objective-J,2012-03-02
+3.3,Scheme,Nu,2012-03-02
+3.2,Scheme,Vala,2012-03-02
+3.0,Scheme,Standard ML,2012-03-02
+2.9,Scheme,Eiffel,2012-03-02
+2.9,Scheme,Verilog,2012-03-02
+2.8,Scheme,VHDL,2012-03-02
+2.8,Scheme,HaXe,2012-03-02
+2.6,Scheme,ColdFusion,2012-03-02
+2.6,Scheme,F#,2012-03-02
+2.4,Scheme,Nemerle,2012-03-02
+2.3,Scheme,Rebol,2012-03-02
+2.0,Scheme,XQuery,2012-03-02
+1.7,Scheme,AutoHotkey,2012-03-02
+1.7,Scheme,Ioke,2012-03-02
+1.6,Scheme,Io,2012-03-02
+1.6,Scheme,Arc,2012-03-02
+1.5,Scheme,Turing,2012-03-02
+1.5,Scheme,Gosu,2012-03-02
+1.4,Scheme,Parrot,2012-03-02
+1.3,Scheme,Arduino,2012-03-02
+1.2,Scheme,Pure Data,2012-03-02
+1.1,Scheme,Factor,2012-03-02
+1.0,Scheme,Puppet,2012-03-02
+1.0,Scheme,Modelica,2012-03-02
+0.8,Scheme,Nimrod,2012-03-02
+0.7,Scheme,Dylan,2012-03-02
+0.6,Scheme,ooc,2012-03-02
+0.5,Scheme,Mirah,2012-03-02
+0.4,Scheme,Self,2012-03-02
+0.4,Scheme,Opa,2012-03-02
+0.2,Scheme,Fancy,2012-03-02
+0.1,Scheme,Fantom,2012-03-02
+97.9,Self,C,2012-03-02
+96.9,Self,C++,2012-03-02
+95.8,Self,Perl,2012-03-02
+94.8,Self,Shell,2012-03-02
+83.3,Self,D,2012-03-02
+75.0,Self,JavaScript,2012-03-02
+64.6,Self,Python,2012-03-02
+53.1,Self,Prolog,2012-03-02
+51.0,Self,Emacs Lisp,2012-03-02
+50.0,Self,Ruby,2012-03-02
+49.0,Self,Rust,2012-03-02
+45.8,Self,Java,2012-03-02
+44.8,Self,PHP,2012-03-02
+39.6,Self,Objective-C,2012-03-02
+33.3,Self,VimL,2012-03-02
+32.3,Self,Assembly,2012-03-02
+27.1,Self,Lua,2012-03-02
+25.0,Self,Haskell,2012-03-02
+25.0,Self,C#,2012-03-02
+24.0,Self,Tcl,2012-03-02
+21.9,Self,Delphi,2012-03-02
+21.9,Self,FORTRAN,2012-03-02
+20.8,Self,R,2012-03-02
+18.8,Self,Smalltalk,2012-03-02
+18.8,Self,SuperCollider,2012-03-02
+18.8,Self,OCaml,2012-03-02
+18.8,Self,Ada,2012-03-02
+16.7,Self,Scheme,2012-03-02
+16.7,Self,Go,2012-03-02
+15.6,Self,Common Lisp,2012-03-02
+14.6,Self,Puppet,2012-03-02
+14.6,Self,Erlang,2012-03-02
+11.5,Self,Vala,2012-03-02
+10.4,Self,Standard ML,2012-03-02
+10.4,Self,Visual Basic,2012-03-02
+8.3,Self,ASP,2012-03-02
+8.3,Self,Nemerle,2012-03-02
+7.3,Self,CoffeeScript,2012-03-02
+7.3,Self,Turing,2012-03-02
+6.2,Self,F#,2012-03-02
+6.2,Self,Groovy,2012-03-02
+6.2,Self,Rebol,2012-03-02
+6.2,Self,Matlab,2012-03-02
+6.2,Self,Objective-J,2012-03-02
+6.2,Self,Scala,2012-03-02
+5.2,Self,Parrot,2012-03-02
+5.2,Self,Racket,2012-03-02
+4.2,Self,Eiffel,2012-03-02
+4.2,Self,ActionScript,2012-03-02
+4.2,Self,Io,2012-03-02
+4.2,Self,ooc,2012-03-02
+3.1,Self,Factor,2012-03-02
+3.1,Self,Nu,2012-03-02
+3.1,Self,Ioke,2012-03-02
+3.1,Self,XQuery,2012-03-02
+3.1,Self,HaXe,2012-03-02
+3.1,Self,Clojure,2012-03-02
+2.1,Self,AutoHotkey,2012-03-02
+2.1,Self,Boo,2012-03-02
+2.1,Self,Gosu,2012-03-02
+2.1,Self,ColdFusion,2012-03-02
+2.1,Self,VHDL,2012-03-02
+1.0,Self,Nimrod,2012-03-02
+1.0,Self,Verilog,2012-03-02
+1.0,Self,Arduino,2012-03-02
+1.0,Self,Arc,2012-03-02
+60.9,Shell,JavaScript,2012-03-02
+49.5,Shell,Python,2012-03-02
+46.1,Shell,C,2012-03-02
+37.4,Shell,Ruby,2012-03-02
+31.1,Shell,C++,2012-03-02
+30.7,Shell,Java,2012-03-02
+30.1,Shell,PHP,2012-03-02
+27.8,Shell,Perl,2012-03-02
+17.9,Shell,VimL,2012-03-02
+15.6,Shell,Objective-C,2012-03-02
+10.9,Shell,C#,2012-03-02
+9.2,Shell,Emacs Lisp,2012-03-02
+8.7,Shell,Assembly,2012-03-02
+8.4,Shell,CoffeeScript,2012-03-02
+6.0,Shell,ASP,2012-03-02
+5.6,Shell,Rust,2012-03-02
+5.3,Shell,D,2012-03-02
+4.8,Shell,ActionScript,2012-03-02
+4.7,Shell,Lua,2012-03-02
+4.4,Shell,Prolog,2012-03-02
+4.3,Shell,Haskell,2012-03-02
+4.1,Shell,Scala,2012-03-02
+3.6,Shell,Visual Basic,2012-03-02
+3.5,Shell,Groovy,2012-03-02
+3.3,Shell,R,2012-03-02
+3.2,Shell,Scheme,2012-03-02
+3.0,Shell,Erlang,2012-03-02
+3.0,Shell,Tcl,2012-03-02
+2.8,Shell,Clojure,2012-03-02
+2.1,Shell,SuperCollider,2012-03-02
+2.0,Shell,Delphi,2012-03-02
+2.0,Shell,Common Lisp,2012-03-02
+1.7,Shell,Matlab,2012-03-02
+1.7,Shell,FORTRAN,2012-03-02
+1.5,Shell,OCaml,2012-03-02
+1.5,Shell,Go,2012-03-02
+1.2,Shell,Smalltalk,2012-03-02
+1.2,Shell,Modelica,2012-03-02
+1.0,Shell,Ada,2012-03-02
+0.9,Shell,Verilog,2012-03-02
+0.9,Shell,F#,2012-03-02
+0.8,Shell,Puppet,2012-03-02
+0.8,Shell,ColdFusion,2012-03-02
+0.5,Shell,HaXe,2012-03-02
+0.5,Shell,Objective-J,2012-03-02
+0.5,Shell,Vala,2012-03-02
+0.5,Shell,VHDL,2012-03-02
+0.4,Shell,Racket,2012-03-02
+0.4,Shell,Boo,2012-03-02
+0.3,Shell,Io,2012-03-02
+0.3,Shell,Gosu,2012-03-02
+0.3,Shell,Arduino,2012-03-02
+0.3,Shell,Standard ML,2012-03-02
+0.3,Shell,XQuery,2012-03-02
+0.3,Shell,Eiffel,2012-03-02
+0.3,Shell,Nemerle,2012-03-02
+0.2,Shell,Nu,2012-03-02
+0.2,Shell,Pure Data,2012-03-02
+0.2,Shell,Turing,2012-03-02
+0.2,Shell,AutoHotkey,2012-03-02
+0.2,Shell,Parrot,2012-03-02
+0.1,Shell,Rebol,2012-03-02
+0.1,Shell,Ioke,2012-03-02
+0.1,Shell,Self,2012-03-02
+0.1,Shell,Factor,2012-03-02
+0.1,Shell,Arc,2012-03-02
+0.1,Shell,ooc,2012-03-02
+0.1,Shell,Mirah,2012-03-02
+88.8,Smalltalk,Shell,2012-03-02
+77.7,Smalltalk,JavaScript,2012-03-02
+74.0,Smalltalk,C,2012-03-02
+68.6,Smalltalk,Python,2012-03-02
+68.1,Smalltalk,Java,2012-03-02
+65.9,Smalltalk,C++,2012-03-02
+61.4,Smalltalk,Ruby,2012-03-02
+60.0,Smalltalk,Perl,2012-03-02
+51.0,Smalltalk,Objective-C,2012-03-02
+44.9,Smalltalk,PHP,2012-03-02
+39.6,Smalltalk,Emacs Lisp,2012-03-02
+39.5,Smalltalk,Assembly,2012-03-02
+34.8,Smalltalk,C#,2012-03-02
+32.1,Smalltalk,VimL,2012-03-02
+24.5,Smalltalk,Haskell,2012-03-02
+22.0,Smalltalk,ActionScript,2012-03-02
+19.2,Smalltalk,Delphi,2012-03-02
+18.4,Smalltalk,Rust,2012-03-02
+17.5,Smalltalk,Lua,2012-03-02
+17.2,Smalltalk,Scheme,2012-03-02
+16.6,Smalltalk,Erlang,2012-03-02
+16.0,Smalltalk,OCaml,2012-03-02
+15.9,Smalltalk,D,2012-03-02
+15.5,Smalltalk,Prolog,2012-03-02
+15.1,Smalltalk,R,2012-03-02
+14.9,Smalltalk,Visual Basic,2012-03-02
+14.7,Smalltalk,Scala,2012-03-02
+13.4,Smalltalk,Tcl,2012-03-02
+12.7,Smalltalk,Common Lisp,2012-03-02
+11.1,Smalltalk,Clojure,2012-03-02
+10.7,Smalltalk,ASP,2012-03-02
+10.4,Smalltalk,Ada,2012-03-02
+10.3,Smalltalk,Groovy,2012-03-02
+9.9,Smalltalk,FORTRAN,2012-03-02
+8.7,Smalltalk,CoffeeScript,2012-03-02
+7.6,Smalltalk,Go,2012-03-02
+5.8,Smalltalk,Objective-J,2012-03-02
+5.7,Smalltalk,HaXe,2012-03-02
+5.5,Smalltalk,F#,2012-03-02
+5.0,Smalltalk,Boo,2012-03-02
+4.9,Smalltalk,Eiffel,2012-03-02
+4.8,Smalltalk,SuperCollider,2012-03-02
+4.6,Smalltalk,Factor,2012-03-02
+4.6,Smalltalk,Matlab,2012-03-02
+4.0,Smalltalk,Vala,2012-03-02
+3.7,Smalltalk,ColdFusion,2012-03-02
+3.5,Smalltalk,VHDL,2012-03-02
+3.4,Smalltalk,Verilog,2012-03-02
+2.9,Smalltalk,Rebol,2012-03-02
+2.5,Smalltalk,Standard ML,2012-03-02
+2.2,Smalltalk,XQuery,2012-03-02
+2.1,Smalltalk,Dylan,2012-03-02
+1.9,Smalltalk,Io,2012-03-02
+1.9,Smalltalk,Racket,2012-03-02
+1.6,Smalltalk,Nemerle,2012-03-02
+1.4,Smalltalk,Self,2012-03-02
+1.2,Smalltalk,Modelica,2012-03-02
+1.2,Smalltalk,Puppet,2012-03-02
+1.2,Smalltalk,Gosu,2012-03-02
+1.0,Smalltalk,Turing,2012-03-02
+0.9,Smalltalk,Arc,2012-03-02
+0.6,Smalltalk,Nu,2012-03-02
+0.6,Smalltalk,Ioke,2012-03-02
+0.6,Smalltalk,Arduino,2012-03-02
+0.6,Smalltalk,AutoHotkey,2012-03-02
+0.5,Smalltalk,ooc,2012-03-02
+0.5,Smalltalk,Fancy,2012-03-02
+0.5,Smalltalk,Parrot,2012-03-02
+0.2,Smalltalk,Pure Data,2012-03-02
+0.2,Smalltalk,Mirah,2012-03-02
+0.2,Smalltalk,Nimrod,2012-03-02
+0.2,Smalltalk,Opa,2012-03-02
+0.1,Smalltalk,Fantom,2012-03-02
+90.6,Standard ML,Shell,2012-03-02
+77.9,Standard ML,Python,2012-03-02
+77.5,Standard ML,C,2012-03-02
+65.5,Standard ML,JavaScript,2012-03-02
+62.9,Standard ML,Perl,2012-03-02
+56.7,Standard ML,C++,2012-03-02
+56.0,Standard ML,Java,2012-03-02
+55.7,Standard ML,Ruby,2012-03-02
+47.2,Standard ML,Assembly,2012-03-02
+45.6,Standard ML,PHP,2012-03-02
+44.0,Standard ML,Emacs Lisp,2012-03-02
+42.0,Standard ML,Objective-C,2012-03-02
+36.5,Standard ML,Scheme,2012-03-02
+35.5,Standard ML,VimL,2012-03-02
+33.6,Standard ML,Rust,2012-03-02
+30.6,Standard ML,OCaml,2012-03-02
+27.4,Standard ML,Prolog,2012-03-02
+26.1,Standard ML,SuperCollider,2012-03-02
+22.5,Standard ML,Scala,2012-03-02
+22.1,Standard ML,Delphi,2012-03-02
+22.1,Standard ML,Haskell,2012-03-02
+21.5,Standard ML,C#,2012-03-02
+21.2,Standard ML,Lua,2012-03-02
+20.8,Standard ML,R,2012-03-02
+20.8,Standard ML,D,2012-03-02
+20.2,Standard ML,Tcl,2012-03-02
+19.9,Standard ML,Matlab,2012-03-02
+19.2,Standard ML,Groovy,2012-03-02
+16.6,Standard ML,Rebol,2012-03-02
+16.6,Standard ML,XQuery,2012-03-02
+16.6,Standard ML,CoffeeScript,2012-03-02
+15.6,Standard ML,FORTRAN,2012-03-02
+15.6,Standard ML,Gosu,2012-03-02
+15.6,Standard ML,Racket,2012-03-02
+14.7,Standard ML,Parrot,2012-03-02
+14.0,Standard ML,Nemerle,2012-03-02
+13.7,Standard ML,Nu,2012-03-02
+13.7,Standard ML,AutoHotkey,2012-03-02
+13.7,Standard ML,Ioke,2012-03-02
+13.0,Standard ML,Common Lisp,2012-03-02
+11.7,Standard ML,Turing,2012-03-02
+11.4,Standard ML,Arduino,2012-03-02
+11.1,Standard ML,Erlang,2012-03-02
+10.7,Standard ML,Visual Basic,2012-03-02
+10.1,Standard ML,Smalltalk,2012-03-02
+10.1,Standard ML,Verilog,2012-03-02
+8.8,Standard ML,ASP,2012-03-02
+7.8,Standard ML,Nimrod,2012-03-02
+6.5,Standard ML,Go,2012-03-02
+6.2,Standard ML,Opa,2012-03-02
+6.2,Standard ML,ActionScript,2012-03-02
+5.5,Standard ML,VHDL,2012-03-02
+5.2,Standard ML,Clojure,2012-03-02
+5.2,Standard ML,Ada,2012-03-02
+4.2,Standard ML,Vala,2012-03-02
+4.2,Standard ML,Eiffel,2012-03-02
+3.9,Standard ML,F#,2012-03-02
+3.3,Standard ML,Self,2012-03-02
+2.6,Standard ML,Modelica,2012-03-02
+2.6,Standard ML,Puppet,2012-03-02
+2.3,Standard ML,HaXe,2012-03-02
+2.0,Standard ML,Io,2012-03-02
+2.0,Standard ML,Objective-J,2012-03-02
+2.0,Standard ML,Boo,2012-03-02
+1.3,Standard ML,Arc,2012-03-02
+1.3,Standard ML,ColdFusion,2012-03-02
+1.0,Standard ML,Factor,2012-03-02
+1.0,Standard ML,Dylan,2012-03-02
+0.7,Standard ML,ooc,2012-03-02
+0.3,Standard ML,Fantom,2012-03-02
+0.3,Standard ML,Fancy,2012-03-02
+0.3,Standard ML,Mirah,2012-03-02
+96.8,SuperCollider,C,2012-03-02
+95.1,SuperCollider,Shell,2012-03-02
+94.2,SuperCollider,C++,2012-03-02
+92.3,SuperCollider,Python,2012-03-02
+89.4,SuperCollider,Perl,2012-03-02
+86.8,SuperCollider,Objective-C,2012-03-02
+84.4,SuperCollider,Assembly,2012-03-02
+76.2,SuperCollider,VimL,2012-03-02
+74.7,SuperCollider,ASP,2012-03-02
+34.9,SuperCollider,Java,2012-03-02
+32.4,SuperCollider,JavaScript,2012-03-02
+25.8,SuperCollider,Rust,2012-03-02
+18.7,SuperCollider,PHP,2012-03-02
+18.6,SuperCollider,Ruby,2012-03-02
+16.0,SuperCollider,C#,2012-03-02
+15.4,SuperCollider,Emacs Lisp,2012-03-02
+14.7,SuperCollider,D,2012-03-02
+12.1,SuperCollider,Prolog,2012-03-02
+10.1,SuperCollider,R,2012-03-02
+9.3,SuperCollider,Tcl,2012-03-02
+8.3,SuperCollider,Scheme,2012-03-02
+7.3,SuperCollider,Delphi,2012-03-02
+6.3,SuperCollider,Matlab,2012-03-02
+6.0,SuperCollider,OCaml,2012-03-02
+5.8,SuperCollider,FORTRAN,2012-03-02
+5.6,SuperCollider,Lua,2012-03-02
+4.4,SuperCollider,Haskell,2012-03-02
+4.0,SuperCollider,Ada,2012-03-02
+4.0,SuperCollider,Standard ML,2012-03-02
+3.8,SuperCollider,CoffeeScript,2012-03-02
+3.8,SuperCollider,Visual Basic,2012-03-02
+3.6,SuperCollider,Nemerle,2012-03-02
+3.4,SuperCollider,Groovy,2012-03-02
+3.3,SuperCollider,Scala,2012-03-02
+3.1,SuperCollider,Pure Data,2012-03-02
+3.0,SuperCollider,Common Lisp,2012-03-02
+3.0,SuperCollider,Smalltalk,2012-03-02
+2.8,SuperCollider,ActionScript,2012-03-02
+2.7,SuperCollider,Turing,2012-03-02
+2.7,SuperCollider,Verilog,2012-03-02
+2.6,SuperCollider,Eiffel,2012-03-02
+2.6,SuperCollider,Racket,2012-03-02
+2.4,SuperCollider,XQuery,2012-03-02
+2.3,SuperCollider,Nu,2012-03-02
+2.3,SuperCollider,Gosu,2012-03-02
+2.3,SuperCollider,Arduino,2012-03-02
+2.3,SuperCollider,Parrot,2012-03-02
+2.2,SuperCollider,Rebol,2012-03-02
+2.2,SuperCollider,AutoHotkey,2012-03-02
+2.2,SuperCollider,Ioke,2012-03-02
+2.1,SuperCollider,Erlang,2012-03-02
+2.0,SuperCollider,HaXe,2012-03-02
+1.9,SuperCollider,Objective-J,2012-03-02
+1.7,SuperCollider,Go,2012-03-02
+1.3,SuperCollider,Clojure,2012-03-02
+1.2,SuperCollider,Vala,2012-03-02
+1.2,SuperCollider,Nimrod,2012-03-02
+0.9,SuperCollider,Opa,2012-03-02
+0.9,SuperCollider,Modelica,2012-03-02
+0.9,SuperCollider,VHDL,2012-03-02
+0.9,SuperCollider,Self,2012-03-02
+0.8,SuperCollider,Boo,2012-03-02
+0.8,SuperCollider,F#,2012-03-02
+0.6,SuperCollider,Io,2012-03-02
+0.5,SuperCollider,Puppet,2012-03-02
+0.3,SuperCollider,Arc,2012-03-02
+0.2,SuperCollider,Factor,2012-03-02
+0.1,SuperCollider,Mirah,2012-03-02
+0.1,SuperCollider,Dylan,2012-03-02
+0.1,SuperCollider,ColdFusion,2012-03-02
+0.1,SuperCollider,ooc,2012-03-02
+0.1,SuperCollider,Fantom,2012-03-02
+91.6,Tcl,Shell,2012-03-02
+89.4,Tcl,C,2012-03-02
+80.9,Tcl,Python,2012-03-02
+72.4,Tcl,Perl,2012-03-02
+70.9,Tcl,C++,2012-03-02
+67.6,Tcl,JavaScript,2012-03-02
+57.9,Tcl,Java,2012-03-02
+56.2,Tcl,Ruby,2012-03-02
+46.2,Tcl,Emacs Lisp,2012-03-02
+43.2,Tcl,Assembly,2012-03-02
+40.4,Tcl,Objective-C,2012-03-02
+36.7,Tcl,PHP,2012-03-02
+31.1,Tcl,C#,2012-03-02
+24.9,Tcl,D,2012-03-02
+24.4,Tcl,Prolog,2012-03-02
+23.9,Tcl,VimL,2012-03-02
+19.6,Tcl,Rust,2012-03-02
+19.4,Tcl,Delphi,2012-03-02
+19.2,Tcl,Visual Basic,2012-03-02
+19.0,Tcl,Scheme,2012-03-02
+15.4,Tcl,Erlang,2012-03-02
+15.4,Tcl,Lua,2012-03-02
+15.0,Tcl,Verilog,2012-03-02
+14.7,Tcl,Ada,2012-03-02
+14.7,Tcl,ActionScript,2012-03-02
+14.7,Tcl,FORTRAN,2012-03-02
+14.3,Tcl,R,2012-03-02
+10.2,Tcl,Haskell,2012-03-02
+9.6,Tcl,CoffeeScript,2012-03-02
+8.8,Tcl,OCaml,2012-03-02
+8.5,Tcl,Common Lisp,2012-03-02
+7.8,Tcl,Matlab,2012-03-02
+7.6,Tcl,VHDL,2012-03-02
+7.1,Tcl,ASP,2012-03-02
+6.6,Tcl,Scala,2012-03-02
+6.3,Tcl,Clojure,2012-03-02
+6.1,Tcl,SuperCollider,2012-03-02
+5.4,Tcl,Smalltalk,2012-03-02
+5.3,Tcl,Go,2012-03-02
+4.2,Tcl,Groovy,2012-03-02
+3.6,Tcl,F#,2012-03-02
+3.3,Tcl,Eiffel,2012-03-02
+3.1,Tcl,Vala,2012-03-02
+2.2,Tcl,HaXe,2012-03-02
+2.1,Tcl,Nemerle,2012-03-02
+2.1,Tcl,Objective-J,2012-03-02
+2.0,Tcl,Standard ML,2012-03-02
+1.8,Tcl,Boo,2012-03-02
+1.8,Tcl,Racket,2012-03-02
+1.5,Tcl,Io,2012-03-02
+1.4,Tcl,Turing,2012-03-02
+1.2,Tcl,Rebol,2012-03-02
+1.2,Tcl,XQuery,2012-03-02
+1.2,Tcl,Pure Data,2012-03-02
+1.1,Tcl,Puppet,2012-03-02
+1.1,Tcl,Modelica,2012-03-02
+1.0,Tcl,ColdFusion,2012-03-02
+0.9,Tcl,Factor,2012-03-02
+0.9,Tcl,Arduino,2012-03-02
+0.9,Tcl,AutoHotkey,2012-03-02
+0.7,Tcl,Arc,2012-03-02
+0.7,Tcl,Nu,2012-03-02
+0.7,Tcl,Self,2012-03-02
+0.7,Tcl,Parrot,2012-03-02
+0.7,Tcl,Gosu,2012-03-02
+0.6,Tcl,ooc,2012-03-02
+0.5,Tcl,Dylan,2012-03-02
+0.5,Tcl,Mirah,2012-03-02
+0.4,Tcl,Ioke,2012-03-02
+0.2,Tcl,Opa,2012-03-02
+0.2,Tcl,Fancy,2012-03-02
+0.2,Tcl,Nimrod,2012-03-02
+0.1,Tcl,Fantom,2012-03-02
+97.0,Turing,Perl,2012-03-02
+94.4,Turing,Shell,2012-03-02
+87.9,Turing,C,2012-03-02
+74.7,Turing,C++,2012-03-02
+73.7,Turing,Python,2012-03-02
+66.2,Turing,JavaScript,2012-03-02
+65.2,Turing,Ruby,2012-03-02
+55.6,Turing,Java,2012-03-02
+52.5,Turing,Emacs Lisp,2012-03-02
+52.5,Turing,Assembly,2012-03-02
+44.4,Turing,VimL,2012-03-02
+44.4,Turing,Objective-C,2012-03-02
+41.9,Turing,PHP,2012-03-02
+39.4,Turing,Prolog,2012-03-02
+37.4,Turing,Rust,2012-03-02
+36.9,Turing,R,2012-03-02
+29.3,Turing,C#,2012-03-02
+28.3,Turing,Scheme,2012-03-02
+27.8,Turing,Parrot,2012-03-02
+27.8,Turing,SuperCollider,2012-03-02
+26.8,Turing,D,2012-03-02
+25.8,Turing,Delphi,2012-03-02
+25.8,Turing,OCaml,2012-03-02
+23.7,Turing,CoffeeScript,2012-03-02
+22.7,Turing,Matlab,2012-03-02
+22.2,Turing,Tcl,2012-03-02
+21.2,Turing,Nemerle,2012-03-02
+20.7,Turing,Erlang,2012-03-02
+19.7,Turing,Scala,2012-03-02
+19.7,Turing,Groovy,2012-03-02
+18.2,Turing,XQuery,2012-03-02
+18.2,Turing,Standard ML,2012-03-02
+17.7,Turing,Lua,2012-03-02
+17.2,Turing,Racket,2012-03-02
+16.7,Turing,Arduino,2012-03-02
+16.7,Turing,Gosu,2012-03-02
+16.2,Turing,AutoHotkey,2012-03-02
+16.2,Turing,Rebol,2012-03-02
+16.2,Turing,Nu,2012-03-02
+16.2,Turing,Ioke,2012-03-02
+13.6,Turing,Visual Basic,2012-03-02
+12.6,Turing,Haskell,2012-03-02
+11.1,Turing,Nimrod,2012-03-02
+10.1,Turing,FORTRAN,2012-03-02
+10.1,Turing,Ada,2012-03-02
+10.1,Turing,Go,2012-03-02
+8.6,Turing,ASP,2012-03-02
+7.6,Turing,Opa,2012-03-02
+7.6,Turing,Objective-J,2012-03-02
+6.6,Turing,ActionScript,2012-03-02
+6.1,Turing,Modelica,2012-03-02
+6.1,Turing,Smalltalk,2012-03-02
+5.6,Turing,Clojure,2012-03-02
+5.6,Turing,Common Lisp,2012-03-02
+5.1,Turing,HaXe,2012-03-02
+3.5,Turing,Vala,2012-03-02
+3.5,Turing,Self,2012-03-02
+2.5,Turing,Eiffel,2012-03-02
+2.5,Turing,Io,2012-03-02
+2.0,Turing,Arc,2012-03-02
+2.0,Turing,Boo,2012-03-02
+2.0,Turing,F#,2012-03-02
+2.0,Turing,Puppet,2012-03-02
+1.5,Turing,Verilog,2012-03-02
+1.5,Turing,Pure Data,2012-03-02
+1.5,Turing,ooc,2012-03-02
+1.0,Turing,VHDL,2012-03-02
+0.5,Turing,Fantom,2012-03-02
+0.5,Turing,Factor,2012-03-02
+0.5,Turing,Dylan,2012-03-02
+0.5,Turing,ColdFusion,2012-03-02
+80.7,VHDL,C,2012-03-02
+72.4,VHDL,Shell,2012-03-02
+63.9,VHDL,C++,2012-03-02
+61.7,VHDL,Python,2012-03-02
+45.5,VHDL,Perl,2012-03-02
+44.6,VHDL,Java,2012-03-02
+43.3,VHDL,JavaScript,2012-03-02
+42.8,VHDL,Assembly,2012-03-02
+39.5,VHDL,Tcl,2012-03-02
+33.9,VHDL,Ruby,2012-03-02
+33.7,VHDL,Objective-C,2012-03-02
+32.9,VHDL,PHP,2012-03-02
+31.5,VHDL,Verilog,2012-03-02
+26.4,VHDL,C#,2012-03-02
+23.7,VHDL,D,2012-03-02
+23.2,VHDL,VimL,2012-03-02
+21.8,VHDL,Lua,2012-03-02
+20.3,VHDL,FORTRAN,2012-03-02
+19.9,VHDL,Delphi,2012-03-02
+17.7,VHDL,Scheme,2012-03-02
+17.7,VHDL,R,2012-03-02
+17.5,VHDL,Haskell,2012-03-02
+17.2,VHDL,Visual Basic,2012-03-02
+16.7,VHDL,ASP,2012-03-02
+16.4,VHDL,OCaml,2012-03-02
+16.2,VHDL,Matlab,2012-03-02
+16.2,VHDL,Common Lisp,2012-03-02
+15.7,VHDL,Erlang,2012-03-02
+15.7,VHDL,Vala,2012-03-02
+14.3,VHDL,Prolog,2012-03-02
+12.6,VHDL,Groovy,2012-03-02
+11.9,VHDL,Emacs Lisp,2012-03-02
+11.8,VHDL,Scala,2012-03-02
+11.2,VHDL,ActionScript,2012-03-02
+10.9,VHDL,Boo,2012-03-02
+9.4,VHDL,Clojure,2012-03-02
+9.2,VHDL,Rust,2012-03-02
+8.9,VHDL,Eiffel,2012-03-02
+8.5,VHDL,HaXe,2012-03-02
+8.0,VHDL,CoffeeScript,2012-03-02
+7.5,VHDL,Smalltalk,2012-03-02
+7.0,VHDL,Objective-J,2012-03-02
+6.8,VHDL,ColdFusion,2012-03-02
+6.8,VHDL,Ada,2012-03-02
+5.6,VHDL,Go,2012-03-02
+5.6,VHDL,Nu,2012-03-02
+4.8,VHDL,F#,2012-03-02
+4.3,VHDL,Racket,2012-03-02
+3.7,VHDL,Factor,2012-03-02
+3.1,VHDL,SuperCollider,2012-03-02
+2.9,VHDL,Standard ML,2012-03-02
+2.7,VHDL,XQuery,2012-03-02
+2.7,VHDL,ooc,2012-03-02
+2.6,VHDL,Nemerle,2012-03-02
+2.6,VHDL,Rebol,2012-03-02
+2.4,VHDL,Dylan,2012-03-02
+2.4,VHDL,Ioke,2012-03-02
+2.0,VHDL,AutoHotkey,2012-03-02
+1.4,VHDL,Arduino,2012-03-02
+1.2,VHDL,Nimrod,2012-03-02
+1.0,VHDL,Puppet,2012-03-02
+1.0,VHDL,Gosu,2012-03-02
+0.9,VHDL,Io,2012-03-02
+0.7,VHDL,Parrot,2012-03-02
+0.3,VHDL,Arc,2012-03-02
+0.3,VHDL,Self,2012-03-02
+0.3,VHDL,Modelica,2012-03-02
+0.3,VHDL,Turing,2012-03-02
+0.2,VHDL,Opa,2012-03-02
+0.2,VHDL,Pure Data,2012-03-02
+89.7,Vala,Shell,2012-03-02
+82.6,Vala,C,2012-03-02
+76.8,Vala,Python,2012-03-02
+59.6,Vala,JavaScript,2012-03-02
+59.6,Vala,C++,2012-03-02
+56.0,Vala,Perl,2012-03-02
+46.5,Vala,Ruby,2012-03-02
+45.9,Vala,PHP,2012-03-02
+45.9,Vala,Java,2012-03-02
+34.9,Vala,C#,2012-03-02
+34.9,Vala,Lua,2012-03-02
+33.7,Vala,Objective-C,2012-03-02
+33.5,Vala,Assembly,2012-03-02
+32.9,Vala,D,2012-03-02
+30.3,Vala,VimL,2012-03-02
+24.6,Vala,R,2012-03-02
+24.0,Vala,Scheme,2012-03-02
+22.4,Vala,FORTRAN,2012-03-02
+22.4,Vala,Common Lisp,2012-03-02
+21.6,Vala,Haskell,2012-03-02
+21.4,Vala,Delphi,2012-03-02
+20.0,Vala,Emacs Lisp,2012-03-02
+19.4,Vala,Tcl,2012-03-02
+19.2,Vala,Erlang,2012-03-02
+19.0,Vala,OCaml,2012-03-02
+18.6,Vala,VHDL,2012-03-02
+18.0,Vala,Visual Basic,2012-03-02
+17.4,Vala,Scala,2012-03-02
+16.4,Vala,ASP,2012-03-02
+15.6,Vala,Boo,2012-03-02
+15.4,Vala,Rust,2012-03-02
+15.4,Vala,Groovy,2012-03-02
+13.7,Vala,Prolog,2012-03-02
+13.5,Vala,ActionScript,2012-03-02
+12.1,Vala,Clojure,2012-03-02
+11.3,Vala,Go,2012-03-02
+10.5,Vala,CoffeeScript,2012-03-02
+10.1,Vala,Smalltalk,2012-03-02
+9.7,Vala,Matlab,2012-03-02
+9.5,Vala,HaXe,2012-03-02
+8.7,Vala,ColdFusion,2012-03-02
+8.3,Vala,Objective-J,2012-03-02
+8.1,Vala,Ada,2012-03-02
+7.7,Vala,Nu,2012-03-02
+7.3,Vala,Eiffel,2012-03-02
+7.1,Vala,F#,2012-03-02
+6.1,Vala,Racket,2012-03-02
+5.1,Vala,SuperCollider,2012-03-02
+4.6,Vala,Factor,2012-03-02
+4.0,Vala,Rebol,2012-03-02
+3.6,Vala,ooc,2012-03-02
+3.4,Vala,XQuery,2012-03-02
+3.4,Vala,Nemerle,2012-03-02
+3.0,Vala,Ioke,2012-03-02
+2.8,Vala,Dylan,2012-03-02
+2.8,Vala,Verilog,2012-03-02
+2.6,Vala,Standard ML,2012-03-02
+2.6,Vala,AutoHotkey,2012-03-02
+2.2,Vala,Self,2012-03-02
+1.8,Vala,Gosu,2012-03-02
+1.6,Vala,Nimrod,2012-03-02
+1.4,Vala,Turing,2012-03-02
+1.4,Vala,Parrot,2012-03-02
+1.4,Vala,Modelica,2012-03-02
+1.2,Vala,Io,2012-03-02
+0.8,Vala,Puppet,2012-03-02
+0.8,Vala,Arduino,2012-03-02
+0.6,Vala,Arc,2012-03-02
+0.4,Vala,Mirah,2012-03-02
+0.2,Vala,Opa,2012-03-02
+0.2,Vala,Fantom,2012-03-02
+84.1,Verilog,C,2012-03-02
+81.8,Verilog,Shell,2012-03-02
+69.7,Verilog,C++,2012-03-02
+69.1,Verilog,Python,2012-03-02
+64.7,Verilog,Perl,2012-03-02
+56.7,Verilog,Assembly,2012-03-02
+52.7,Verilog,JavaScript,2012-03-02
+51.6,Verilog,Java,2012-03-02
+46.8,Verilog,Objective-C,2012-03-02
+42.8,Verilog,Tcl,2012-03-02
+42.7,Verilog,Ruby,2012-03-02
+36.6,Verilog,C#,2012-03-02
+33.4,Verilog,Emacs Lisp,2012-03-02
+31.6,Verilog,D,2012-03-02
+29.5,Verilog,Prolog,2012-03-02
+28.8,Verilog,Visual Basic,2012-03-02
+27.3,Verilog,Delphi,2012-03-02
+25.4,Verilog,ActionScript,2012-03-02
+24.9,Verilog,Ada,2012-03-02
+23.7,Verilog,PHP,2012-03-02
+18.5,Verilog,Rust,2012-03-02
+17.2,Verilog,VHDL,2012-03-02
+15.0,Verilog,VimL,2012-03-02
+13.8,Verilog,Haskell,2012-03-02
+12.8,Verilog,OCaml,2012-03-02
+10.5,Verilog,FORTRAN,2012-03-02
+9.9,Verilog,Scheme,2012-03-02
+8.3,Verilog,Lua,2012-03-02
+7.6,Verilog,Erlang,2012-03-02
+7.5,Verilog,Matlab,2012-03-02
+6.8,Verilog,ASP,2012-03-02
+6.2,Verilog,Scala,2012-03-02
+5.3,Verilog,R,2012-03-02
+5.0,Verilog,SuperCollider,2012-03-02
+4.7,Verilog,Common Lisp,2012-03-02
+4.7,Verilog,Go,2012-03-02
+4.4,Verilog,Eiffel,2012-03-02
+3.9,Verilog,Smalltalk,2012-03-02
+3.0,Verilog,CoffeeScript,2012-03-02
+2.9,Verilog,Standard ML,2012-03-02
+2.4,Verilog,F#,2012-03-02
+2.2,Verilog,Groovy,2012-03-02
+1.8,Verilog,HaXe,2012-03-02
+1.8,Verilog,Clojure,2012-03-02
+1.3,Verilog,Vala,2012-03-02
+1.2,Verilog,Racket,2012-03-02
+1.2,Verilog,Puppet,2012-03-02
+1.1,Verilog,ColdFusion,2012-03-02
+1.0,Verilog,Objective-J,2012-03-02
+0.9,Verilog,XQuery,2012-03-02
+0.9,Verilog,Boo,2012-03-02
+0.8,Verilog,Arduino,2012-03-02
+0.7,Verilog,Nemerle,2012-03-02
+0.7,Verilog,Pure Data,2012-03-02
+0.5,Verilog,Parrot,2012-03-02
+0.4,Verilog,Nu,2012-03-02
+0.4,Verilog,Modelica,2012-03-02
+0.4,Verilog,Factor,2012-03-02
+0.4,Verilog,ooc,2012-03-02
+0.3,Verilog,Turing,2012-03-02
+0.3,Verilog,Rebol,2012-03-02
+0.3,Verilog,Dylan,2012-03-02
+0.3,Verilog,Gosu,2012-03-02
+0.3,Verilog,Io,2012-03-02
+0.3,Verilog,Arc,2012-03-02
+0.2,Verilog,AutoHotkey,2012-03-02
+0.1,Verilog,Self,2012-03-02
+0.1,Verilog,Opa,2012-03-02
+0.1,Verilog,Ioke,2012-03-02
+0.1,Verilog,Fantom,2012-03-02
+78.9,VimL,Shell,2012-03-02
+60.7,VimL,JavaScript,2012-03-02
+58.8,VimL,Python,2012-03-02
+53.5,VimL,Ruby,2012-03-02
+48.8,VimL,C,2012-03-02
+34.9,VimL,Perl,2012-03-02
+31.9,VimL,C++,2012-03-02
+26.4,VimL,PHP,2012-03-02
+25.4,VimL,Java,2012-03-02
+21.1,VimL,Objective-C,2012-03-02
+17.3,VimL,Emacs Lisp,2012-03-02
+13.5,VimL,Assembly,2012-03-02
+13.4,VimL,CoffeeScript,2012-03-02
+9.5,VimL,C#,2012-03-02
+9.2,VimL,ASP,2012-03-02
+9.0,VimL,Haskell,2012-03-02
+7.7,VimL,Lua,2012-03-02
+7.3,VimL,SuperCollider,2012-03-02
+6.4,VimL,Rust,2012-03-02
+5.6,VimL,Prolog,2012-03-02
+5.5,VimL,Scheme,2012-03-02
+5.4,VimL,Visual Basic,2012-03-02
+5.1,VimL,D,2012-03-02
+4.5,VimL,Erlang,2012-03-02
+4.1,VimL,Scala,2012-03-02
+3.9,VimL,ActionScript,2012-03-02
+3.9,VimL,Clojure,2012-03-02
+3.5,VimL,Tcl,2012-03-02
+3.4,VimL,R,2012-03-02
+2.8,VimL,Common Lisp,2012-03-02
+2.7,VimL,OCaml,2012-03-02
+2.3,VimL,Go,2012-03-02
+2.2,VimL,Groovy,2012-03-02
+2.1,VimL,Delphi,2012-03-02
+2.1,VimL,FORTRAN,2012-03-02
+1.9,VimL,Smalltalk,2012-03-02
+1.7,VimL,Matlab,2012-03-02
+1.4,VimL,Puppet,2012-03-02
+1.3,VimL,Objective-J,2012-03-02
+1.0,VimL,Ada,2012-03-02
+0.9,VimL,Modelica,2012-03-02
+0.9,VimL,HaXe,2012-03-02
+0.9,VimL,F#,2012-03-02
+0.8,VimL,Io,2012-03-02
+0.8,VimL,Racket,2012-03-02
+0.8,VimL,Verilog,2012-03-02
+0.7,VimL,Vala,2012-03-02
+0.6,VimL,VHDL,2012-03-02
+0.6,VimL,ColdFusion,2012-03-02
+0.6,VimL,AutoHotkey,2012-03-02
+0.6,VimL,Boo,2012-03-02
+0.5,VimL,Nemerle,2012-03-02
+0.5,VimL,Rebol,2012-03-02
+0.5,VimL,Standard ML,2012-03-02
+0.5,VimL,Parrot,2012-03-02
+0.5,VimL,Nu,2012-03-02
+0.5,VimL,Arduino,2012-03-02
+0.4,VimL,XQuery,2012-03-02
+0.4,VimL,Eiffel,2012-03-02
+0.4,VimL,Gosu,2012-03-02
+0.4,VimL,Turing,2012-03-02
+0.3,VimL,Ioke,2012-03-02
+0.3,VimL,Factor,2012-03-02
+0.2,VimL,ooc,2012-03-02
+0.2,VimL,Arc,2012-03-02
+0.2,VimL,Pure Data,2012-03-02
+0.2,VimL,Self,2012-03-02
+0.1,VimL,Nimrod,2012-03-02
+0.1,VimL,Mirah,2012-03-02
+0.1,VimL,Dylan,2012-03-02
+0.1,VimL,Opa,2012-03-02
+0.1,VimL,Fancy,2012-03-02
+75.5,Visual Basic,Shell,2012-03-02
+69.5,Visual Basic,JavaScript,2012-03-02
+61.9,Visual Basic,C,2012-03-02
+58.5,Visual Basic,Python,2012-03-02
+52.2,Visual Basic,C++,2012-03-02
+49.9,Visual Basic,Ruby,2012-03-02
+47.8,Visual Basic,C#,2012-03-02
+46.4,Visual Basic,Perl,2012-03-02
+40.4,Visual Basic,Java,2012-03-02
+34.0,Visual Basic,PHP,2012-03-02
+27.1,Visual Basic,Objective-C,2012-03-02
+26.0,Visual Basic,ASP,2012-03-02
+25.3,Visual Basic,VimL,2012-03-02
+23.5,Visual Basic,Assembly,2012-03-02
+21.8,Visual Basic,Emacs Lisp,2012-03-02
+17.3,Visual Basic,Rust,2012-03-02
+17.1,Visual Basic,D,2012-03-02
+16.3,Visual Basic,Delphi,2012-03-02
+13.1,Visual Basic,Tcl,2012-03-02
+12.9,Visual Basic,Prolog,2012-03-02
+12.6,Visual Basic,ActionScript,2012-03-02
+12.0,Visual Basic,Lua,2012-03-02
+9.2,Visual Basic,Ada,2012-03-02
+9.1,Visual Basic,CoffeeScript,2012-03-02
+7.8,Visual Basic,Haskell,2012-03-02
+7.3,Visual Basic,Scala,2012-03-02
+7.2,Visual Basic,Scheme,2012-03-02
+6.9,Visual Basic,Verilog,2012-03-02
+6.6,Visual Basic,Erlang,2012-03-02
+6.3,Visual Basic,Clojure,2012-03-02
+6.2,Visual Basic,Common Lisp,2012-03-02
+5.9,Visual Basic,R,2012-03-02
+5.7,Visual Basic,Groovy,2012-03-02
+5.5,Visual Basic,FORTRAN,2012-03-02
+5.4,Visual Basic,OCaml,2012-03-02
+4.9,Visual Basic,F#,2012-03-02
+4.6,Visual Basic,Boo,2012-03-02
+4.2,Visual Basic,Smalltalk,2012-03-02
+3.8,Visual Basic,Go,2012-03-02
+3.1,Visual Basic,Matlab,2012-03-02
+2.5,Visual Basic,ColdFusion,2012-03-02
+2.3,Visual Basic,VHDL,2012-03-02
+2.0,Visual Basic,Vala,2012-03-02
+1.9,Visual Basic,Eiffel,2012-03-02
+1.8,Visual Basic,HaXe,2012-03-02
+1.8,Visual Basic,Objective-J,2012-03-02
+1.7,Visual Basic,SuperCollider,2012-03-02
+1.5,Visual Basic,Modelica,2012-03-02
+1.5,Visual Basic,XQuery,2012-03-02
+1.5,Visual Basic,Factor,2012-03-02
+1.4,Visual Basic,Racket,2012-03-02
+1.4,Visual Basic,Nemerle,2012-03-02
+1.3,Visual Basic,Puppet,2012-03-02
+1.1,Visual Basic,AutoHotkey,2012-03-02
+1.0,Visual Basic,Gosu,2012-03-02
+1.0,Visual Basic,Rebol,2012-03-02
+1.0,Visual Basic,Nu,2012-03-02
+0.8,Visual Basic,Parrot,2012-03-02
+0.7,Visual Basic,Standard ML,2012-03-02
+0.7,Visual Basic,Dylan,2012-03-02
+0.7,Visual Basic,Io,2012-03-02
+0.6,Visual Basic,Turing,2012-03-02
+0.6,Visual Basic,ooc,2012-03-02
+0.5,Visual Basic,Ioke,2012-03-02
+0.4,Visual Basic,Arduino,2012-03-02
+0.2,Visual Basic,Nimrod,2012-03-02
+0.2,Visual Basic,Self,2012-03-02
+0.2,Visual Basic,Pure Data,2012-03-02
+0.2,Visual Basic,Arc,2012-03-02
+0.1,Visual Basic,Mirah,2012-03-02
+0.1,Visual Basic,Fancy,2012-03-02
+85.5,XQuery,JavaScript,2012-03-02
+83.4,XQuery,Shell,2012-03-02
+73.7,XQuery,Java,2012-03-02
+66.8,XQuery,PHP,2012-03-02
+65.9,XQuery,Python,2012-03-02
+63.7,XQuery,Ruby,2012-03-02
+61.6,XQuery,Perl,2012-03-02
+53.8,XQuery,C,2012-03-02
+51.4,XQuery,C++,2012-03-02
+36.6,XQuery,Objective-C,2012-03-02
+34.7,XQuery,Scala,2012-03-02
+32.3,XQuery,Prolog,2012-03-02
+31.7,XQuery,Assembly,2012-03-02
+29.6,XQuery,Groovy,2012-03-02
+29.3,XQuery,ActionScript,2012-03-02
+29.0,XQuery,CoffeeScript,2012-03-02
+28.1,XQuery,VimL,2012-03-02
+28.1,XQuery,Emacs Lisp,2012-03-02
+26.9,XQuery,Delphi,2012-03-02
+26.3,XQuery,C#,2012-03-02
+26.3,XQuery,R,2012-03-02
+25.4,XQuery,Rust,2012-03-02
+23.0,XQuery,Scheme,2012-03-02
+22.1,XQuery,OCaml,2012-03-02
+19.9,XQuery,Visual Basic,2012-03-02
+19.3,XQuery,Ioke,2012-03-02
+18.7,XQuery,Racket,2012-03-02
+18.7,XQuery,Rebol,2012-03-02
+18.1,XQuery,Nu,2012-03-02
+17.8,XQuery,Nemerle,2012-03-02
+17.5,XQuery,AutoHotkey,2012-03-02
+16.0,XQuery,Matlab,2012-03-02
+15.4,XQuery,Standard ML,2012-03-02
+15.1,XQuery,ASP,2012-03-02
+15.1,XQuery,Gosu,2012-03-02
+14.8,XQuery,Haskell,2012-03-02
+14.8,XQuery,SuperCollider,2012-03-02
+14.5,XQuery,Parrot,2012-03-02
+14.2,XQuery,D,2012-03-02
+13.9,XQuery,Erlang,2012-03-02
+13.0,XQuery,Clojure,2012-03-02
+11.5,XQuery,Lua,2012-03-02
+11.5,XQuery,FORTRAN,2012-03-02
+10.9,XQuery,Tcl,2012-03-02
+10.9,XQuery,Arduino,2012-03-02
+10.9,XQuery,Turing,2012-03-02
+10.6,XQuery,Common Lisp,2012-03-02
+8.8,XQuery,Nimrod,2012-03-02
+8.2,XQuery,Smalltalk,2012-03-02
+7.6,XQuery,ColdFusion,2012-03-02
+6.9,XQuery,HaXe,2012-03-02
+6.9,XQuery,Go,2012-03-02
+6.6,XQuery,Objective-J,2012-03-02
+6.6,XQuery,Boo,2012-03-02
+6.3,XQuery,Ada,2012-03-02
+5.1,XQuery,Vala,2012-03-02
+4.8,XQuery,VHDL,2012-03-02
+4.5,XQuery,Opa,2012-03-02
+3.9,XQuery,Factor,2012-03-02
+3.6,XQuery,ooc,2012-03-02
+3.3,XQuery,F#,2012-03-02
+3.0,XQuery,Puppet,2012-03-02
+3.0,XQuery,Verilog,2012-03-02
+2.1,XQuery,Modelica,2012-03-02
+1.8,XQuery,Dylan,2012-03-02
+0.9,XQuery,Io,2012-03-02
+0.9,XQuery,Eiffel,2012-03-02
+0.9,XQuery,Self,2012-03-02
+0.6,XQuery,Fancy,2012-03-02
+0.6,XQuery,Fantom,2012-03-02
+0.3,XQuery,Pure Data,2012-03-02
+0.3,XQuery,Arc,2012-03-02
+85.3,ooc,Python,2012-03-02
+85.3,ooc,Shell,2012-03-02
+83.2,ooc,C,2012-03-02
+82.1,ooc,Ruby,2012-03-02
+80.0,ooc,JavaScript,2012-03-02
+70.5,ooc,C++,2012-03-02
+57.9,ooc,Java,2012-03-02
+55.8,ooc,Perl,2012-03-02
+51.6,ooc,PHP,2012-03-02
+51.6,ooc,Objective-C,2012-03-02
+43.2,ooc,VimL,2012-03-02
+41.1,ooc,Lua,2012-03-02
+38.9,ooc,Haskell,2012-03-02
+36.8,ooc,Common Lisp,2012-03-02
+34.7,ooc,Go,2012-03-02
+34.7,ooc,C#,2012-03-02
+31.6,ooc,Assembly,2012-03-02
+30.5,ooc,Erlang,2012-03-02
+30.5,ooc,CoffeeScript,2012-03-02
+29.5,ooc,Groovy,2012-03-02
+28.4,ooc,Visual Basic,2012-03-02
+26.3,ooc,D,2012-03-02
+25.3,ooc,Scala,2012-03-02
+25.3,ooc,Prolog,2012-03-02
+25.3,ooc,Scheme,2012-03-02
+23.2,ooc,ActionScript,2012-03-02
+23.2,ooc,Emacs Lisp,2012-03-02
+23.2,ooc,Clojure,2012-03-02
+23.2,ooc,FORTRAN,2012-03-02
+22.1,ooc,Delphi,2012-03-02
+21.1,ooc,OCaml,2012-03-02
+20.0,ooc,Racket,2012-03-02
+20.0,ooc,R,2012-03-02
+18.9,ooc,Vala,2012-03-02
+17.9,ooc,Boo,2012-03-02
+17.9,ooc,Tcl,2012-03-02
+16.8,ooc,VHDL,2012-03-02
+16.8,ooc,HaXe,2012-03-02
+16.8,ooc,ColdFusion,2012-03-02
+16.8,ooc,ASP,2012-03-02
+14.7,ooc,Rust,2012-03-02
+14.7,ooc,Nu,2012-03-02
+12.6,ooc,XQuery,2012-03-02
+12.6,ooc,Objective-J,2012-03-02
+11.6,ooc,Ioke,2012-03-02
+11.6,ooc,Nemerle,2012-03-02
+9.5,ooc,AutoHotkey,2012-03-02
+8.4,ooc,Io,2012-03-02
+7.4,ooc,Factor,2012-03-02
+6.3,ooc,Smalltalk,2012-03-02
+6.3,ooc,Rebol,2012-03-02
+5.3,ooc,Nimrod,2012-03-02
+4.2,ooc,Verilog,2012-03-02
+4.2,ooc,F#,2012-03-02
+4.2,ooc,Eiffel,2012-03-02
+4.2,ooc,Puppet,2012-03-02
+4.2,ooc,Self,2012-03-02
+4.2,ooc,Matlab,2012-03-02
+3.2,ooc,Ada,2012-03-02
+3.2,ooc,Parrot,2012-03-02
+3.2,ooc,Turing,2012-03-02
+3.2,ooc,Gosu,2012-03-02
+2.1,ooc,Standard ML,2012-03-02
+2.1,ooc,SuperCollider,2012-03-02
+1.1,ooc,Arc,2012-03-02
+1.1,ooc,Arduino,2012-03-02
+1.1,ooc,Mirah,2012-03-02

@@ -1,0 +1,92 @@
+
+1. Data aquisition
+- mining project GitHub Archive (http://www.githubarchive.org/)
+- data is hosted in the Google Cloud
+- access with BigQuery tool/API (https://bigquery.cloud.google.com/)
+- you need a Google Account if you want to use BigQuery
+- tables language_correlation, timeline
+
+SELECT repository_owner, repository_name
+FROM [publicdata:samples.github_timeline]
+WHERE repository_language = '?'
+GROUP BY repository_owner, repository_name
+ORDER BY repository_owner, repository_name // vary language
+Clojure:2622 pairs
+Scala:3477
+Groovy:1673
+Haskell:2946
+F#:211
+R:991
+Java:45607
+Racket:184
+Ruby:71207
+OCaml:485
+Standard ML:59
+Common Lisp:909
+Coq:48
+Emacs Lisp:3998
+Erlang:2103
+Fantom:2
+Ioke:6
+Kotlin:7
+Mirah:7
+Rust:162
+Scheme:410
+XQuery:53
+Arc:20
+
+
+Query GitHub API (http://developer.github.com/):
+- HTTP API, JSON result
+- get contributors to repo:
+https://api.github.com/repos/:user/:repo/contributors
+- get repositories of owner:
+https://api.github.com/users/:user/repos
+https://api.github.com/orgs/:org/repos
+- get owner info:
+https://api.github.com/users/:user
+
+
+- Depending on the dataset (language) you may need to manually remove users (and the associated repos) because the user does not exist anymore (e.g. account deleted). But it is still to be found in the github timeline (that is the role of an archive after all).
+
+
+- install sqlite3 (http://www.sqlite.org/)
+- open a command/terminal, navigate to folder db
+- create a new database with the command:
+sqlite3 github.db
+- copy sql commands from the file create_tables.sql and enter them in the sqlite3 database
+- to get help on the command line, type:
+.help
+
+
+- dataset-creator subproject (in Clojure)
+- optionally install Clojure 1.4 (http://clojure.org/)
+- install the build tool Leiningen (http://leiningen.org/); follow the instructions in the install section
+- first time you'll use lein, it will take a long time (be patient); it installs itself and downloads all needed libraries for itself (a lot) and for the project (just a few)
+- optionally, if you want to understand how lein works, then head to the tutorial section
+- navigate to the dataset-creator folder and type lein repl
+- call Clojure functions on the command line
+
+workflow (alternate commands in terminals - sqlite3 commands are optional, they are just to verify data saved to database):
+repl>(racket-users)
+sqlite3>select * from users;
+In case of errors (e.g. timeout error), given that we have all the logins of the users you can retry with
+repl>(fetch-missing-users "path-to-file")
+
+repl>(racket-repos)
+sqlite3>select * from repos;
+In case of errors (e.g. timeout error), given that we have all the logins of the users you can retry with
+repl>(fetch-missing-repos "language...")
+
+repl>(racket-contribs)
+sqlite3>select count(*) from contribs;
+repl>(select-contribs)
+
+Finally generate the two gml files
+repl>(gen-users-file)
+repl>(gen-repos-file)
+
+- tip: the command (pst *e) prints the last stacktrace; it might come handy when troubleshooting.
+- to quit the repl type (quit)
+
+
